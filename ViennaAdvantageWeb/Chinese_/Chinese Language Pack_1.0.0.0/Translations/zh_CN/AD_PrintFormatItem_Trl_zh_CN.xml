@@ -1,0 +1,1793 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_PrintFormatItem">
+  <row id="185" trl="N" eid="VIS_185">
+    <value column="PrintName" original="Address">Address</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1015267" trl="N" eid="VIS_1015267">
+    <value column="PrintName" original="SKU">SKU</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1015278" trl="N" eid="VIS_1015278">
+    <value column="PrintName" original="UPC">UPC</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1015282" trl="N" eid="VIS_1015282">
+    <value column="PrintName" original="SearchKey">SearchKey</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018900" trl="N" eid="VIS_1018900">
+    <value column="PrintName" original="Prepared By :_____________">Prepared By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018901" trl="N" eid="VIS_1018901">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018902" trl="N" eid="VIS_1018902">
+    <value column="PrintName" original="Amount In Words :">Amount In Words :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018904" trl="N" eid="VIS_1018904">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018905" trl="N" eid="VIS_1018905">
+    <value column="PrintName" original="Fax:">Fax:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018906" trl="N" eid="VIS_1018906">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018907" trl="N" eid="VIS_1018907">
+    <value column="PrintName" original="Payment Term:">Payment Term:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018908" trl="N" eid="VIS_1018908">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018909" trl="N" eid="VIS_1018909">
+    <value column="PrintName" original="Currency :">Currency :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018910" trl="N" eid="VIS_1018910">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018911" trl="N" eid="VIS_1018911">
+    <value column="PrintName" original="Quot. Ref. :">Quot. Ref. :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018912" trl="N" eid="VIS_1018912">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018913" trl="N" eid="VIS_1018913">
+    <value column="PrintName" original="Sales Rep.:">Sales Rep.:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018914" trl="N" eid="VIS_1018914">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018915" trl="N" eid="VIS_1018915">
+    <value column="PrintName" original="User/Contact :">User/Contact :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018916" trl="N" eid="VIS_1018916">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018917" trl="N" eid="VIS_1018917">
+    <value column="PrintName" original="Fax:">Fax:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018918" trl="N" eid="VIS_1018918">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018919" trl="N" eid="VIS_1018919">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018920" trl="N" eid="VIS_1018920">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018921" trl="N" eid="VIS_1018921">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018922" trl="N" eid="VIS_1018922">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018923" trl="N" eid="VIS_1018923">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018924" trl="N" eid="VIS_1018924">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018925" trl="N" eid="VIS_1018925">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018926" trl="N" eid="VIS_1018926">
+    <value column="PrintName" original="Ship To:">Ship To:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018927" trl="N" eid="VIS_1018927">
+    <value column="PrintName" original="Bill To:">Bill To:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018928" trl="N" eid="VIS_1018928">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018929" trl="N" eid="VIS_1018929">
+    <value column="PrintName" original="Date:">Date:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018930" trl="N" eid="VIS_1018930">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018931" trl="N" eid="VIS_1018931">
+    <value column="PrintName" original="Quotation No :">Quotation No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018932" trl="N" eid="VIS_1018932">
+    <value column="PrintName" original="SALES QUOTATION">SALES QUOTATION</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018933" trl="N" eid="VIS_1018933">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018934" trl="N" eid="VIS_1018934">
+    <value column="PrintName" original="Tax ID:">Tax ID:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018935" trl="N" eid="VIS_1018935">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018937" trl="N" eid="VIS_1018937">
+    <value column="PrintName" original="Total">Total</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018938" trl="N" eid="VIS_1018938">
+    <value column="PrintName" original="LineAmt">LineAmt</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018939" trl="N" eid="VIS_1018939">
+    <value column="PrintName" original="TaxAmt">TaxAmt</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018941" trl="N" eid="VIS_1018941">
+    <value column="PrintName" original="Discount">Discount</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018942" trl="N" eid="VIS_1018942">
+    <value column="PrintName" original="Qty">Qty</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018943" trl="N" eid="VIS_1018943">
+    <value column="PrintName" original="UnitPrice">UnitPrice</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018944" trl="N" eid="VIS_1018944">
+    <value column="PrintName" original="ListPrice">ListPrice</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018945" trl="N" eid="VIS_1018945">
+    <value column="PrintName" original="UOM">UOM</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018946" trl="N" eid="VIS_1018946">
+    <value column="PrintName" original="Approved By :_____________">Approved By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1018949" trl="N" eid="VIS_1018949">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019169" trl="N" eid="VIS_1019169">
+    <value column="PrintName" original="sales@democompany.com">sales@democompany.com</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019170" trl="N" eid="VIS_1019170">
+    <value column="PrintName" original="SALES ORDER">SALES ORDER</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019171" trl="N" eid="VIS_1019171">
+    <value column="PrintName" original="Order No :">Order No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019172" trl="N" eid="VIS_1019172">
+    <value column="PrintName" original="Product">Product</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019173" trl="N" eid="VIS_1019173">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019174" trl="N" eid="VIS_1019174">
+    <value column="PrintName" original="UOM">UOM</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019175" trl="N" eid="VIS_1019175">
+    <value column="PrintName" original="ListPrice">ListPrice</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019176" trl="N" eid="VIS_1019176">
+    <value column="PrintName" original="Date:">Date:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019177" trl="N" eid="VIS_1019177">
+    <value column="PrintName" original="UnitPrice">UnitPrice</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019178" trl="N" eid="VIS_1019178">
+    <value column="PrintName" original="Qty">Qty</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019179" trl="N" eid="VIS_1019179">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019180" trl="N" eid="VIS_1019180">
+    <value column="PrintName" original="Discount">Discount</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019181" trl="N" eid="VIS_1019181">
+    <value column="PrintName" original="Bill To:">Bill To:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019182" trl="N" eid="VIS_1019182">
+    <value column="PrintName" original="Tax(%)">Tax(%)</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019183" trl="N" eid="VIS_1019183">
+    <value column="PrintName" original="Ship To:">Ship To:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019184" trl="N" eid="VIS_1019184">
+    <value column="PrintName" original="TaxAmt">TaxAmt</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019185" trl="N" eid="VIS_1019185">
+    <value column="PrintName" original="LineAmt">LineAmt</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019186" trl="N" eid="VIS_1019186">
+    <value column="PrintName" original="Total">Total</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019187" trl="N" eid="VIS_1019187">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019188" trl="N" eid="VIS_1019188">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019189" trl="N" eid="VIS_1019189">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019191" trl="N" eid="VIS_1019191">
+    <value column="PrintName" original="Phone 01 1895623 Fax 04 444 44444">Phone 01 1895623 Fax 04 444 44444</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019192" trl="N" eid="VIS_1019192">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019193" trl="N" eid="VIS_1019193">
+    <value column="PrintName" original="sales@democompany.com">sales@democompany.com</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019194" trl="N" eid="VIS_1019194">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019195" trl="N" eid="VIS_1019195">
+    <value column="PrintName" original="TAX INVOICE">TAX INVOICE</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019196" trl="N" eid="VIS_1019196">
+    <value column="PrintName" original="Invoice No :">Invoice No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019197" trl="N" eid="VIS_1019197">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019198" trl="N" eid="VIS_1019198">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019199" trl="N" eid="VIS_1019199">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019200" trl="N" eid="VIS_1019200">
+    <value column="PrintName" original="Date:">Date:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019201" trl="N" eid="VIS_1019201">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019202" trl="N" eid="VIS_1019202">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019203" trl="N" eid="VIS_1019203">
+    <value column="PrintName" original="Fax:">Fax:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019204" trl="N" eid="VIS_1019204">
+    <value column="PrintName" original="Bill To:">Bill To:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019205" trl="N" eid="VIS_1019205">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019206" trl="N" eid="VIS_1019206">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019207" trl="N" eid="VIS_1019207">
+    <value column="PrintName" original="User/Contact :">User/Contact :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019208" trl="N" eid="VIS_1019208">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019209" trl="N" eid="VIS_1019209">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019210" trl="N" eid="VIS_1019210">
+    <value column="PrintName" original="Sales Rep.:">Sales Rep.:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019211" trl="N" eid="VIS_1019211">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019212" trl="N" eid="VIS_1019212">
+    <value column="PrintName" original="Quot. Ref. :">Quot. Ref. :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019213" trl="N" eid="VIS_1019213">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019214" trl="N" eid="VIS_1019214">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019215" trl="N" eid="VIS_1019215">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019216" trl="N" eid="VIS_1019216">
+    <value column="PrintName" original="Currency :">Currency :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019217" trl="N" eid="VIS_1019217">
+    <value column="PrintName" original="User/Contact :">User/Contact :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019218" trl="N" eid="VIS_1019218">
+    <value column="PrintName" original="Total($)  -">Total($)  -</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019219" trl="N" eid="VIS_1019219">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019220" trl="N" eid="VIS_1019220">
+    <value column="PrintName" original="Payment Term:">Payment Term:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019221" trl="N" eid="VIS_1019221">
+    <value column="PrintName" original="Sales Rep.:">Sales Rep.:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019222" trl="N" eid="VIS_1019222">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019223" trl="N" eid="VIS_1019223">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019224" trl="N" eid="VIS_1019224">
+    <value column="PrintName" original="Fax:">Fax:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019225" trl="N" eid="VIS_1019225">
+    <value column="PrintName" original="Quot. Ref. :">Quot. Ref. :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019226" trl="N" eid="VIS_1019226">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019227" trl="N" eid="VIS_1019227">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019228" trl="N" eid="VIS_1019228">
+    <value column="PrintName" original="Currency :">Currency :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019229" trl="N" eid="VIS_1019229">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019232" trl="N" eid="VIS_1019232">
+    <value column="PrintName" original="Fax:">Fax:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019233" trl="N" eid="VIS_1019233">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019235" trl="N" eid="VIS_1019235">
+    <value column="PrintName" original="Amount In Words :">Amount In Words :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019236" trl="N" eid="VIS_1019236">
+    <value column="PrintName" original="Product">Product</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019237" trl="N" eid="VIS_1019237">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019238" trl="N" eid="VIS_1019238">
+    <value column="PrintName" original="UOM">UOM</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019241" trl="N" eid="VIS_1019241">
+    <value column="PrintName" original="ListPrice">ListPrice</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019242" trl="N" eid="VIS_1019242">
+    <value column="PrintName" original="UnitPrice">UnitPrice</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019243" trl="N" eid="VIS_1019243">
+    <value column="PrintName" original="Qty">Qty</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019244" trl="N" eid="VIS_1019244">
+    <value column="PrintName" original="Discount">Discount</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019245" trl="N" eid="VIS_1019245">
+    <value column="PrintName" original="Tax(%)">Tax(%)</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019246" trl="N" eid="VIS_1019246">
+    <value column="PrintName" original="TaxAmt">TaxAmt</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019247" trl="N" eid="VIS_1019247">
+    <value column="PrintName" original="LineAmt">LineAmt</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019248" trl="N" eid="VIS_1019248">
+    <value column="PrintName" original="Total">Total</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019249" trl="N" eid="VIS_1019249">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019250" trl="N" eid="VIS_1019250">
+    <value column="PrintName" original="Amount In Words :">Amount In Words :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019251" trl="N" eid="VIS_1019251">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019252" trl="N" eid="VIS_1019252">
+    <value column="PrintName" original="Prepared By :_____________">Prepared By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1019253" trl="N" eid="VIS_1019253">
+    <value column="PrintName" original="Approved By :_____________">Approved By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020369" trl="N" eid="VIS_1020369">
+    <value column="PrintName" original="Product">Product</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020370" trl="N" eid="VIS_1020370">
+    <value column="PrintName" original="UOM">UOM</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020371" trl="N" eid="VIS_1020371">
+    <value column="PrintName" original="Qty(BF)">Qty(BF)</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020372" trl="N" eid="VIS_1020372">
+    <value column="PrintName" original="ListPrice">ListPrice</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020373" trl="N" eid="VIS_1020373">
+    <value column="PrintName" original="UnitPrice">UnitPrice</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020374" trl="N" eid="VIS_1020374">
+    <value column="PrintName" original="Discount">Discount</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020375" trl="N" eid="VIS_1020375">
+    <value column="PrintName" original="Tax(%)">Tax(%)</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020376" trl="N" eid="VIS_1020376">
+    <value column="PrintName" original="TaxAmt">TaxAmt</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020377" trl="N" eid="VIS_1020377">
+    <value column="PrintName" original="Total">Total</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020378" trl="N" eid="VIS_1020378">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020379" trl="N" eid="VIS_1020379">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020380" trl="N" eid="VIS_1020380">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020381" trl="N" eid="VIS_1020381">
+    <value column="PrintName" original="Customer Name:">Customer Name:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020382" trl="N" eid="VIS_1020382">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020383" trl="N" eid="VIS_1020383">
+    <value column="PrintName" original="Customer Address:">Customer Address:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020384" trl="N" eid="VIS_1020384">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020385" trl="N" eid="VIS_1020385">
+    <value column="PrintName" original="Contract Number:">Contract Number:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020386" trl="N" eid="VIS_1020386">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020387" trl="N" eid="VIS_1020387">
+    <value column="PrintName" original="Phone Number:">Phone Number:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020388" trl="N" eid="VIS_1020388">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020389" trl="N" eid="VIS_1020389">
+    <value column="PrintName" original="Order Number:">Order Number:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020390" trl="N" eid="VIS_1020390">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020391" trl="N" eid="VIS_1020391">
+    <value column="PrintName" original="Fax Number:">Fax Number:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020392" trl="N" eid="VIS_1020392">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020393" trl="N" eid="VIS_1020393">
+    <value column="PrintName" original="Contract Ref. No:">Contract Ref. No:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020394" trl="N" eid="VIS_1020394">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020395" trl="N" eid="VIS_1020395">
+    <value column="PrintName" original="Contract Start Date:">Contract Start Date:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020396" trl="N" eid="VIS_1020396">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020397" trl="N" eid="VIS_1020397">
+    <value column="PrintName" original="Contract End Date:">Contract End Date:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020398" trl="N" eid="VIS_1020398">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020399" trl="N" eid="VIS_1020399">
+    <value column="PrintName" original="Billing Frequency(BF):">Billing Frequency(BF):</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020400" trl="N" eid="VIS_1020400">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020401" trl="N" eid="VIS_1020401">
+    <value column="PrintName" original="No. of Cycle:">No. of Cycle:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020402" trl="N" eid="VIS_1020402">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020403" trl="N" eid="VIS_1020403">
+    <value column="PrintName" original="Contract Owner:">Contract Owner:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020404" trl="N" eid="VIS_1020404">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020405" trl="N" eid="VIS_1020405">
+    <value column="PrintName" original="Contract Status:">Contract Status:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020406" trl="N" eid="VIS_1020406">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020407" trl="N" eid="VIS_1020407">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020408" trl="N" eid="VIS_1020408">
+    <value column="PrintName" original="Amount In Words :">Amount In Words :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020409" trl="N" eid="VIS_1020409">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020410" trl="N" eid="VIS_1020410">
+    <value column="PrintName" original="Terms &amp; Conditions:">Terms &amp; Conditions:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020411" trl="N" eid="VIS_1020411">
+    <value column="PrintName" original="Payment Term:">Payment Term:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020412" trl="N" eid="VIS_1020412">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020413" trl="N" eid="VIS_1020413">
+    <value column="PrintName" original="Currency:">Currency:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020414" trl="N" eid="VIS_1020414">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020415" trl="N" eid="VIS_1020415">
+    <value column="PrintName" original="Contract Description:">Contract Description:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020416" trl="N" eid="VIS_1020416">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020417" trl="N" eid="VIS_1020417">
+    <value column="PrintName" original="Prepared By :_____________">Prepared By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1020418" trl="N" eid="VIS_1020418">
+    <value column="PrintName" original="Approved By :_____________">Approved By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021431" trl="N" eid="VIS_1021431">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021432" trl="N" eid="VIS_1021432">
+    <value column="PrintName" original="Payment Note:">Payment Note:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021433" trl="N" eid="VIS_1021433">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021434" trl="N" eid="VIS_1021434">
+    <value column="PrintName" original="Payment Note:">Payment Note:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021435" trl="N" eid="VIS_1021435">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021436" trl="N" eid="VIS_1021436">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021443" trl="N" eid="VIS_1021443">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021445" trl="N" eid="VIS_1021445">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021449" trl="N" eid="VIS_1021449">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021450" trl="N" eid="VIS_1021450">
+    <value column="PrintName" original="Payment Note:">Payment Note:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021451" trl="N" eid="VIS_1021451">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021892" trl="N" eid="VIS_1021892">
+    <value column="PrintName" original="Account Details">Account Details</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021893" trl="N" eid="VIS_1021893">
+    <value column="PrintName" original="Payment (please select payment method)">Payment (please select payment method)</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021894" trl="N" eid="VIS_1021894">
+    <value column="PrintName" original="COD - Cheque on delivery">COD - Cheque on delivery</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021895" trl="N" eid="VIS_1021895">
+    <value column="PrintName" original="Electronic Fund Transfer">Electronic Fund Transfer</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021896" trl="N" eid="VIS_1021896">
+    <value column="PrintName" original="Direct Bank Deposit">Direct Bank Deposit</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021897" trl="N" eid="VIS_1021897">
+    <value column="PrintName" original="**Please note COD delivery fee $15.00 (receive 1 x FREE 1.5g ASH Inferno)">**Please note COD delivery fee $15.00 (receive 1 x FREE 1.5g ASH Inferno)</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021898" trl="N" eid="VIS_1021898">
+    <value column="PrintName" original="Bank Details">Bank Details</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021900" trl="N" eid="VIS_1021900">
+    <value column="PrintName" original="Order Details">Order Details</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021903" trl="N" eid="VIS_1021903">
+    <value column="PrintName" original="ABN:">ABN:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021904" trl="N" eid="VIS_1021904">
+    <value column="PrintName" original="NSW">NSW</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021905" trl="N" eid="VIS_1021905">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021906" trl="N" eid="VIS_1021906">
+    <value column="PrintName" original="Fax :">Fax :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021907" trl="N" eid="VIS_1021907">
+    <value column="PrintName" original="Phone :">Phone :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021908" trl="N" eid="VIS_1021908">
+    <value column="PrintName" original="Name">Name</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021910" trl="N" eid="VIS_1021910">
+    <value column="PrintName" original="Mobile :">Mobile :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021911" trl="N" eid="VIS_1021911">
+    <value column="PrintName" original="Fax :">Fax :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021912" trl="N" eid="VIS_1021912">
+    <value column="PrintName" original="Contact :">Contact :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021913" trl="N" eid="VIS_1021913">
+    <value column="PrintName" original="How To Pay">How To Pay</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021914" trl="N" eid="VIS_1021914">
+    <value column="PrintName" original="Electronic Funds Transfer">Electronic Funds Transfer</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021915" trl="N" eid="VIS_1021915">
+    <value column="PrintName" original="Bank :">Bank :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021916" trl="N" eid="VIS_1021916">
+    <value column="PrintName" original="Account Name:">Account Name:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021917" trl="N" eid="VIS_1021917">
+    <value column="PrintName" original="BSB No :">BSB No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021918" trl="N" eid="VIS_1021918">
+    <value column="PrintName" original="Account No :">Account No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021919" trl="N" eid="VIS_1021919">
+    <value column="PrintName" original="Please make cheques payable">Please make cheques payable</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021920" trl="N" eid="VIS_1021920">
+    <value column="PrintName" original="The Ash Logo Is registered tntdemark of KaSam Group">The Ash Logo Is registered tntdemark of KaSam Group</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021922" trl="N" eid="VIS_1021922">
+    <value column="PrintName" original="ABN:">ABN:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021924" trl="N" eid="VIS_1021924">
+    <value column="PrintName" original="NSW">NSW</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021926" trl="N" eid="VIS_1021926">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021927" trl="N" eid="VIS_1021927">
+    <value column="PrintName" original="Fax :">Fax :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021930" trl="N" eid="VIS_1021930">
+    <value column="PrintName" original="Phone :">Phone :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021931" trl="N" eid="VIS_1021931">
+    <value column="PrintName" original="Name">Name</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021933" trl="N" eid="VIS_1021933">
+    <value column="PrintName" original="Mobile :">Mobile :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021935" trl="N" eid="VIS_1021935">
+    <value column="PrintName" original="Fax :">Fax :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021936" trl="N" eid="VIS_1021936">
+    <value column="PrintName" original="Contact :">Contact :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021937" trl="N" eid="VIS_1021937">
+    <value column="PrintName" original="Address">Address</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021943" trl="N" eid="VIS_1021943">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021945" trl="N" eid="VIS_1021945">
+    <value column="PrintName" original="How To Pay">How To Pay</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021946" trl="N" eid="VIS_1021946">
+    <value column="PrintName" original="Electronic Funds Transfer">Electronic Funds Transfer</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021947" trl="N" eid="VIS_1021947">
+    <value column="PrintName" original="Bank :">Bank :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021948" trl="N" eid="VIS_1021948">
+    <value column="PrintName" original="Account Name:">Account Name:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021949" trl="N" eid="VIS_1021949">
+    <value column="PrintName" original="BSB No :">BSB No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021950" trl="N" eid="VIS_1021950">
+    <value column="PrintName" original="Account No :">Account No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021951" trl="N" eid="VIS_1021951">
+    <value column="PrintName" original="Please make cheques payable">Please make cheques payable</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1021953" trl="N" eid="VIS_1021953">
+    <value column="PrintName" original="The Ash Logo Is registered tntdemark of KaSam Group">The Ash Logo Is registered tntdemark of KaSam Group</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1023678" trl="N" eid="VIS_1023678">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1023975" trl="N" eid="VIS_1023975">
+    <value column="PrintName" original="Total">Total</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024110" trl="N" eid="VIS_1024110">
+    <value column="PrintName" original="SUPPLIER">SUPPLIER</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024111" trl="N" eid="VIS_1024111">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024112" trl="N" eid="VIS_1024112">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024113" trl="N" eid="VIS_1024113">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024114" trl="N" eid="VIS_1024114">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024115" trl="N" eid="VIS_1024115">
+    <value column="PrintName" original="Invoice No">Invoice No</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024116" trl="N" eid="VIS_1024116">
+    <value column="PrintName" original="Invoice Date">Invoice Date</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024117" trl="N" eid="VIS_1024117">
+    <value column="PrintName" original="Description">Description</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024118" trl="N" eid="VIS_1024118">
+    <value column="PrintName" original="Amount">Amount</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024119" trl="N" eid="VIS_1024119">
+    <value column="PrintName" original="Discount">Discount</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024120" trl="N" eid="VIS_1024120">
+    <value column="PrintName" original="Net Amount">Net Amount</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024121" trl="N" eid="VIS_1024121">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024122" trl="N" eid="VIS_1024122">
+    <value column="PrintName" original="SUPPLIER">SUPPLIER</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024123" trl="N" eid="VIS_1024123">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024124" trl="N" eid="VIS_1024124">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024125" trl="N" eid="VIS_1024125">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024126" trl="N" eid="VIS_1024126">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024127" trl="N" eid="VIS_1024127">
+    <value column="PrintName" original="DATE">DATE</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024128" trl="N" eid="VIS_1024128">
+    <value column="PrintName" original="AMOUNT">AMOUNT</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024129" trl="N" eid="VIS_1024129">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024130" trl="N" eid="VIS_1024130">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024131" trl="N" eid="VIS_1024131">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024132" trl="N" eid="VIS_1024132">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024133" trl="N" eid="VIS_1024133">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024135" trl="N" eid="VIS_1024135">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024205" trl="N" eid="VIS_1024205">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024206" trl="N" eid="VIS_1024206">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024207" trl="N" eid="VIS_1024207">
+    <value column="PrintName" original="DEMO COMPANY">DEMO COMPANY</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024208" trl="N" eid="VIS_1024208">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024209" trl="N" eid="VIS_1024209">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024210" trl="N" eid="VIS_1024210">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024211" trl="N" eid="VIS_1024211">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024212" trl="N" eid="VIS_1024212">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024215" trl="N" eid="VIS_1024215">
+    <value column="PrintName" original="Paid To">Paid To</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024220" trl="N" eid="VIS_1024220">
+    <value column="PrintName" original="Rs.">Rs.</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024221" trl="N" eid="VIS_1024221">
+    <value column="PrintName" original="Signature (Representative)">Signature (Representative)</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024224" trl="N" eid="VIS_1024224">
+    <value column="PrintName" original="Signature(Cash Received By)">Signature(Cash Received By)</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024225" trl="N" eid="VIS_1024225">
+    <value column="PrintName" original="Approved by:">Approved by:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024226" trl="N" eid="VIS_1024226">
+    <value column="PrintName" original="H.O.D">H.O.D</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024227" trl="N" eid="VIS_1024227">
+    <value column="PrintName" original="Principal">Principal</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024228" trl="N" eid="VIS_1024228">
+    <value column="PrintName" original="CEO">CEO</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024229" trl="N" eid="VIS_1024229">
+    <value column="PrintName" original="Vice-Chairman">Vice-Chairman</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024230" trl="N" eid="VIS_1024230">
+    <value column="PrintName" original="Chairman">Chairman</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024231" trl="N" eid="VIS_1024231">
+    <value column="PrintName" original="Any other Authorised Person">Any other Authorised Person</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024232" trl="N" eid="VIS_1024232">
+    <value column="PrintName" original="against">against</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024233" trl="N" eid="VIS_1024233">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1024234" trl="N" eid="VIS_1024234">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025372" trl="N" eid="VIS_1025372">
+    <value column="PrintName" original="Order No :">Order No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025373" trl="N" eid="VIS_1025373">
+    <value column="PrintName" original="Date:">Date:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025374" trl="N" eid="VIS_1025374">
+    <value column="PrintName" original="Bill To:">Bill To:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025375" trl="N" eid="VIS_1025375">
+    <value column="PrintName" original="Ship To:">Ship To:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025376" trl="N" eid="VIS_1025376">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025377" trl="N" eid="VIS_1025377">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025378" trl="N" eid="VIS_1025378">
+    <value column="PrintName" original="Fax:">Fax:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025379" trl="N" eid="VIS_1025379">
+    <value column="PrintName" original="User/Contact :">User/Contact :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025380" trl="N" eid="VIS_1025380">
+    <value column="PrintName" original="Sales Rep.:">Sales Rep.:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025381" trl="N" eid="VIS_1025381">
+    <value column="PrintName" original="Quot. Ref. :">Quot. Ref. :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025382" trl="N" eid="VIS_1025382">
+    <value column="PrintName" original="Currency :">Currency :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025383" trl="N" eid="VIS_1025383">
+    <value column="PrintName" original="Fax:">Fax:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025384" trl="N" eid="VIS_1025384">
+    <value column="PrintName" original="Amount In Words :">Amount In Words :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025385" trl="N" eid="VIS_1025385">
+    <value column="PrintName" original="Payment Term:">Payment Term:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025386" trl="N" eid="VIS_1025386">
+    <value column="PrintName" original="Payment Note:">Payment Note:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025387" trl="N" eid="VIS_1025387">
+    <value column="PrintName" original="Prepared By :_____________">Prepared By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025388" trl="N" eid="VIS_1025388">
+    <value column="PrintName" original="Approved By :_____________">Approved By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025419" trl="N" eid="VIS_1025419">
+    <value column="PrintName" original="SALES INVOICE">SALES INVOICE</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025420" trl="N" eid="VIS_1025420">
+    <value column="PrintName" original="Invoice No :">Invoice No :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025421" trl="N" eid="VIS_1025421">
+    <value column="PrintName" original="Date:">Date:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025422" trl="N" eid="VIS_1025422">
+    <value column="PrintName" original="Bill To:">Bill To:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025423" trl="N" eid="VIS_1025423">
+    <value column="PrintName" original="Phone:">Phone:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025424" trl="N" eid="VIS_1025424">
+    <value column="PrintName" original="User/Contact :">User/Contact :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025425" trl="N" eid="VIS_1025425">
+    <value column="PrintName" original="Sales Rep.:">Sales Rep.:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025426" trl="N" eid="VIS_1025426">
+    <value column="PrintName" original="Quot. Ref. :">Quot. Ref. :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025427" trl="N" eid="VIS_1025427">
+    <value column="PrintName" original="Currency :">Currency :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025428" trl="N" eid="VIS_1025428">
+    <value column="PrintName" original="Fax:">Fax:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025429" trl="N" eid="VIS_1025429">
+    <value column="PrintName" original="Amount In Words :">Amount In Words :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025430" trl="N" eid="VIS_1025430">
+    <value column="PrintName" original="Payment Term:">Payment Term:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025431" trl="N" eid="VIS_1025431">
+    <value column="PrintName" original="Payment Note:">Payment Note:</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025432" trl="N" eid="VIS_1025432">
+    <value column="PrintName" original="Prepared By :_____________">Prepared By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1025433" trl="N" eid="VIS_1025433">
+    <value column="PrintName" original="Approved By :_____________">Approved By :_____________</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028156" trl="N" eid="VIS_1028156">
+    <value column="PrintName" original="Document Date">Document Date</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028157" trl="N" eid="VIS_1028157">
+    <value column="PrintName" original="Order No">Order No</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028158" trl="N" eid="VIS_1028158">
+    <value column="PrintName" original="Oder Date">Oder Date</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028159" trl="N" eid="VIS_1028159">
+    <value column="PrintName" original="Ship To :">Ship To :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028160" trl="N" eid="VIS_1028160">
+    <value column="PrintName" original="User/Contact :">User/Contact :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028161" trl="N" eid="VIS_1028161">
+    <value column="PrintName" original="Representative :">Representative :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028162" trl="N" eid="VIS_1028162">
+    <value column="PrintName" original="Warehouse :">Warehouse :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028163" trl="N" eid="VIS_1028163">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028164" trl="N" eid="VIS_1028164">
+    <value column="PrintName" original="Phone :">Phone :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028165" trl="N" eid="VIS_1028165">
+    <value column="PrintName" original="Fax :">Fax :</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028166" trl="N" eid="VIS_1028166">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028167" trl="N" eid="VIS_1028167">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028169" trl="N" eid="VIS_1028169">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028170" trl="N" eid="VIS_1028170">
+    <value column="PrintName" original="Phone -">Phone -</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028171" trl="N" eid="VIS_1028171">
+    <value column="PrintName" original="Tax ID -">Tax ID -</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028172" trl="N" eid="VIS_1028172">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028173" trl="N" eid="VIS_1028173">
+    <value column="PrintName" original="Business Partner Detail :-">Business Partner Detail :-</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028183" trl="N" eid="VIS_1028183">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028184" trl="N" eid="VIS_1028184">
+    <value column="PrintName" original="Phone -">Phone -</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028185" trl="N" eid="VIS_1028185">
+    <value column="PrintName" original="BP Fax -">BP Fax -</value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028313" trl="N" eid="VIS_1028313">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+  <row id="1028315" trl="N" eid="VIS_1028315">
+    <value column="PrintName" original="">
+    </value>
+    <value column="PrintNameSuffix" original="">
+    </value>
+  </row>
+</ViennaTrl>

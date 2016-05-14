@@ -1,0 +1,3424 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_Table">
+  <row id="100" trl="N" eid="VIS_100">
+    <value column="Name" original="Table">表</value>
+  </row>
+  <row id="101" trl="N" eid="VIS_101">
+    <value column="Name" original="Column">柱</value>
+  </row>
+  <row id="102" trl="N" eid="VIS_102">
+    <value column="Name" original="Reference">参考</value>
+  </row>
+  <row id="103" trl="N" eid="VIS_103">
+    <value column="Name" original="AD_Ref_Table">AD_Ref_Table</value>
+  </row>
+  <row id="104" trl="N" eid="VIS_104">
+    <value column="Name" original="Reference List">参考表</value>
+  </row>
+  <row id="105" trl="N" eid="VIS_105">
+    <value column="Name" original="Window">窗口</value>
+  </row>
+  <row id="106" trl="N" eid="VIS_106">
+    <value column="Name" original="Tab">标签</value>
+  </row>
+  <row id="107" trl="N" eid="VIS_107">
+    <value column="Name" original="Field">场</value>
+  </row>
+  <row id="108" trl="N" eid="VIS_108">
+    <value column="Name" original="Dynamic Validation">动态验证</value>
+  </row>
+  <row id="109" trl="N" eid="VIS_109">
+    <value column="Name" original="Message">信息</value>
+  </row>
+  <row id="111" trl="N" eid="VIS_111">
+    <value column="Name" original="Language ID">语言ID</value>
+  </row>
+  <row id="112" trl="N" eid="VIS_112">
+    <value column="Name" original="Tenant">房客</value>
+  </row>
+  <row id="113" trl="N" eid="VIS_113">
+    <value column="Name" original="Payment Term">付款期限</value>
+  </row>
+  <row id="114" trl="N" eid="VIS_114">
+    <value column="Name" original="User/Contact">用户/联系人</value>
+  </row>
+  <row id="115" trl="N" eid="VIS_115">
+    <value column="Name" original="Sequence">序列</value>
+  </row>
+  <row id="116" trl="N" eid="VIS_116">
+    <value column="Name" original="Menu">菜单</value>
+  </row>
+  <row id="117" trl="N" eid="VIS_117">
+    <value column="Name" original="Workflow">流程</value>
+  </row>
+  <row id="118" trl="N" eid="VIS_118">
+    <value column="Name" original="OS Task">操作系统任务</value>
+  </row>
+  <row id="119" trl="N" eid="VIS_119">
+    <value column="Name" original="Message Trl">信息 **</value>
+  </row>
+  <row id="120" trl="N" eid="VIS_120">
+    <value column="Name" original="Menu Trl">菜单 **</value>
+  </row>
+  <row id="121" trl="N" eid="VIS_121">
+    <value column="Name" original="AD_Sequence_Audit">AD_Sequence_Audit</value>
+  </row>
+  <row id="122" trl="N" eid="VIS_122">
+    <value column="Name" original="AD_Sequence_No">AD_Sequence_No</value>
+  </row>
+  <row id="123" trl="N" eid="VIS_123">
+    <value column="Name" original="Tab Trl">标签 **</value>
+  </row>
+  <row id="124" trl="N" eid="VIS_124">
+    <value column="Name" original="OS Task Trl">操作系统任务 **</value>
+  </row>
+  <row id="125" trl="N" eid="VIS_125">
+    <value column="Name" original="Task Instance">任务实例</value>
+  </row>
+  <row id="126" trl="N" eid="VIS_126">
+    <value column="Name" original="Reference Trl">参考 **</value>
+  </row>
+  <row id="127" trl="N" eid="VIS_127">
+    <value column="Name" original="Field Trl">场 **</value>
+  </row>
+  <row id="129" trl="N" eid="VIS_129">
+    <value column="Name" original="Node">节点</value>
+  </row>
+  <row id="130" trl="N" eid="VIS_130">
+    <value column="Name" original="Node Trl">节点 **</value>
+  </row>
+  <row id="131" trl="N" eid="VIS_131">
+    <value column="Name" original="Node Transition">过渡节点</value>
+  </row>
+  <row id="132" trl="N" eid="VIS_132">
+    <value column="Name" original="Window Trl">窗口 **</value>
+  </row>
+  <row id="133" trl="N" eid="VIS_133">
+    <value column="Name" original="Workflow Trl">流程 **</value>
+  </row>
+  <row id="135" trl="N" eid="VIS_135">
+    <value column="Name" original="Test ID">测试ID</value>
+  </row>
+  <row id="136" trl="N" eid="VIS_136">
+    <value column="Name" original="Reference List Trl">参考表 **</value>
+  </row>
+  <row id="139" trl="N" eid="VIS_139">
+    <value column="Name" original="Calendar">日历</value>
+  </row>
+  <row id="140" trl="N" eid="VIS_140">
+    <value column="Name" original="Conversion Rate">兑换率</value>
+  </row>
+  <row id="141" trl="N" eid="VIS_141">
+    <value column="Name" original="Currency">货币</value>
+  </row>
+  <row id="142" trl="N" eid="VIS_142">
+    <value column="Name" original="Element">元素</value>
+  </row>
+  <row id="145" trl="N" eid="VIS_145">
+    <value column="Name" original="Period">周期</value>
+  </row>
+  <row id="146" trl="N" eid="VIS_146">
+    <value column="Name" original="UOM">计量单位</value>
+  </row>
+  <row id="155" trl="N" eid="VIS_155">
+    <value column="Name" original="Organization">组织</value>
+  </row>
+  <row id="156" trl="N" eid="VIS_156">
+    <value column="Name" original="Role">角色</value>
+  </row>
+  <row id="157" trl="N" eid="VIS_157">
+    <value column="Name" original="AD_User_Roles">AD_User_Roles</value>
+  </row>
+  <row id="162" trl="N" eid="VIS_162">
+    <value column="Name" original="Address">地址</value>
+  </row>
+  <row id="163" trl="N" eid="VIS_163">
+    <value column="Name" original="Non Business Day">非营业日</value>
+  </row>
+  <row id="164" trl="N" eid="VIS_164">
+    <value column="Name" original="Region">区域</value>
+  </row>
+  <row id="170" trl="N" eid="VIS_170">
+    <value column="Name" original="Country">国家</value>
+  </row>
+  <row id="175" trl="N" eid="VIS_175">
+    <value column="Name" original="UOM Conversion">计量单位转换</value>
+  </row>
+  <row id="176" trl="N" eid="VIS_176">
+    <value column="Name" original="Combination">组合</value>
+  </row>
+  <row id="177" trl="N" eid="VIS_177">
+    <value column="Name" original="Year">年</value>
+  </row>
+  <row id="183" trl="N" eid="VIS_183">
+    <value column="Name" original="C_BP_Customer_Acct">C_BP_Customer_Acct</value>
+  </row>
+  <row id="184" trl="N" eid="VIS_184">
+    <value column="Name" original="C_BP_Employee_Acct">C_BP_Employee_Acct</value>
+  </row>
+  <row id="185" trl="N" eid="VIS_185">
+    <value column="Name" original="C_BP_Vendor_Acct">C_BP_Vendor_Acct</value>
+  </row>
+  <row id="186" trl="N" eid="VIS_186">
+    <value column="Name" original="City">城市</value>
+  </row>
+  <row id="188" trl="N" eid="VIS_188">
+    <value column="Name" original="Account Element">账户元素</value>
+  </row>
+  <row id="190" trl="N" eid="VIS_190">
+    <value column="Name" original="Warehouse">仓库</value>
+  </row>
+  <row id="191" trl="N" eid="VIS_191">
+    <value column="Name" original="M_Warehouse_Acct">M_Warehouse_Acct</value>
+  </row>
+  <row id="195" trl="N" eid="VIS_195">
+    <value column="Name" original="Preference">偏爱</value>
+  </row>
+  <row id="197" trl="N" eid="VIS_197">
+    <value column="Name" original="Process Access">Process Access</value>
+  </row>
+  <row id="199" trl="N" eid="VIS_199">
+    <value column="Name" original="AD_Task_Access">AD_Task_Access</value>
+  </row>
+  <row id="201" trl="N" eid="VIS_201">
+    <value column="Name" original="AD_Window_Access">AD_Window_Access</value>
+  </row>
+  <row id="202" trl="N" eid="VIS_202">
+    <value column="Name" original="AD_Workflow_Access">AD_Workflow_Access</value>
+  </row>
+  <row id="203" trl="N" eid="VIS_203">
+    <value column="Name" original="Project">机会</value>
+  </row>
+  <row id="204" trl="N" eid="VIS_204">
+    <value column="Name" original="C_Project_Acct">C_Project_Acct</value>
+  </row>
+  <row id="207" trl="N" eid="VIS_207">
+    <value column="Name" original="Locator">定位器</value>
+  </row>
+  <row id="208" trl="N" eid="VIS_208">
+    <value column="Name" original="Product">产品</value>
+  </row>
+  <row id="209" trl="N" eid="VIS_209">
+    <value column="Name" original="Product Category">产品分类</value>
+  </row>
+  <row id="210" trl="N" eid="VIS_210">
+    <value column="Name" original="Product Purchasing">Product Purchasing</value>
+  </row>
+  <row id="213" trl="N" eid="VIS_213">
+    <value column="Name" original="M_Substitute">M_Substitute</value>
+  </row>
+  <row id="217" trl="N" eid="VIS_217">
+    <value column="Name" original="Document Type">文件类型</value>
+  </row>
+  <row id="218" trl="N" eid="VIS_218">
+    <value column="Name" original="GL Category">GL分类</value>
+  </row>
+  <row id="224" trl="N" eid="VIS_224">
+    <value column="Name" original="Journal">刊物</value>
+  </row>
+  <row id="225" trl="N" eid="VIS_225">
+    <value column="Name" original="Journal Batch">日记帐批</value>
+  </row>
+  <row id="226" trl="N" eid="VIS_226">
+    <value column="Name" original="Journal Line">在线杂志</value>
+  </row>
+  <row id="227" trl="N" eid="VIS_227">
+    <value column="Name" original="Client Info">Client Info</value>
+  </row>
+  <row id="228" trl="N" eid="VIS_228">
+    <value column="Name" original="Organization Info">Organization Info</value>
+  </row>
+  <row id="229" trl="N" eid="VIS_229">
+    <value column="Name" original="Period Control">周期控制</value>
+  </row>
+  <row id="230" trl="N" eid="VIS_230">
+    <value column="Name" original="Sales Region">销售地区</value>
+  </row>
+  <row id="249" trl="N" eid="VIS_249">
+    <value column="Name" original="M_Replenish">M_Replenish_ID</value>
+  </row>
+  <row id="250" trl="N" eid="VIS_250">
+    <value column="Name" original="M_Storage">M_Storage</value>
+  </row>
+  <row id="251" trl="N" eid="VIS_251">
+    <value column="Name" original="Product Price">Product Price</value>
+  </row>
+  <row id="252" trl="N" eid="VIS_252">
+    <value column="Name" original="Tax Category">税收类别</value>
+  </row>
+  <row id="253" trl="N" eid="VIS_253">
+    <value column="Name" original="Freight Carrier">承运人</value>
+  </row>
+  <row id="254" trl="N" eid="VIS_254">
+    <value column="Name" original="Attachment">附件</value>
+  </row>
+  <row id="255" trl="N" eid="VIS_255">
+    <value column="Name" original="Price List">价格表</value>
+  </row>
+  <row id="257" trl="N" eid="VIS_257">
+    <value column="Name" original="Invoice Schedule">发票时间表</value>
+  </row>
+  <row id="259" trl="N" eid="VIS_259">
+    <value column="Name" original="Order">令</value>
+  </row>
+  <row id="260" trl="N" eid="VIS_260">
+    <value column="Name" original="Order Line">订单行</value>
+  </row>
+  <row id="261" trl="N" eid="VIS_261">
+    <value column="Name" original="Tax">税</value>
+  </row>
+  <row id="265" trl="N" eid="VIS_265">
+    <value column="Name" original="Accounting Schema">会计模式</value>
+  </row>
+  <row id="266" trl="N" eid="VIS_266">
+    <value column="Name" original="C_AcctSchema_GL">C_AcctSchema_GL</value>
+  </row>
+  <row id="270" trl="N" eid="VIS_270">
+    <value column="Name" original="Accounting Fact">会计事实</value>
+  </row>
+  <row id="271" trl="N" eid="VIS_271">
+    <value column="Name" original="Budget">预算</value>
+  </row>
+  <row id="273" trl="N" eid="VIS_273">
+    <value column="Name" original="Product Acct">Product Acct</value>
+  </row>
+  <row id="274" trl="N" eid="VIS_274">
+    <value column="Name" original="Campaign">运动</value>
+  </row>
+  <row id="275" trl="N" eid="VIS_275">
+    <value column="Name" original="Channel">通道</value>
+  </row>
+  <row id="276" trl="N" eid="VIS_276">
+    <value column="Name" original="System Element">系统元素</value>
+  </row>
+  <row id="277" trl="N" eid="VIS_277">
+    <value column="Name" original="System Element Trl">系统元素 **</value>
+  </row>
+  <row id="279" trl="N" eid="VIS_279">
+    <value column="Name" original="Acct.Schema Element">Acct.Schema元</value>
+  </row>
+  <row id="282" trl="N" eid="VIS_282">
+    <value column="Name" original="Process Instance">流程实例</value>
+  </row>
+  <row id="283" trl="N" eid="VIS_283">
+    <value column="Name" original="AD_PInstance_Para">AD_PInstance_Para</value>
+  </row>
+  <row id="284" trl="N" eid="VIS_284">
+    <value column="Name" original="Process">过程</value>
+  </row>
+  <row id="285" trl="N" eid="VIS_285">
+    <value column="Name" original="Process Parameter">工艺参数</value>
+  </row>
+  <row id="286" trl="N" eid="VIS_286">
+    <value column="Name" original="Process Parameter Trl">工艺参数 **</value>
+  </row>
+  <row id="287" trl="N" eid="VIS_287">
+    <value column="Name" original="Process Trl">过程 **</value>
+  </row>
+  <row id="288" trl="N" eid="VIS_288">
+    <value column="Name" original="Tree">树</value>
+  </row>
+  <row id="289" trl="N" eid="VIS_289">
+    <value column="Name" original="Tree Node">Tree Node</value>
+  </row>
+  <row id="291" trl="N" eid="VIS_291">
+    <value column="Name" original="Business Partner">生意伙伴</value>
+  </row>
+  <row id="293" trl="N" eid="VIS_293">
+    <value column="Name" original="Partner Location">地点</value>
+  </row>
+  <row id="295" trl="N" eid="VIS_295">
+    <value column="Name" original="Price List Version">价格表版本</value>
+  </row>
+  <row id="296" trl="N" eid="VIS_296">
+    <value column="Name" original="Bank">银行</value>
+  </row>
+  <row id="297" trl="N" eid="VIS_297">
+    <value column="Name" original="Bank Account">银行户口</value>
+  </row>
+  <row id="298" trl="N" eid="VIS_298">
+    <value column="Name" original="Partner Bank Account">合作伙伴银行账户</value>
+  </row>
+  <row id="299" trl="N" eid="VIS_299">
+    <value column="Name" original="C_BP_Withholding">C_BP_Withholding</value>
+  </row>
+  <row id="300" trl="N" eid="VIS_300">
+    <value column="Name" original="Document Type Trl">文件类型 **</value>
+  </row>
+  <row id="301" trl="N" eid="VIS_301">
+    <value column="Name" original="Dunning">邓宁</value>
+  </row>
+  <row id="302" trl="N" eid="VIS_302">
+    <value column="Name" original="Account Element Trl">账户元素 **</value>
+  </row>
+  <row id="303" trl="N" eid="VIS_303">
+    <value column="Name" original="Payment Term Trl">付款期限 **</value>
+  </row>
+  <row id="304" trl="N" eid="VIS_304">
+    <value column="Name" original="Withholding">预提</value>
+  </row>
+  <row id="312" trl="N" eid="VIS_312">
+    <value column="Name" original="Product Trl">产品 **</value>
+  </row>
+  <row id="313" trl="N" eid="VIS_313">
+    <value column="Name" original="Charge">收费</value>
+  </row>
+  <row id="314" trl="N" eid="VIS_314">
+    <value column="Name" original="Order Tax">Order Tax</value>
+  </row>
+  <row id="315" trl="N" eid="VIS_315">
+    <value column="Name" original="C_AcctSchema_Default">C_AcctSchema_Default</value>
+  </row>
+  <row id="316" trl="N" eid="VIS_316">
+    <value column="Name" original="Activity">活动</value>
+  </row>
+  <row id="318" trl="N" eid="VIS_318">
+    <value column="Name" original="Invoice">发票</value>
+  </row>
+  <row id="319" trl="N" eid="VIS_319">
+    <value column="Name" original="Shipment/Receipt">出货/收据</value>
+  </row>
+  <row id="320" trl="N" eid="VIS_320">
+    <value column="Name" original="Shipment/Receipt Line">出货/收货线</value>
+  </row>
+  <row id="321" trl="N" eid="VIS_321">
+    <value column="Name" original="Phys.Inventory">Phys.Inventory</value>
+  </row>
+  <row id="322" trl="N" eid="VIS_322">
+    <value column="Name" original="Phys Inventory Line">物理库存线</value>
+  </row>
+  <row id="323" trl="N" eid="VIS_323">
+    <value column="Name" original="Inventory Move">库存移动</value>
+  </row>
+  <row id="324" trl="N" eid="VIS_324">
+    <value column="Name" original="Move Line">移动线</value>
+  </row>
+  <row id="325" trl="N" eid="VIS_325">
+    <value column="Name" original="Production">生产</value>
+  </row>
+  <row id="326" trl="N" eid="VIS_326">
+    <value column="Name" original="Production Line">生产线</value>
+  </row>
+  <row id="327" trl="N" eid="VIS_327">
+    <value column="Name" original="Product Costing">Product Costing</value>
+  </row>
+  <row id="329" trl="N" eid="VIS_329">
+    <value column="Name" original="Inventory Transaction">库存事务</value>
+  </row>
+  <row id="331" trl="N" eid="VIS_331">
+    <value column="Name" original="Dunning Level">催款级别</value>
+  </row>
+  <row id="332" trl="N" eid="VIS_332">
+    <value column="Name" original="Dunning Level Trl">催款级别 **</value>
+  </row>
+  <row id="333" trl="N" eid="VIS_333">
+    <value column="Name" original="Invoice Line">发票行</value>
+  </row>
+  <row id="334" trl="N" eid="VIS_334">
+    <value column="Name" original="C_InvoiceTax">C_InvoiceTax</value>
+  </row>
+  <row id="335" trl="N" eid="VIS_335">
+    <value column="Name" original="Payment">付款</value>
+  </row>
+  <row id="336" trl="N" eid="VIS_336">
+    <value column="Name" original="Revenue Recognition">收入确认</value>
+  </row>
+  <row id="337" trl="N" eid="VIS_337">
+    <value column="Name" original="Service Level">服务水平</value>
+  </row>
+  <row id="338" trl="N" eid="VIS_338">
+    <value column="Name" original="Service Level Line">服务水平线</value>
+  </row>
+  <row id="339" trl="N" eid="VIS_339">
+    <value column="Name" original="UOM Trl">计量单位 **</value>
+  </row>
+  <row id="342" trl="N" eid="VIS_342">
+    <value column="Name" original="Perpetual Inventory">永续盘存</value>
+  </row>
+  <row id="346" trl="N" eid="VIS_346">
+    <value column="Name" original="Greeting">欢迎</value>
+  </row>
+  <row id="347" trl="N" eid="VIS_347">
+    <value column="Name" original="Greeting Trl">欢迎 **</value>
+  </row>
+  <row id="348" trl="N" eid="VIS_348">
+    <value column="Name" original="Tax Category Trl">税收类别 **</value>
+  </row>
+  <row id="360" trl="N" eid="VIS_360">
+    <value column="Name" original="Order Detail">Order Detail</value>
+  </row>
+  <row id="361" trl="N" eid="VIS_361">
+    <value column="Name" original="Report View">报告视图</value>
+  </row>
+  <row id="363" trl="N" eid="VIS_363">
+    <value column="Name" original="Transaction Sum">Transaction Sum</value>
+  </row>
+  <row id="364" trl="N" eid="VIS_364">
+    <value column="Name" original="T_Replenish">T_Replenish</value>
+  </row>
+  <row id="365" trl="N" eid="VIS_365">
+    <value column="Name" original="T_Spool">T_Spool</value>
+  </row>
+  <row id="366" trl="N" eid="VIS_366">
+    <value column="Name" original="EDI Definition">EDI定义</value>
+  </row>
+  <row id="369" trl="N" eid="VIS_369">
+    <value column="Name" original="Invoice Day">Invoice Day</value>
+  </row>
+  <row id="370" trl="N" eid="VIS_370">
+    <value column="Name" original="Invoice Month">Invoice Month</value>
+  </row>
+  <row id="371" trl="N" eid="VIS_371">
+    <value column="Name" original="Invoice ProdMonth">Invoice ProdMonth</value>
+  </row>
+  <row id="372" trl="N" eid="VIS_372">
+    <value column="Name" original="Invoice ProdWeek">Invoice ProdWeek</value>
+  </row>
+  <row id="373" trl="N" eid="VIS_373">
+    <value column="Name" original="Invoice VendorMonth">Invoice VendorMonth</value>
+  </row>
+  <row id="374" trl="N" eid="VIS_374">
+    <value column="Name" original="Invoice Week">Invoice Week</value>
+  </row>
+  <row id="376" trl="N" eid="VIS_376">
+    <value column="Name" original="Special Form">特殊形式</value>
+  </row>
+  <row id="377" trl="N" eid="VIS_377">
+    <value column="Name" original="Special Form Trl">特殊形式 **</value>
+  </row>
+  <row id="378" trl="N" eid="VIS_378">
+    <value column="Name" original="AD_Form_Access">AD_Form_Access</value>
+  </row>
+  <row id="380" trl="N" eid="VIS_380">
+    <value column="Name" original="Error">错误</value>
+  </row>
+  <row id="381" trl="N" eid="VIS_381">
+    <value column="Name" original="Import Format">导入格式</value>
+  </row>
+  <row id="382" trl="N" eid="VIS_382">
+    <value column="Name" original="Format Field">格式字段</value>
+  </row>
+  <row id="383" trl="N" eid="VIS_383">
+    <value column="Name" original="BOM Line">BOM线</value>
+  </row>
+  <row id="384" trl="N" eid="VIS_384">
+    <value column="Name" original="Tire Storage">轮胎存储</value>
+  </row>
+  <row id="385" trl="N" eid="VIS_385">
+    <value column="Name" original="Production Plan">生产计划</value>
+  </row>
+  <row id="387" trl="N" eid="VIS_387">
+    <value column="Name" original="Invoice CustomerProdQtr">Invoice CustomerProdQtr</value>
+  </row>
+  <row id="388" trl="N" eid="VIS_388">
+    <value column="Name" original="Invoice CustomerVendQtr">Invoice CustomerVendQtr</value>
+  </row>
+  <row id="389" trl="N" eid="VIS_389">
+    <value column="Name" original="Notice">通知</value>
+  </row>
+  <row id="390" trl="N" eid="VIS_390">
+    <value column="Name" original="Allocation Line">分配线</value>
+  </row>
+  <row id="391" trl="N" eid="VIS_391">
+    <value column="Name" original="C_BankAccount_Acct">C_BankAccount_Acct</value>
+  </row>
+  <row id="392" trl="N" eid="VIS_392">
+    <value column="Name" original="Bank Statement">银行对帐单</value>
+  </row>
+  <row id="393" trl="N" eid="VIS_393">
+    <value column="Name" original="Bank statement line">银行对账单行</value>
+  </row>
+  <row id="394" trl="N" eid="VIS_394">
+    <value column="Name" original="Business Partner Group">客户/集团展望</value>
+  </row>
+  <row id="395" trl="N" eid="VIS_395">
+    <value column="Name" original="Business Partner Group Acct">Business Partner Group Acct</value>
+  </row>
+  <row id="396" trl="N" eid="VIS_396">
+    <value column="Name" original="C_Charge_Acct">C_Charge_Acct</value>
+  </row>
+  <row id="397" trl="N" eid="VIS_397">
+    <value column="Name" original="C_InterOrg_Acct">C_InterOrg_Acct</value>
+  </row>
+  <row id="398" trl="N" eid="VIS_398">
+    <value column="Name" original="Payment Processor">付款处理器</value>
+  </row>
+  <row id="399" trl="N" eid="VIS_399">
+    <value column="Name" original="C_Tax_Acct">C_Tax_Acct</value>
+  </row>
+  <row id="400" trl="N" eid="VIS_400">
+    <value column="Name" original="C_Withholding_Acct">C_Withholding_Acct</value>
+  </row>
+  <row id="401" trl="N" eid="VIS_401">
+    <value column="Name" original="Product Category Acct">Product Category Acct</value>
+  </row>
+  <row id="402" trl="N" eid="VIS_402">
+    <value column="Name" original="W_Basket_ID">W_Basket_ID</value>
+  </row>
+  <row id="403" trl="N" eid="VIS_403">
+    <value column="Name" original="Web Counter">网页计数器</value>
+  </row>
+  <row id="404" trl="N" eid="VIS_404">
+    <value column="Name" original="Find">发现</value>
+  </row>
+  <row id="405" trl="N" eid="VIS_405">
+    <value column="Name" original="System Attribute">系统属性</value>
+  </row>
+  <row id="406" trl="N" eid="VIS_406">
+    <value column="Name" original="AD_Attribute_Value">AD_Attribute_Value</value>
+  </row>
+  <row id="407" trl="N" eid="VIS_407">
+    <value column="Name" original="Cash Journal">现金日记帐</value>
+  </row>
+  <row id="408" trl="N" eid="VIS_408">
+    <value column="Name" original="Cash Book">现金图书</value>
+  </row>
+  <row id="409" trl="N" eid="VIS_409">
+    <value column="Name" original="C_CashBook_Acct">C_CashBook_Acct</value>
+  </row>
+  <row id="410" trl="N" eid="VIS_410">
+    <value column="Name" original="Cash Journal Line">现金日记帐行</value>
+  </row>
+  <row id="411" trl="N" eid="VIS_411">
+    <value column="Name" original="Payment Batch">付款批</value>
+  </row>
+  <row id="413" trl="N" eid="VIS_413">
+    <value column="Name" original="Open Item">Open Item</value>
+  </row>
+  <row id="414" trl="N" eid="VIS_414">
+    <value column="Name" original="Field Group">田集团</value>
+  </row>
+  <row id="415" trl="N" eid="VIS_415">
+    <value column="Name" original="Field Group Trl">田集团 **</value>
+  </row>
+  <row id="416" trl="N" eid="VIS_416">
+    <value column="Name" original="Mail Template">邮件模板</value>
+  </row>
+  <row id="417" trl="N" eid="VIS_417">
+    <value column="Name" original="Current Cases">要求</value>
+  </row>
+  <row id="418" trl="N" eid="VIS_418">
+    <value column="Name" original="Request History">请求历史</value>
+  </row>
+  <row id="420" trl="N" eid="VIS_420">
+    <value column="Name" original="Request Processor">请求处理器</value>
+  </row>
+  <row id="422" trl="N" eid="VIS_422">
+    <value column="Name" original="AD_Role_OrgAccess">AD_Role_OrgAccess</value>
+  </row>
+  <row id="423" trl="N" eid="VIS_423">
+    <value column="Name" original="RV_Invoice">RV_Invoice</value>
+  </row>
+  <row id="424" trl="N" eid="VIS_424">
+    <value column="Name" original="InvoiceLine">InvoiceLine</value>
+  </row>
+  <row id="425" trl="N" eid="VIS_425">
+    <value column="Name" original="Mat Transaction">Mat Transaction</value>
+  </row>
+  <row id="426" trl="N" eid="VIS_426">
+    <value column="Name" original="Payment Selection">付款选择</value>
+  </row>
+  <row id="427" trl="N" eid="VIS_427">
+    <value column="Name" original="Payment Selection Line">付款方式选择线</value>
+  </row>
+  <row id="428" trl="N" eid="VIS_428">
+    <value column="Name" original="Report view Column">报告视图列</value>
+  </row>
+  <row id="429" trl="N" eid="VIS_429">
+    <value column="Name" original="Commission">佣金</value>
+  </row>
+  <row id="430" trl="N" eid="VIS_430">
+    <value column="Name" original="Commission Amount">佣金数额</value>
+  </row>
+  <row id="431" trl="N" eid="VIS_431">
+    <value column="Name" original="Commission Line">佣金行</value>
+  </row>
+  <row id="432" trl="N" eid="VIS_432">
+    <value column="Name" original="Project Cycle">项目周期</value>
+  </row>
+  <row id="433" trl="N" eid="VIS_433">
+    <value column="Name" original="Project CyclePhase">Project CyclePhase</value>
+  </row>
+  <row id="434" trl="N" eid="VIS_434">
+    <value column="Name" original="Project Line">工程线路</value>
+  </row>
+  <row id="436" trl="N" eid="VIS_436">
+    <value column="Name" original="Commission Run">委员会运行</value>
+  </row>
+  <row id="437" trl="N" eid="VIS_437">
+    <value column="Name" original="Commission Detail">佣金明细</value>
+  </row>
+  <row id="438" trl="N" eid="VIS_438">
+    <value column="Name" original="Achievement">成就</value>
+  </row>
+  <row id="440" trl="N" eid="VIS_440">
+    <value column="Name" original="Goal">目标</value>
+  </row>
+  <row id="441" trl="N" eid="VIS_441">
+    <value column="Name" original="Measure">测量</value>
+  </row>
+  <row id="442" trl="N" eid="VIS_442">
+    <value column="Name" original="Measure Calculation">测量计算</value>
+  </row>
+  <row id="443" trl="N" eid="VIS_443">
+    <value column="Name" original="Revenue Recognition Plan">收入确认计划</value>
+  </row>
+  <row id="444" trl="N" eid="VIS_444">
+    <value column="Name" original="Revenue Recognition Run">收入确认运行</value>
+  </row>
+  <row id="445" trl="N" eid="VIS_445">
+    <value column="Name" original="Financial Report">财务报告</value>
+  </row>
+  <row id="446" trl="N" eid="VIS_446">
+    <value column="Name" original="Report Column">报告列</value>
+  </row>
+  <row id="447" trl="N" eid="VIS_447">
+    <value column="Name" original="Report Column Set">报告列集</value>
+  </row>
+  <row id="448" trl="N" eid="VIS_448">
+    <value column="Name" original="Report Line">报告线</value>
+  </row>
+  <row id="449" trl="N" eid="VIS_449">
+    <value column="Name" original="Report Line Set">报告线集</value>
+  </row>
+  <row id="450" trl="N" eid="VIS_450">
+    <value column="Name" original="Report Source">报表源</value>
+  </row>
+  <row id="451" trl="N" eid="VIS_451">
+    <value column="Name" original="Tree Node BP">Tree Node BP</value>
+  </row>
+  <row id="452" trl="N" eid="VIS_452">
+    <value column="Name" original="Tree Node MM">Tree Node MM</value>
+  </row>
+  <row id="453" trl="N" eid="VIS_453">
+    <value column="Name" original="Tree Node PR">Tree Node PR</value>
+  </row>
+  <row id="454" trl="N" eid="VIS_454">
+    <value column="Name" original="Print Form">打印表格</value>
+  </row>
+  <row id="455" trl="N" eid="VIS_455">
+    <value column="Name" original="Bank Account Document">银行账户文件</value>
+  </row>
+  <row id="456" trl="N" eid="VIS_456">
+    <value column="Name" original="AD_TreeBar">AD_TreeBar</value>
+  </row>
+  <row id="457" trl="N" eid="VIS_457">
+    <value column="Name" original="System Color">系统颜色</value>
+  </row>
+  <row id="458" trl="N" eid="VIS_458">
+    <value column="Name" original="Desktop">桌面</value>
+  </row>
+  <row id="459" trl="N" eid="VIS_459">
+    <value column="Name" original="Desktop Workbench">桌面工作台</value>
+  </row>
+  <row id="460" trl="N" eid="VIS_460">
+    <value column="Name" original="Desktop Trl">桌面 **</value>
+  </row>
+  <row id="461" trl="N" eid="VIS_461">
+    <value column="Name" original="Image">图像</value>
+  </row>
+  <row id="464" trl="N" eid="VIS_464">
+    <value column="Name" original="User defined Field">用户自定义字段</value>
+  </row>
+  <row id="466" trl="N" eid="VIS_466">
+    <value column="Name" original="User defined Tab">用户自定义选项卡</value>
+  </row>
+  <row id="467" trl="N" eid="VIS_467">
+    <value column="Name" original="User defined Window">用户自定义窗口</value>
+  </row>
+  <row id="468" trl="N" eid="VIS_468">
+    <value column="Name" original="Workbench">工作台</value>
+  </row>
+  <row id="469" trl="N" eid="VIS_469">
+    <value column="Name" original="Workbench Window">工作台窗口</value>
+  </row>
+  <row id="470" trl="N" eid="VIS_470">
+    <value column="Name" original="Workbench Trl">工作台 **</value>
+  </row>
+  <row id="471" trl="N" eid="VIS_471">
+    <value column="Name" original="Cash Detail">Cash Detail</value>
+  </row>
+  <row id="472" trl="N" eid="VIS_472">
+    <value column="Name" original="Match Invoice">比赛发票</value>
+  </row>
+  <row id="473" trl="N" eid="VIS_473">
+    <value column="Name" original="Match PO">相符的PO</value>
+  </row>
+  <row id="474" trl="N" eid="VIS_474">
+    <value column="Name" original="Request Routing">请求路由</value>
+  </row>
+  <row id="475" trl="N" eid="VIS_475">
+    <value column="Name" original="Discount Schema">折扣模式</value>
+  </row>
+  <row id="476" trl="N" eid="VIS_476">
+    <value column="Name" original="Discount Schema Break">折扣模式歇</value>
+  </row>
+  <row id="477" trl="N" eid="VIS_477">
+    <value column="Name" original="Discount Pricelist">折扣价目表</value>
+  </row>
+  <row id="478" trl="N" eid="VIS_478">
+    <value column="Name" original="T_InventoryValue">T_InventoryValue</value>
+  </row>
+  <row id="479" trl="N" eid="VIS_479">
+    <value column="Name" original="Product Costing">Product Costing</value>
+  </row>
+  <row id="480" trl="N" eid="VIS_480">
+    <value column="Name" original="Resource Type">资源类型</value>
+  </row>
+  <row id="481" trl="N" eid="VIS_481">
+    <value column="Name" original="Expense Type">费用类型</value>
+  </row>
+  <row id="482" trl="N" eid="VIS_482">
+    <value column="Name" original="Resource Unavailability">资源不可用</value>
+  </row>
+  <row id="485" trl="N" eid="VIS_485">
+    <value column="Name" original="Assigned Resource">分配的资源</value>
+  </row>
+  <row id="486" trl="N" eid="VIS_486">
+    <value column="Name" original="Expense Report">开支报告</value>
+  </row>
+  <row id="487" trl="N" eid="VIS_487">
+    <value column="Name" original="Resource">资源</value>
+  </row>
+  <row id="488" trl="N" eid="VIS_488">
+    <value column="Name" original="Expense Line">费用行</value>
+  </row>
+  <row id="489" trl="N" eid="VIS_489">
+    <value column="Name" original="Print Format Item">打印格式项目</value>
+  </row>
+  <row id="490" trl="N" eid="VIS_490">
+    <value column="Name" original="Print Color">打印颜色</value>
+  </row>
+  <row id="491" trl="N" eid="VIS_491">
+    <value column="Name" original="Print Font">打印字体</value>
+  </row>
+  <row id="492" trl="N" eid="VIS_492">
+    <value column="Name" original="Print Paper">打印纸</value>
+  </row>
+  <row id="493" trl="N" eid="VIS_493">
+    <value column="Name" original="Print Format">打印格式</value>
+  </row>
+  <row id="495" trl="N" eid="VIS_495">
+    <value column="Name" original="C_Invoice_LineTax_v_ID">C_Invoice_LineTax_v_ID</value>
+  </row>
+  <row id="496" trl="N" eid="VIS_496">
+    <value column="Name" original="C_Order_Header_v_ID">C_Order_Header_v_ID</value>
+  </row>
+  <row id="497" trl="N" eid="VIS_497">
+    <value column="Name" original="C_Order_LineTax_v_ID">C_Order_LineTax_v_ID</value>
+  </row>
+  <row id="498" trl="N" eid="VIS_498">
+    <value column="Name" original="C_PaySelection_Check_v_ID">C_PaySelection_Check_v_ID</value>
+  </row>
+  <row id="499" trl="N" eid="VIS_499">
+    <value column="Name" original="C_PaySelection_Remittance_v">C_PaySelection_Remittance_v</value>
+  </row>
+  <row id="500" trl="N" eid="VIS_500">
+    <value column="Name" original="M_InOut_Header_v_ID">M_InOut_Header_v_ID</value>
+  </row>
+  <row id="501" trl="N" eid="VIS_501">
+    <value column="Name" original="M_InOut_Line_v_ID">M_InOut_Line_v_ID</value>
+  </row>
+  <row id="516" trl="N" eid="VIS_516">
+    <value column="Name" original="C_Invoice_Header_v_ID">C_Invoice_Header_v_ID</value>
+  </row>
+  <row id="520" trl="N" eid="VIS_520">
+    <value column="Name" original="BPartner">BPartner</value>
+  </row>
+  <row id="521" trl="N" eid="VIS_521">
+    <value column="Name" original="Graph">图形</value>
+  </row>
+  <row id="522" trl="N" eid="VIS_522">
+    <value column="Name" original="Print Format Item Trl">打印格式项目 **</value>
+  </row>
+  <row id="523" trl="N" eid="VIS_523">
+    <value column="Name" original="Print Table Format">打印格式</value>
+  </row>
+  <row id="524" trl="N" eid="VIS_524">
+    <value column="Name" original="Dunning Run Line">催款运行线路</value>
+  </row>
+  <row id="525" trl="N" eid="VIS_525">
+    <value column="Name" original="Pay Selection Check">收费检查的选择</value>
+  </row>
+  <row id="526" trl="N" eid="VIS_526">
+    <value column="Name" original="Dunning Run">进行时</value>
+  </row>
+  <row id="527" trl="N" eid="VIS_527">
+    <value column="Name" original="Dunning Run Entry">催款运行进入</value>
+  </row>
+  <row id="528" trl="N" eid="VIS_528">
+    <value column="Name" original="R_ContactInterest">R_ContactInterest</value>
+  </row>
+  <row id="529" trl="N" eid="VIS_529">
+    <value column="Name" original="Request Type">案例类型</value>
+  </row>
+  <row id="530" trl="N" eid="VIS_530">
+    <value column="Name" original="Interest Area">感兴趣的领域</value>
+  </row>
+  <row id="531" trl="N" eid="VIS_531">
+    <value column="Name" original="System">系统</value>
+  </row>
+  <row id="532" trl="N" eid="VIS_532">
+    <value column="Name" original="Import Product">进口产品</value>
+  </row>
+  <row id="533" trl="N" eid="VIS_533">
+    <value column="Name" original="Import Business Partner">进口业务合作伙伴</value>
+  </row>
+  <row id="534" trl="N" eid="VIS_534">
+    <value column="Name" original="Import Account">导入帐户</value>
+  </row>
+  <row id="535" trl="N" eid="VIS_535">
+    <value column="Name" original="Import Report Line Set">报告导入线集</value>
+  </row>
+  <row id="537" trl="N" eid="VIS_537">
+    <value column="Name" original="Training Class">培训班</value>
+  </row>
+  <row id="538" trl="N" eid="VIS_538">
+    <value column="Name" original="Training">训练</value>
+  </row>
+  <row id="539" trl="N" eid="VIS_539">
+    <value column="Name" original="Asset">财富</value>
+  </row>
+  <row id="540" trl="N" eid="VIS_540">
+    <value column="Name" original="Asset Retirement">资产报废</value>
+  </row>
+  <row id="541" trl="N" eid="VIS_541">
+    <value column="Name" original="Asset Delivery">资产交割</value>
+  </row>
+  <row id="542" trl="N" eid="VIS_542">
+    <value column="Name" original="Asset Group">资产组</value>
+  </row>
+  <row id="544" trl="N" eid="VIS_544">
+    <value column="Name" original="T_Report">T_Report</value>
+  </row>
+  <row id="545" trl="N" eid="VIS_545">
+    <value column="Name" original="T_ReportStatement">T_ReportStatement</value>
+  </row>
+  <row id="546" trl="N" eid="VIS_546">
+    <value column="Name" original="Tax Trl">税 **</value>
+  </row>
+  <row id="547" trl="N" eid="VIS_547">
+    <value column="Name" original="Fact_Acct_Balance">Fact_Acct_Balance</value>
+  </row>
+  <row id="548" trl="N" eid="VIS_548">
+    <value column="Name" original="Payment Schedule">付款时间表</value>
+  </row>
+  <row id="549" trl="N" eid="VIS_549">
+    <value column="Name" original="Basket Line">篮线</value>
+  </row>
+  <row id="550" trl="N" eid="VIS_550">
+    <value column="Name" original="Web Click">网页点击</value>
+  </row>
+  <row id="551" trl="N" eid="VIS_551">
+    <value column="Name" original="Invoice Payment Schedule">发票付款时间表</value>
+  </row>
+  <row id="552" trl="N" eid="VIS_552">
+    <value column="Name" original="Counter Count">计数器的计</value>
+  </row>
+  <row id="553" trl="N" eid="VIS_553">
+    <value column="Name" original="Click Count">点击数</value>
+  </row>
+  <row id="554" trl="N" eid="VIS_554">
+    <value column="Name" original="Payment_v">Payment_v</value>
+  </row>
+  <row id="555" trl="N" eid="VIS_555">
+    <value column="Name" original="Serial No Control">序列号控制</value>
+  </row>
+  <row id="556" trl="N" eid="VIS_556">
+    <value column="Name" original="Lot Control">批次控制</value>
+  </row>
+  <row id="557" trl="N" eid="VIS_557">
+    <value column="Name" original="Lot">很多</value>
+  </row>
+  <row id="558" trl="N" eid="VIS_558">
+    <value column="Name" original="Attribute Value">属性值</value>
+  </row>
+  <row id="559" trl="N" eid="VIS_559">
+    <value column="Name" original="Attribute Set Instance">属性集实例</value>
+  </row>
+  <row id="560" trl="N" eid="VIS_560">
+    <value column="Name" original="Attribute Set">属性组</value>
+  </row>
+  <row id="561" trl="N" eid="VIS_561">
+    <value column="Name" original="M_AttributeInstance">M_AttributeInstance</value>
+  </row>
+  <row id="562" trl="N" eid="VIS_562">
+    <value column="Name" original="Attribute">属性</value>
+  </row>
+  <row id="563" trl="N" eid="VIS_563">
+    <value column="Name" original="M_AttributeUse">M_AttributeUse</value>
+  </row>
+  <row id="564" trl="N" eid="VIS_564">
+    <value column="Name" original="Attribute Search">属性搜索</value>
+  </row>
+  <row id="565" trl="N" eid="VIS_565">
+    <value column="Name" original="AD_Table_Access">AD_Table_Access</value>
+  </row>
+  <row id="566" trl="N" eid="VIS_566">
+    <value column="Name" original="Session">会议</value>
+  </row>
+  <row id="567" trl="N" eid="VIS_567">
+    <value column="Name" original="AD_Record_Access">AD_Record_Access</value>
+  </row>
+  <row id="568" trl="N" eid="VIS_568">
+    <value column="Name" original="Print Label Line Trl">打印标签行 **</value>
+  </row>
+  <row id="569" trl="N" eid="VIS_569">
+    <value column="Name" original="Print Label Line">打印标签行</value>
+  </row>
+  <row id="570" trl="N" eid="VIS_570">
+    <value column="Name" original="Print Label">打印标签</value>
+  </row>
+  <row id="571" trl="N" eid="VIS_571">
+    <value column="Name" original="AD_Column_Access">AD_Column_Access</value>
+  </row>
+  <row id="572" trl="N" eid="VIS_572">
+    <value column="Name" original="Import Inventory">进口库存</value>
+  </row>
+  <row id="573" trl="N" eid="VIS_573">
+    <value column="Name" original="Recurring Run">周期性运行</value>
+  </row>
+  <row id="574" trl="N" eid="VIS_574">
+    <value column="Name" original="Recurring">经常性</value>
+  </row>
+  <row id="575" trl="N" eid="VIS_575">
+    <value column="Name" original="Project Type">项目类型</value>
+  </row>
+  <row id="576" trl="N" eid="VIS_576">
+    <value column="Name" original="Project Phase">项目一期工程</value>
+  </row>
+  <row id="577" trl="N" eid="VIS_577">
+    <value column="Name" original="Standard Phase">标准相</value>
+  </row>
+  <row id="578" trl="N" eid="VIS_578">
+    <value column="Name" original="AD_PInstance_Log">AD_PInstance_Log</value>
+  </row>
+  <row id="579" trl="N" eid="VIS_579">
+    <value column="Name" original="Advertisement">广告</value>
+  </row>
+  <row id="580" trl="N" eid="VIS_580">
+    <value column="Name" original="Change Log">更改日志</value>
+  </row>
+  <row id="581" trl="N" eid="VIS_581">
+    <value column="Name" original="Time Type">时间类型</value>
+  </row>
+  <row id="583" trl="N" eid="VIS_583">
+    <value column="Name" original="Standard Task">标准的任务</value>
+  </row>
+  <row id="584" trl="N" eid="VIS_584">
+    <value column="Name" original="Project Task">项目任务</value>
+  </row>
+  <row id="585" trl="N" eid="VIS_585">
+    <value column="Name" original="Org Assignment">组织分配</value>
+  </row>
+  <row id="586" trl="N" eid="VIS_586">
+    <value column="Name" original="Cost Type">成本类型</value>
+  </row>
+  <row id="590" trl="N" eid="VIS_590">
+    <value column="Name" original="Cycle Step">循环步骤</value>
+  </row>
+  <row id="591" trl="N" eid="VIS_591">
+    <value column="Name" original="Import Order">进口订单</value>
+  </row>
+  <row id="592" trl="N" eid="VIS_592">
+    <value column="Name" original="Alert Recipient">警报接收方</value>
+  </row>
+  <row id="593" trl="N" eid="VIS_593">
+    <value column="Name" original="Alert Rule">警报规则</value>
+  </row>
+  <row id="594" trl="N" eid="VIS_594">
+    <value column="Name" original="Alert">警报</value>
+  </row>
+  <row id="595" trl="N" eid="VIS_595">
+    <value column="Name" original="Freight Category">货运分类</value>
+  </row>
+  <row id="596" trl="N" eid="VIS_596">
+    <value column="Name" original="Freight">货物</value>
+  </row>
+  <row id="597" trl="N" eid="VIS_597">
+    <value column="Name" original="Import Payment">进口付汇</value>
+  </row>
+  <row id="598" trl="N" eid="VIS_598">
+    <value column="Name" original="Import Invoice">导入发票</value>
+  </row>
+  <row id="599" trl="N" eid="VIS_599">
+    <value column="Name" original="Import GL Journal">进口GL杂志</value>
+  </row>
+  <row id="600" trl="N" eid="VIS_600">
+    <value column="Name" original="Import Bank Statement">进出口银行对帐单</value>
+  </row>
+  <row id="601" trl="N" eid="VIS_601">
+    <value column="Name" original="Replication Table">复制表</value>
+  </row>
+  <row id="602" trl="N" eid="VIS_602">
+    <value column="Name" original="Replication Strategy">复制策略</value>
+  </row>
+  <row id="603" trl="N" eid="VIS_603">
+    <value column="Name" original="Replication Run">复制运行</value>
+  </row>
+  <row id="604" trl="N" eid="VIS_604">
+    <value column="Name" original="Replication Log">复制日志</value>
+  </row>
+  <row id="605" trl="N" eid="VIS_605">
+    <value column="Name" original="Replication">复制</value>
+  </row>
+  <row id="606" trl="N" eid="VIS_606">
+    <value column="Name" original="Knowldge Type">所学知识类型</value>
+  </row>
+  <row id="607" trl="N" eid="VIS_607">
+    <value column="Name" original="Knowledge Topic">主题知识</value>
+  </row>
+  <row id="608" trl="N" eid="VIS_608">
+    <value column="Name" original="Knowledge Synonym">知识同义词</value>
+  </row>
+  <row id="609" trl="N" eid="VIS_609">
+    <value column="Name" original="Knowledge Source">知识来源</value>
+  </row>
+  <row id="610" trl="N" eid="VIS_610">
+    <value column="Name" original="Related Entry">有关条目</value>
+  </row>
+  <row id="611" trl="N" eid="VIS_611">
+    <value column="Name" original="K_EntryCategory">K_EntryCategory</value>
+  </row>
+  <row id="612" trl="N" eid="VIS_612">
+    <value column="Name" original="Entry">输入</value>
+  </row>
+  <row id="613" trl="N" eid="VIS_613">
+    <value column="Name" original="Entry Comment">进入评论</value>
+  </row>
+  <row id="614" trl="N" eid="VIS_614">
+    <value column="Name" original="Category Value">类别值</value>
+  </row>
+  <row id="615" trl="N" eid="VIS_615">
+    <value column="Name" original="Knowledge Category">知识分类</value>
+  </row>
+  <row id="616" trl="N" eid="VIS_616">
+    <value column="Name" original="Country Trl">国家 **</value>
+  </row>
+  <row id="617" trl="N" eid="VIS_617">
+    <value column="Name" original="Currency Trl">货币 **</value>
+  </row>
+  <row id="618" trl="N" eid="VIS_618">
+    <value column="Name" original="C_Project_Header_v">C_Project_Header_v</value>
+  </row>
+  <row id="619" trl="N" eid="VIS_619">
+    <value column="Name" original="C_Project_Details_v">C_Project_Details_v</value>
+  </row>
+  <row id="620" trl="N" eid="VIS_620">
+    <value column="Name" original="Project Cycle">Project Cycle</value>
+  </row>
+  <row id="621" trl="N" eid="VIS_621">
+    <value column="Name" original="Asset Delivery">Asset Delivery</value>
+  </row>
+  <row id="622" trl="N" eid="VIS_622">
+    <value column="Name" original="Asset Customer">Asset Customer</value>
+  </row>
+  <row id="623" trl="N" eid="VIS_623">
+    <value column="Name" original="Project Issue">项目事件</value>
+  </row>
+  <row id="624" trl="N" eid="VIS_624">
+    <value column="Name" original="Label printer Function">标签打印机功能</value>
+  </row>
+  <row id="625" trl="N" eid="VIS_625">
+    <value column="Name" original="System Registration">系统注册</value>
+  </row>
+  <row id="626" trl="N" eid="VIS_626">
+    <value column="Name" original="Label printer">标签打印机</value>
+  </row>
+  <row id="627" trl="N" eid="VIS_627">
+    <value column="Name" original="AD_Private_Access">AD_Private_Access</value>
+  </row>
+  <row id="628" trl="N" eid="VIS_628">
+    <value column="Name" original="Project Line Issue">Project Line Issue</value>
+  </row>
+  <row id="629" trl="N" eid="VIS_629">
+    <value column="Name" original="Mat Transaction">Mat Transaction</value>
+  </row>
+  <row id="630" trl="N" eid="VIS_630">
+    <value column="Name" original="Warehouse Storage">Warehouse Storage</value>
+  </row>
+  <row id="631" trl="N" eid="VIS_631">
+    <value column="Name" original="T_Aging">T_Aging</value>
+  </row>
+  <row id="632" trl="N" eid="VIS_632">
+    <value column="Name" original="Product Business Partner">Product Business Partner</value>
+  </row>
+  <row id="633" trl="N" eid="VIS_633">
+    <value column="Name" original="Click Unprocessed">Click Unprocessed</value>
+  </row>
+  <row id="634" trl="N" eid="VIS_634">
+    <value column="Name" original="Click Month">Click Month</value>
+  </row>
+  <row id="635" trl="N" eid="VIS_635">
+    <value column="Name" original="Not Posted">Not Posted</value>
+  </row>
+  <row id="636" trl="N" eid="VIS_636">
+    <value column="Name" original="M_TransactionAllocation">M_TransactionAllocation</value>
+  </row>
+  <row id="637" trl="N" eid="VIS_637">
+    <value column="Name" original="Currency Type">货币类型</value>
+  </row>
+  <row id="638" trl="N" eid="VIS_638">
+    <value column="Name" original="C_Currency_Acct">C_Currency_Acct</value>
+  </row>
+  <row id="639" trl="N" eid="VIS_639">
+    <value column="Name" original="Warehouse Price">Warehouse Price</value>
+  </row>
+  <row id="640" trl="N" eid="VIS_640">
+    <value column="Name" original="Bank Statement Loader">银行对帐单装载机</value>
+  </row>
+  <row id="641" trl="N" eid="VIS_641">
+    <value column="Name" original="Import Conversion Rate">导入转换率</value>
+  </row>
+  <row id="642" trl="N" eid="VIS_642">
+    <value column="Name" original="User Substitute">用户替代</value>
+  </row>
+  <row id="643" trl="N" eid="VIS_643">
+    <value column="Name" original="Workflow Node Parameter">流程节点参数</value>
+  </row>
+  <row id="644" trl="N" eid="VIS_644">
+    <value column="Name" original="Workflow Activity">工作流活动</value>
+  </row>
+  <row id="645" trl="N" eid="VIS_645">
+    <value column="Name" original="Workflow Process">工作流流程</value>
+  </row>
+  <row id="646" trl="N" eid="VIS_646">
+    <value column="Name" original="Workflow Responsible">负责任的工作流程</value>
+  </row>
+  <row id="647" trl="N" eid="VIS_647">
+    <value column="Name" original="Workflow Block">工作流模块</value>
+  </row>
+  <row id="648" trl="N" eid="VIS_648">
+    <value column="Name" original="Workflow Process Data">工作流过程数据</value>
+  </row>
+  <row id="649" trl="N" eid="VIS_649">
+    <value column="Name" original="Workflow Event Audit">工作流事件审计</value>
+  </row>
+  <row id="650" trl="N" eid="VIS_650">
+    <value column="Name" original="Workflow Activity Result">工作流活动结果</value>
+  </row>
+  <row id="651" trl="N" eid="VIS_651">
+    <value column="Name" original="Registration">注册</value>
+  </row>
+  <row id="652" trl="N" eid="VIS_652">
+    <value column="Name" original="Registration Attribute">注册属性</value>
+  </row>
+  <row id="653" trl="N" eid="VIS_653">
+    <value column="Name" original="A_RegistrationValue">A_RegistrationValue</value>
+  </row>
+  <row id="654" trl="N" eid="VIS_654">
+    <value column="Name" original="InvoiceTax">InvoiceTax</value>
+  </row>
+  <row id="655" trl="N" eid="VIS_655">
+    <value column="Name" original="Fact Acct Period">Fact Acct Period</value>
+  </row>
+  <row id="656" trl="N" eid="VIS_656">
+    <value column="Name" original="Fact Acct Day">Fact Acct Day</value>
+  </row>
+  <row id="657" trl="N" eid="VIS_657">
+    <value column="Name" original="Accounting Fact View">Accounting Fact View</value>
+  </row>
+  <row id="658" trl="N" eid="VIS_658">
+    <value column="Name" original="Bank Statement Matcher">银行对帐单匹配器</value>
+  </row>
+  <row id="659" trl="N" eid="VIS_659">
+    <value column="Name" original="Request Processor Log">请求处理器日志</value>
+  </row>
+  <row id="662" trl="N" eid="VIS_662">
+    <value column="Name" original="Product Related">Product Related</value>
+  </row>
+  <row id="663" trl="N" eid="VIS_663">
+    <value column="Name" original="Package Line">包装线</value>
+  </row>
+  <row id="664" trl="N" eid="VIS_664">
+    <value column="Name" original="Package">包</value>
+  </row>
+  <row id="665" trl="N" eid="VIS_665">
+    <value column="Name" original="Distribution List Line">分发列表线</value>
+  </row>
+  <row id="666" trl="N" eid="VIS_666">
+    <value column="Name" original="Distribution List">分发列表</value>
+  </row>
+  <row id="667" trl="N" eid="VIS_667">
+    <value column="Name" original="Subscription Delivery">订阅传递</value>
+  </row>
+  <row id="668" trl="N" eid="VIS_668">
+    <value column="Name" original="Subscription Type">订阅类型</value>
+  </row>
+  <row id="669" trl="N" eid="VIS_669">
+    <value column="Name" original="Subscription">订阅</value>
+  </row>
+  <row id="670" trl="N" eid="VIS_670">
+    <value column="Name" original="RfQ Subscriber">询价认购</value>
+  </row>
+  <row id="671" trl="N" eid="VIS_671">
+    <value column="Name" original="RfQ Topic">询价主题</value>
+  </row>
+  <row id="672" trl="N" eid="VIS_672">
+    <value column="Name" original="RfQ Response Line Qty">询价响应行数量</value>
+  </row>
+  <row id="673" trl="N" eid="VIS_673">
+    <value column="Name" original="RfQ Response Line">询价响应行</value>
+  </row>
+  <row id="674" trl="N" eid="VIS_674">
+    <value column="Name" original="RfQ Response">询价响应</value>
+  </row>
+  <row id="675" trl="N" eid="VIS_675">
+    <value column="Name" original="RfQ Line Quantity">询价线路数量</value>
+  </row>
+  <row id="676" trl="N" eid="VIS_676">
+    <value column="Name" original="RfQ Line">RFQ线</value>
+  </row>
+  <row id="677" trl="N" eid="VIS_677">
+    <value column="Name" original="RfQ">询价</value>
+  </row>
+  <row id="678" trl="N" eid="VIS_678">
+    <value column="Name" original="Partner Relation">合作伙伴关系</value>
+  </row>
+  <row id="679" trl="N" eid="VIS_679">
+    <value column="Name" original="Topic">主题</value>
+  </row>
+  <row id="680" trl="N" eid="VIS_680">
+    <value column="Name" original="Seller Funds">卖家基金</value>
+  </row>
+  <row id="681" trl="N" eid="VIS_681">
+    <value column="Name" original="B_Seller">B_Seller</value>
+  </row>
+  <row id="682" trl="N" eid="VIS_682">
+    <value column="Name" original="Offer">提供</value>
+  </row>
+  <row id="683" trl="N" eid="VIS_683">
+    <value column="Name" original="Buyer Funds">买家资金</value>
+  </row>
+  <row id="684" trl="N" eid="VIS_684">
+    <value column="Name" original="B_Buyer">B_Buyer</value>
+  </row>
+  <row id="685" trl="N" eid="VIS_685">
+    <value column="Name" original="Bid Comment">投标评论</value>
+  </row>
+  <row id="686" trl="N" eid="VIS_686">
+    <value column="Name" original="Bid">投标</value>
+  </row>
+  <row id="687" trl="N" eid="VIS_687">
+    <value column="Name" original="Scheduler Log">调度日志</value>
+  </row>
+  <row id="688" trl="N" eid="VIS_688">
+    <value column="Name" original="Scheduler">调度</value>
+  </row>
+  <row id="689" trl="N" eid="VIS_689">
+    <value column="Name" original="Organization Type">组织类型</value>
+  </row>
+  <row id="690" trl="N" eid="VIS_690">
+    <value column="Name" original="Topic Type">主题类型</value>
+  </row>
+  <row id="691" trl="N" eid="VIS_691">
+    <value column="Name" original="Topic Category">主题类别</value>
+  </row>
+  <row id="694" trl="N" eid="VIS_694">
+    <value column="Name" original="Accounting Processor Log">会计处理器日志</value>
+  </row>
+  <row id="695" trl="N" eid="VIS_695">
+    <value column="Name" original="Accounting Processor">会计处理器</value>
+  </row>
+  <row id="696" trl="N" eid="VIS_696">
+    <value column="Name" original="Workflow Processorl Log">工作流Processorl日志</value>
+  </row>
+  <row id="697" trl="N" eid="VIS_697">
+    <value column="Name" original="Workflow Processor">工作流处理器</value>
+  </row>
+  <row id="698" trl="N" eid="VIS_698">
+    <value column="Name" original="AD_Scheduler_Para">AD_Scheduler_Para</value>
+  </row>
+  <row id="699" trl="N" eid="VIS_699">
+    <value column="Name" original="Alert Processor Log">警报处理器日志</value>
+  </row>
+  <row id="700" trl="N" eid="VIS_700">
+    <value column="Name" original="Alert Processor">警报处理器</value>
+  </row>
+  <row id="701" trl="N" eid="VIS_701">
+    <value column="Name" original="Tax ZIP">税务ZIP</value>
+  </row>
+  <row id="702" trl="N" eid="VIS_702">
+    <value column="Name" original="Requisition">征用</value>
+  </row>
+  <row id="703" trl="N" eid="VIS_703">
+    <value column="Name" original="Requisition Line">申请行</value>
+  </row>
+  <row id="704" trl="N" eid="VIS_704">
+    <value column="Name" original="Scheduler Recipient">调度收件人</value>
+  </row>
+  <row id="705" trl="N" eid="VIS_705">
+    <value column="Name" original="Attachment Note">附件说明</value>
+  </row>
+  <row id="706" trl="N" eid="VIS_706">
+    <value column="Name" original="Transition Condition">转移条件</value>
+  </row>
+  <row id="707" trl="N" eid="VIS_707">
+    <value column="Name" original="GL Distribution Line">GL配电线路</value>
+  </row>
+  <row id="708" trl="N" eid="VIS_708">
+    <value column="Name" original="GL Distribution">GL分配</value>
+  </row>
+  <row id="709" trl="N" eid="VIS_709">
+    <value column="Name" original="RfQ UnAnswered">RfQ UnAnswered</value>
+  </row>
+  <row id="710" trl="N" eid="VIS_710">
+    <value column="Name" original="RfQ Response">RfQ Response</value>
+  </row>
+  <row id="711" trl="N" eid="VIS_711">
+    <value column="Name" original="Requisition">Requisition</value>
+  </row>
+  <row id="712" trl="N" eid="VIS_712">
+    <value column="Name" original="Distribution Run">分配运行</value>
+  </row>
+  <row id="713" trl="N" eid="VIS_713">
+    <value column="Name" original="Distribution Run Line">配电线路运行</value>
+  </row>
+  <row id="714" trl="N" eid="VIS_714">
+    <value column="Name" original="T_DistributionRunDetail">T_DistributionRunDetail</value>
+  </row>
+  <row id="715" trl="N" eid="VIS_715">
+    <value column="Name" original="Registration Product">Registration Product</value>
+  </row>
+  <row id="716" trl="N" eid="VIS_716">
+    <value column="Name" original="Asset SumMonth">Asset SumMonth</value>
+  </row>
+  <row id="717" trl="N" eid="VIS_717">
+    <value column="Name" original="Access Log">访问日志</value>
+  </row>
+  <row id="718" trl="N" eid="VIS_718">
+    <value column="Name" original="Counter Document">文件柜</value>
+  </row>
+  <row id="719" trl="N" eid="VIS_719">
+    <value column="Name" original="Demand Line">需求线</value>
+  </row>
+  <row id="720" trl="N" eid="VIS_720">
+    <value column="Name" original="Forecast">预测</value>
+  </row>
+  <row id="721" trl="N" eid="VIS_721">
+    <value column="Name" original="Demand Detail">需求明细</value>
+  </row>
+  <row id="722" trl="N" eid="VIS_722">
+    <value column="Name" original="Forecast Line">预测线</value>
+  </row>
+  <row id="723" trl="N" eid="VIS_723">
+    <value column="Name" original="Demand">需求</value>
+  </row>
+  <row id="724" trl="N" eid="VIS_724">
+    <value column="Name" original="C_RfQResponseLine_v">C_RfQResponseLine_v</value>
+  </row>
+  <row id="725" trl="N" eid="VIS_725">
+    <value column="Name" original="C_RfQResponse_v">C_RfQResponse_v</value>
+  </row>
+  <row id="726" trl="N" eid="VIS_726">
+    <value column="Name" original="C_RfQResponseLineQty_v">C_RfQResponseLineQty_v</value>
+  </row>
+  <row id="727" trl="N" eid="VIS_727">
+    <value column="Name" original="Ship/Receipt Confirmation">船舶/接收确认</value>
+  </row>
+  <row id="728" trl="N" eid="VIS_728">
+    <value column="Name" original="Ship/Receipt Confirmation Line">船舶/接收确认线路</value>
+  </row>
+  <row id="730" trl="N" eid="VIS_730">
+    <value column="Name" original="InOut Confirm">InOut Confirm</value>
+  </row>
+  <row id="731" trl="N" eid="VIS_731">
+    <value column="Name" original="InOut Line Confirm">InOut Line Confirm</value>
+  </row>
+  <row id="732" trl="N" eid="VIS_732">
+    <value column="Name" original="Shipment/Receipt Confirmation v">Shipment/Receipt Confirmation v</value>
+  </row>
+  <row id="733" trl="N" eid="VIS_733">
+    <value column="Name" original="Shipment/Receipt Confirmation">Shipment/Receipt Confirmation</value>
+  </row>
+  <row id="735" trl="N" eid="VIS_735">
+    <value column="Name" original="Allocation">分配</value>
+  </row>
+  <row id="736" trl="N" eid="VIS_736">
+    <value column="Name" original="Allocation">Allocation</value>
+  </row>
+  <row id="737" trl="N" eid="VIS_737">
+    <value column="Name" original="Move Line Confirm">动线确认</value>
+  </row>
+  <row id="738" trl="N" eid="VIS_738">
+    <value column="Name" original="Move Confirm">此举确认</value>
+  </row>
+  <row id="739" trl="N" eid="VIS_739">
+    <value column="Name" original="PrintFormat Detail">PrintFormat Detail</value>
+  </row>
+  <row id="740" trl="N" eid="VIS_740">
+    <value column="Name" original="Ship/Receipt Confirmation Import Line">船舶/接收确认导入线</value>
+  </row>
+  <row id="741" trl="N" eid="VIS_741">
+    <value column="Name" original="C_Dunning_Header_v">C_Dunning_Header_v</value>
+  </row>
+  <row id="742" trl="N" eid="VIS_742">
+    <value column="Name" original="C_Dunning_Line_v">C_Dunning_Line_v</value>
+  </row>
+  <row id="743" trl="N" eid="VIS_743">
+    <value column="Name" original="SLA Measure">SLA措施</value>
+  </row>
+  <row id="744" trl="N" eid="VIS_744">
+    <value column="Name" original="SLA Criteria">SLA标准</value>
+  </row>
+  <row id="745" trl="N" eid="VIS_745">
+    <value column="Name" original="SLA Goal">SLA目标</value>
+  </row>
+  <row id="746" trl="N" eid="VIS_746">
+    <value column="Name" original="Table Trl">表 **</value>
+  </row>
+  <row id="747" trl="N" eid="VIS_747">
+    <value column="Name" original="RfQ Topic Subscriber Restriction">询价主题订阅者限制</value>
+  </row>
+  <row id="748" trl="N" eid="VIS_748">
+    <value column="Name" original="POS Terminal">POS终端</value>
+  </row>
+  <row id="749" trl="N" eid="VIS_749">
+    <value column="Name" original="POS Key Layout">POS重点布局</value>
+  </row>
+  <row id="750" trl="N" eid="VIS_750">
+    <value column="Name" original="POS Key">POS密钥</value>
+  </row>
+  <row id="751" trl="N" eid="VIS_751">
+    <value column="Name" original="InOut Details">InOut Details</value>
+  </row>
+  <row id="752" trl="N" eid="VIS_752">
+    <value column="Name" original="Column Trl">柱 **</value>
+  </row>
+  <row id="753" trl="N" eid="VIS_753">
+    <value column="Name" original="Trial Balance">Trial Balance</value>
+  </row>
+  <row id="754" trl="N" eid="VIS_754">
+    <value column="Name" original="Archive">存档</value>
+  </row>
+  <row id="755" trl="N" eid="VIS_755">
+    <value column="Name" original="RV_Payment">RV_Payment</value>
+  </row>
+  <row id="756" trl="N" eid="VIS_756">
+    <value column="Name" original="BPartnerOpen">BPartnerOpen</value>
+  </row>
+  <row id="757" trl="N" eid="VIS_757">
+    <value column="Name" original="Commission Run Detail">Commission Run Detail</value>
+  </row>
+  <row id="758" trl="N" eid="VIS_758">
+    <value column="Name" original="T_Transaction">T_Transaction</value>
+  </row>
+  <row id="759" trl="N" eid="VIS_759">
+    <value column="Name" original="Landed Cost">到岸成本</value>
+  </row>
+  <row id="760" trl="N" eid="VIS_760">
+    <value column="Name" original="Landed Cost Allocation">到岸成本分配</value>
+  </row>
+  <row id="761" trl="N" eid="VIS_761">
+    <value column="Name" original="C_ProjectIssueMA">C_ProjectIssueMA</value>
+  </row>
+  <row id="762" trl="N" eid="VIS_762">
+    <value column="Name" original="M_InOutLineMA">M_InOutLineMA</value>
+  </row>
+  <row id="763" trl="N" eid="VIS_763">
+    <value column="Name" original="M_InventoryLineMA">M_InventoryLineMA</value>
+  </row>
+  <row id="764" trl="N" eid="VIS_764">
+    <value column="Name" original="M_MovementLineMA">M_MovementLineMA</value>
+  </row>
+  <row id="765" trl="N" eid="VIS_765">
+    <value column="Name" original="Production Line MA">Production Line MA</value>
+  </row>
+  <row id="766" trl="N" eid="VIS_766">
+    <value column="Name" original="M_Transaction_v">M_Transaction_v</value>
+  </row>
+  <row id="767" trl="N" eid="VIS_767">
+    <value column="Name" original="Invoice Batch">发票批</value>
+  </row>
+  <row id="768" trl="N" eid="VIS_768">
+    <value column="Name" original="Invoice Batch Line">发票批线</value>
+  </row>
+  <row id="769" trl="N" eid="VIS_769">
+    <value column="Name" original="AD_User_OrgAccess">AD_User_OrgAccess</value>
+  </row>
+  <row id="770" trl="N" eid="VIS_770">
+    <value column="Name" original="Cost Element">成本要素</value>
+  </row>
+  <row id="771" trl="N" eid="VIS_771">
+    <value column="Name" original="Product Cost">Product Cost</value>
+  </row>
+  <row id="772" trl="N" eid="VIS_772">
+    <value column="Name" original="Category">类别</value>
+  </row>
+  <row id="773" trl="N" eid="VIS_773">
+    <value column="Name" original="Group">组</value>
+  </row>
+  <row id="774" trl="N" eid="VIS_774">
+    <value column="Name" original="Resolution">解析度</value>
+  </row>
+  <row id="775" trl="N" eid="VIS_775">
+    <value column="Name" original="Standard Response">标准响应</value>
+  </row>
+  <row id="776" trl="N" eid="VIS_776">
+    <value column="Name" original="Status">状态</value>
+  </row>
+  <row id="777" trl="N" eid="VIS_777">
+    <value column="Name" original="Product Download">产品下载</value>
+  </row>
+  <row id="778" trl="N" eid="VIS_778">
+    <value column="Name" original="Web Store">网上商店</value>
+  </row>
+  <row id="779" trl="N" eid="VIS_779">
+    <value column="Name" original="Web Store Trl">网上商店 **</value>
+  </row>
+  <row id="780" trl="N" eid="VIS_780">
+    <value column="Name" original="Mail Message">邮件</value>
+  </row>
+  <row id="781" trl="N" eid="VIS_781">
+    <value column="Name" original="Mail Message Trl">邮件 **</value>
+  </row>
+  <row id="782" trl="N" eid="VIS_782">
+    <value column="Name" original="User Mail">用户邮件</value>
+  </row>
+  <row id="783" trl="N" eid="VIS_783">
+    <value column="Name" original="Request Update Recipiants">Request Update Recipiants</value>
+  </row>
+  <row id="784" trl="N" eid="VIS_784">
+    <value column="Name" original="Request Type Updates">Request Type Updates</value>
+  </row>
+  <row id="785" trl="N" eid="VIS_785">
+    <value column="Name" original="R_CategoryUpdates">R_CategoryUpdates</value>
+  </row>
+  <row id="786" trl="N" eid="VIS_786">
+    <value column="Name" original="R_GroupUpdates">R_GroupUpdates</value>
+  </row>
+  <row id="787" trl="N" eid="VIS_787">
+    <value column="Name" original="Request Updates">Request Updates</value>
+  </row>
+  <row id="788" trl="N" eid="VIS_788">
+    <value column="Name" original="Request Updates Only">Request Updates Only</value>
+  </row>
+  <row id="789" trl="N" eid="VIS_789">
+    <value column="Name" original="Position">位置</value>
+  </row>
+  <row id="790" trl="N" eid="VIS_790">
+    <value column="Name" original="Position Category">位置范畴</value>
+  </row>
+  <row id="791" trl="N" eid="VIS_791">
+    <value column="Name" original="Position Assignment">岗位聘任</value>
+  </row>
+  <row id="792" trl="N" eid="VIS_792">
+    <value column="Name" original="Remuneration">报酬</value>
+  </row>
+  <row id="793" trl="N" eid="VIS_793">
+    <value column="Name" original="Position Remuneration">位置薪酬</value>
+  </row>
+  <row id="794" trl="N" eid="VIS_794">
+    <value column="Name" original="Employee Remuneration">员工薪酬</value>
+  </row>
+  <row id="795" trl="N" eid="VIS_795">
+    <value column="Name" original="Alternative Group">另类集团</value>
+  </row>
+  <row id="796" trl="N" eid="VIS_796">
+    <value column="Name" original="Product Operation">产品操作</value>
+  </row>
+  <row id="798" trl="N" eid="VIS_798">
+    <value column="Name" original="BOM">BOM</value>
+  </row>
+  <row id="799" trl="N" eid="VIS_799">
+    <value column="Name" original="Change Notice">变更通知</value>
+  </row>
+  <row id="800" trl="N" eid="VIS_800">
+    <value column="Name" original="Change Case">变更案例</value>
+  </row>
+  <row id="801" trl="N" eid="VIS_801">
+    <value column="Name" original="BOM Component Line">BOM组件线</value>
+  </row>
+  <row id="802" trl="N" eid="VIS_802">
+    <value column="Name" original="Request Update">请求更新</value>
+  </row>
+  <row id="803" trl="N" eid="VIS_803">
+    <value column="Name" original="T_InvoiceGL">T_InvoiceGL</value>
+  </row>
+  <row id="804" trl="N" eid="VIS_804">
+    <value column="Name" original="T_InvoiceGL_v">T_InvoiceGL_v</value>
+  </row>
+  <row id="805" trl="N" eid="VIS_805">
+    <value column="Name" original="Product Costs">Product Costs</value>
+  </row>
+  <row id="806" trl="N" eid="VIS_806">
+    <value column="Name" original="Product Cost Summary">Product Cost Summary</value>
+  </row>
+  <row id="807" trl="N" eid="VIS_807">
+    <value column="Name" original="Product Cost Detail">Product Cost Detail</value>
+  </row>
+  <row id="808" trl="N" eid="VIS_808">
+    <value column="Name" original="Cost Detail">成本明细</value>
+  </row>
+  <row id="809" trl="N" eid="VIS_809">
+    <value column="Name" original="Exclude Attribute Set">排除属性集</value>
+  </row>
+  <row id="810" trl="N" eid="VIS_810">
+    <value column="Name" original="Exclude Lot">排除地块</value>
+  </row>
+  <row id="811" trl="N" eid="VIS_811">
+    <value column="Name" original="Exclude SerNo">排除SerNo</value>
+  </row>
+  <row id="812" trl="N" eid="VIS_812">
+    <value column="Name" original="Allocate Payment">分配付款</value>
+  </row>
+  <row id="813" trl="N" eid="VIS_813">
+    <value column="Name" original="User BP Access">用户访问BP</value>
+  </row>
+  <row id="814" trl="N" eid="VIS_814">
+    <value column="Name" original="User Query">用户查询</value>
+  </row>
+  <row id="815" trl="N" eid="VIS_815">
+    <value column="Name" original="M_InOutLineMA_v">M_InOutLineMA_v</value>
+  </row>
+  <row id="816" trl="N" eid="VIS_816">
+    <value column="Name" original="M_MovementLineMA_v">M_MovementLineMA_v</value>
+  </row>
+  <row id="817" trl="N" eid="VIS_817">
+    <value column="Name" original="Cost Queue">成本队列</value>
+  </row>
+  <row id="818" trl="N" eid="VIS_818">
+    <value column="Name" original="Tax Declaration">纳税申报</value>
+  </row>
+  <row id="819" trl="N" eid="VIS_819">
+    <value column="Name" original="Tax Declaration Line">纳税申报行</value>
+  </row>
+  <row id="820" trl="N" eid="VIS_820">
+    <value column="Name" original="Tax Declaration Accounting">纳税申报会计</value>
+  </row>
+  <row id="821" trl="N" eid="VIS_821">
+    <value column="Name" original="Reporting Hierarchy">报告层次结构</value>
+  </row>
+  <row id="822" trl="N" eid="VIS_822">
+    <value column="Name" original="Budget Control">预算控制</value>
+  </row>
+  <row id="823" trl="N" eid="VIS_823">
+    <value column="Name" original="GL Fund">GL基金</value>
+  </row>
+  <row id="824" trl="N" eid="VIS_824">
+    <value column="Name" original="Fund Restriction">基金限制</value>
+  </row>
+  <row id="825" trl="N" eid="VIS_825">
+    <value column="Name" original="Sub Account">子帐户</value>
+  </row>
+  <row id="826" trl="N" eid="VIS_826">
+    <value column="Name" original="Mail Template Trl">邮件模板 **</value>
+  </row>
+  <row id="827" trl="N" eid="VIS_827">
+    <value column="Name" original="Tenant Share">租户分享</value>
+  </row>
+  <row id="828" trl="N" eid="VIS_828">
+    <value column="Name" original="System Issue">系统问题</value>
+  </row>
+  <row id="829" trl="N" eid="VIS_829">
+    <value column="Name" original="Invoice ProductQtr">Invoice ProductQtr</value>
+  </row>
+  <row id="830" trl="N" eid="VIS_830">
+    <value column="Name" original="Invoice ProductMonth">Invoice ProductMonth</value>
+  </row>
+  <row id="831" trl="N" eid="VIS_831">
+    <value column="Name" original="Color Schema">颜色模式</value>
+  </row>
+  <row id="832" trl="N" eid="VIS_832">
+    <value column="Name" original="Goal Restriction">目标限制</value>
+  </row>
+  <row id="833" trl="N" eid="VIS_833">
+    <value column="Name" original="Benchmark">基准测试</value>
+  </row>
+  <row id="834" trl="N" eid="VIS_834">
+    <value column="Name" original="Benchmark Data">基准测试数据</value>
+  </row>
+  <row id="835" trl="N" eid="VIS_835">
+    <value column="Name" original="Ratio">比</value>
+  </row>
+  <row id="836" trl="N" eid="VIS_836">
+    <value column="Name" original="Ratio Element">比例元</value>
+  </row>
+  <row id="837" trl="N" eid="VIS_837">
+    <value column="Name" original="Issue Recommendation">问题建议</value>
+  </row>
+  <row id="838" trl="N" eid="VIS_838">
+    <value column="Name" original="Issue Status">问题状态</value>
+  </row>
+  <row id="839" trl="N" eid="VIS_839">
+    <value column="Name" original="Known Issue">已知问题</value>
+  </row>
+  <row id="841" trl="N" eid="VIS_841">
+    <value column="Name" original="Issue User">用户的问题</value>
+  </row>
+  <row id="842" trl="N" eid="VIS_842">
+    <value column="Name" original="Issue Project">一期工程</value>
+  </row>
+  <row id="843" trl="N" eid="VIS_843">
+    <value column="Name" original="Issue System">发行制度</value>
+  </row>
+  <row id="844" trl="N" eid="VIS_844">
+    <value column="Name" original="Status Category">状态分类</value>
+  </row>
+  <row id="845" trl="N" eid="VIS_845">
+    <value column="Name" original="Tree Node CM Container">Tree Node CM Container</value>
+  </row>
+  <row id="846" trl="N" eid="VIS_846">
+    <value column="Name" original="Tree Node CM Media">Tree Node CM Media</value>
+  </row>
+  <row id="847" trl="N" eid="VIS_847">
+    <value column="Name" original="Tree Node CM Stage">Tree Node CM Stage</value>
+  </row>
+  <row id="848" trl="N" eid="VIS_848">
+    <value column="Name" original="Tree Node CM Template">Tree Node CM Template</value>
+  </row>
+  <row id="849" trl="N" eid="VIS_849">
+    <value column="Name" original="Tree Node User 4">Tree Node User 4</value>
+  </row>
+  <row id="850" trl="N" eid="VIS_850">
+    <value column="Name" original="Tree Node User 3">Tree Node User 3</value>
+  </row>
+  <row id="851" trl="N" eid="VIS_851">
+    <value column="Name" original="Tree Node User 2">Tree Node User 2</value>
+  </row>
+  <row id="852" trl="N" eid="VIS_852">
+    <value column="Name" original="Tree Node User 1">Tree Node User 1</value>
+  </row>
+  <row id="853" trl="N" eid="VIS_853">
+    <value column="Name" original="Web Project">网络项目</value>
+  </row>
+  <row id="854" trl="N" eid="VIS_854">
+    <value column="Name" original="Template">模板</value>
+  </row>
+  <row id="855" trl="N" eid="VIS_855">
+    <value column="Name" original="Web Container">Web容器</value>
+  </row>
+  <row id="856" trl="N" eid="VIS_856">
+    <value column="Name" original="Advertisement Category">分类广告</value>
+  </row>
+  <row id="857" trl="N" eid="VIS_857">
+    <value column="Name" original="Media Item">媒体项目</value>
+  </row>
+  <row id="858" trl="N" eid="VIS_858">
+    <value column="Name" original="Advertisement">广告</value>
+  </row>
+  <row id="859" trl="N" eid="VIS_859">
+    <value column="Name" original="Media Server">媒体服务器</value>
+  </row>
+  <row id="860" trl="N" eid="VIS_860">
+    <value column="Name" original="Container Element">容器元素</value>
+  </row>
+  <row id="861" trl="N" eid="VIS_861">
+    <value column="Name" original="Container Element Trl">容器元素 **</value>
+  </row>
+  <row id="864" trl="N" eid="VIS_864">
+    <value column="Name" original="Web Container Trl">Web容器 **</value>
+  </row>
+  <row id="865" trl="N" eid="VIS_865">
+    <value column="Name" original="Container URL">集装箱网址</value>
+  </row>
+  <row id="866" trl="N" eid="VIS_866">
+    <value column="Name" original="Web Container Stage">Web容器舞台</value>
+  </row>
+  <row id="867" trl="N" eid="VIS_867">
+    <value column="Name" original="Container Stage Element">集装箱舞台元素</value>
+  </row>
+  <row id="868" trl="N" eid="VIS_868">
+    <value column="Name" original="Container Stage Element Trl">集装箱舞台元素 **</value>
+  </row>
+  <row id="869" trl="N" eid="VIS_869">
+    <value column="Name" original="Web Container Stage Trl">Web容器舞台 **</value>
+  </row>
+  <row id="870" trl="N" eid="VIS_870">
+    <value column="Name" original="News Channel">新闻频道</value>
+  </row>
+  <row id="871" trl="N" eid="VIS_871">
+    <value column="Name" original="News Item / Article">新闻项目/条</value>
+  </row>
+  <row id="872" trl="N" eid="VIS_872">
+    <value column="Name" original="Template Advertising Category">Template Advertising Category</value>
+  </row>
+  <row id="873" trl="N" eid="VIS_873">
+    <value column="Name" original="WebProject Domain">WebProject域</value>
+  </row>
+  <row id="874" trl="N" eid="VIS_874">
+    <value column="Name" original="Chat Type">聊天类型</value>
+  </row>
+  <row id="875" trl="N" eid="VIS_875">
+    <value column="Name" original="Chat Type Update">Chat Type Update</value>
+  </row>
+  <row id="876" trl="N" eid="VIS_876">
+    <value column="Name" original="Chat">聊</value>
+  </row>
+  <row id="877" trl="N" eid="VIS_877">
+    <value column="Name" original="Chat Entry">进入聊天</value>
+  </row>
+  <row id="878" trl="N" eid="VIS_878">
+    <value column="Name" original="Chat Update">Chat Update</value>
+  </row>
+  <row id="879" trl="N" eid="VIS_879">
+    <value column="Name" original="Template Table">模板表</value>
+  </row>
+  <row id="880" trl="N" eid="VIS_880">
+    <value column="Name" original="Container T.Table">集装箱T.Table</value>
+  </row>
+  <row id="881" trl="N" eid="VIS_881">
+    <value column="Name" original="Stage T.Table">舞台T.Table</value>
+  </row>
+  <row id="882" trl="N" eid="VIS_882">
+    <value column="Name" original="Entity Type">实体类型</value>
+  </row>
+  <row id="883" trl="N" eid="VIS_883">
+    <value column="Name" original="Modification">修改</value>
+  </row>
+  <row id="885" trl="N" eid="VIS_885">
+    <value column="Name" original="Web Access Profile">Web访问配置文件</value>
+  </row>
+  <row id="886" trl="N" eid="VIS_886">
+    <value column="Name" original="Web Access BP Group">Web Access BP Group</value>
+  </row>
+  <row id="887" trl="N" eid="VIS_887">
+    <value column="Name" original="Web Access Role">Web Access Role</value>
+  </row>
+  <row id="888" trl="N" eid="VIS_888">
+    <value column="Name" original="Web Access Container">Web Access Container</value>
+  </row>
+  <row id="889" trl="N" eid="VIS_889">
+    <value column="Name" original="Web Access Stage">Web Access Stage</value>
+  </row>
+  <row id="890" trl="N" eid="VIS_890">
+    <value column="Name" original="Web Access Media">Web Access Media</value>
+  </row>
+  <row id="891" trl="N" eid="VIS_891">
+    <value column="Name" original="Web Access NewsChannel">Web Access NewsChannel</value>
+  </row>
+  <row id="892" trl="N" eid="VIS_892">
+    <value column="Name" original="Media Deploy">媒体部署</value>
+  </row>
+  <row id="893" trl="N" eid="VIS_893">
+    <value column="Name" original="Broadcast Server">广播服务器</value>
+  </row>
+  <row id="894" trl="N" eid="VIS_894">
+    <value column="Name" original="Web Access Log">Web访问日志</value>
+  </row>
+  <row id="895" trl="N" eid="VIS_895">
+    <value column="Name" original="Info Window">信息窗口</value>
+  </row>
+  <row id="896" trl="N" eid="VIS_896">
+    <value column="Name" original="Info Window Trl">信息窗口 **</value>
+  </row>
+  <row id="897" trl="N" eid="VIS_897">
+    <value column="Name" original="Info Column">信息栏</value>
+  </row>
+  <row id="898" trl="N" eid="VIS_898">
+    <value column="Name" original="Info Column Trl">信息栏 **</value>
+  </row>
+  <row id="899" trl="N" eid="VIS_899">
+    <value column="Name" original="Index Log">指数Log</value>
+  </row>
+  <row id="900" trl="N" eid="VIS_900">
+    <value column="Name" original="Index">指数</value>
+  </row>
+  <row id="901" trl="N" eid="VIS_901">
+    <value column="Name" original="Index Stop">指数停止</value>
+  </row>
+  <row id="902" trl="N" eid="VIS_902">
+    <value column="Name" original="Ldap Processor">LDAP处理器</value>
+  </row>
+  <row id="903" trl="N" eid="VIS_903">
+    <value column="Name" original="Ldap Processor Log">LDAP处理器日志</value>
+  </row>
+  <row id="904" trl="N" eid="VIS_904">
+    <value column="Name" original="Ldap Access">LDAP访问</value>
+  </row>
+  <row id="905" trl="N" eid="VIS_905">
+    <value column="Name" original="Wiki Token">维基令牌</value>
+  </row>
+  <row id="906" trl="N" eid="VIS_906">
+    <value column="Name" original="Requirement">需求</value>
+  </row>
+  <row id="907" trl="N" eid="VIS_907">
+    <value column="Name" original="CM AccessChat">CM AccessChat</value>
+  </row>
+  <row id="908" trl="N" eid="VIS_908">
+    <value column="Name" original="Form Shortcut">快捷键的形式</value>
+  </row>
+  <row id="909" trl="N" eid="VIS_909">
+    <value column="Name" original="Table Index">表索引</value>
+  </row>
+  <row id="910" trl="N" eid="VIS_910">
+    <value column="Name" original="Index Column">索引列</value>
+  </row>
+  <row id="911" trl="N" eid="VIS_911">
+    <value column="Name" original="BP Status">BP状态</value>
+  </row>
+  <row id="912" trl="N" eid="VIS_912">
+    <value column="Name" original="BP Size">BP大小</value>
+  </row>
+  <row id="913" trl="N" eid="VIS_913">
+    <value column="Name" original="Industry Code">行业代码</value>
+  </row>
+  <row id="914" trl="N" eid="VIS_914">
+    <value column="Name" original="Source">资源</value>
+  </row>
+  <row id="915" trl="N" eid="VIS_915">
+    <value column="Name" original="Product Locator">产品定位</value>
+  </row>
+  <row id="916" trl="N" eid="VIS_916">
+    <value column="Name" original="Schedule">时间表</value>
+  </row>
+  <row id="917" trl="N" eid="VIS_917">
+    <value column="Name" original="Selection">选择</value>
+  </row>
+  <row id="918" trl="N" eid="VIS_918">
+    <value column="Name" original="T_Selection2">T_Selection2</value>
+  </row>
+  <row id="919" trl="N" eid="VIS_919">
+    <value column="Name" original="Foreign Keys">Foreign Keys</value>
+  </row>
+  <row id="921" trl="N" eid="VIS_921">
+    <value column="Name" original="Entity Version">实体版</value>
+  </row>
+  <row id="922" trl="N" eid="VIS_922">
+    <value column="Name" original="Migration Step">迁移步骤</value>
+  </row>
+  <row id="923" trl="N" eid="VIS_923">
+    <value column="Name" original="Lead">铅</value>
+  </row>
+  <row id="924" trl="N" eid="VIS_924">
+    <value column="Name" original="Opportunity">Opportunity</value>
+  </row>
+  <row id="925" trl="N" eid="VIS_925">
+    <value column="Name" original="Lead Qualification">铅资质</value>
+  </row>
+  <row id="926" trl="N" eid="VIS_926">
+    <value column="Name" original="Context Area">上下文区域</value>
+  </row>
+  <row id="927" trl="N" eid="VIS_927">
+    <value column="Name" original="Element Context">元素上下文</value>
+  </row>
+  <row id="928" trl="N" eid="VIS_928">
+    <value column="Name" original="Element Context Trl">元素上下文 **</value>
+  </row>
+  <row id="929" trl="N" eid="VIS_929">
+    <value column="Name" original="Import Contact">导入联​​系人</value>
+  </row>
+  <row id="930" trl="N" eid="VIS_930">
+    <value column="Name" original="Auto Assignment">自动分配</value>
+  </row>
+  <row id="931" trl="N" eid="VIS_931">
+    <value column="Name" original="Assign Target">分配目标</value>
+  </row>
+  <row id="932" trl="N" eid="VIS_932">
+    <value column="Name" original="Assign Criteria">分配标准</value>
+  </row>
+  <row id="933" trl="N" eid="VIS_933">
+    <value column="Name" original="Assign Log">指定日志</value>
+  </row>
+  <row id="934" trl="N" eid="VIS_934">
+    <value column="Name" original="View Component">查看组件</value>
+  </row>
+  <row id="935" trl="N" eid="VIS_935">
+    <value column="Name" original="View Column">视图列</value>
+  </row>
+  <row id="936" trl="N" eid="VIS_936">
+    <value column="Name" original="Leads by Week">Leads by Week</value>
+  </row>
+  <row id="937" trl="N" eid="VIS_937">
+    <value column="Name" original="Leads by Month">Leads by Month</value>
+  </row>
+  <row id="938" trl="N" eid="VIS_938">
+    <value column="Name" original="Project Detail Report">Project Detail Report</value>
+  </row>
+  <row id="940" trl="N" eid="VIS_940">
+    <value column="Name" original="I_Request_ID">I_Request_ID</value>
+  </row>
+  <row id="941" trl="N" eid="VIS_941">
+    <value column="Name" original="Window Access">窗口访问</value>
+  </row>
+  <row id="942" trl="N" eid="VIS_942">
+    <value column="Name" original="Query Log">查询日志</value>
+  </row>
+  <row id="943" trl="N" eid="VIS_943">
+    <value column="Name" original="View_AD_Field_v">View_AD_Field_v</value>
+  </row>
+  <row id="944" trl="N" eid="VIS_944">
+    <value column="Name" original="View_AD_Field_vt">View_AD_Field_vt</value>
+  </row>
+  <row id="945" trl="N" eid="VIS_945">
+    <value column="Name" original="View_AD_Tab_v">View_AD_Tab_v</value>
+  </row>
+  <row id="946" trl="N" eid="VIS_946">
+    <value column="Name" original="View_AD_Tab_vt">View_AD_Tab_vt</value>
+  </row>
+  <row id="947" trl="N" eid="VIS_947">
+    <value column="Name" original="View_AD_User_Roles_v">View_AD_User_Roles_v</value>
+  </row>
+  <row id="948" trl="N" eid="VIS_948">
+    <value column="Name" original="View_AD_Org_v">View_AD_Org_v</value>
+  </row>
+  <row id="949" trl="N" eid="VIS_949">
+    <value column="Name" original="View_AD_Window_v">View_AD_Window_v</value>
+  </row>
+  <row id="950" trl="N" eid="VIS_950">
+    <value column="Name" original="View_AD_Window_vt">View_AD_Window_vt</value>
+  </row>
+  <row id="951" trl="N" eid="VIS_951">
+    <value column="Name" original="View_C_Invoice_Header_vt">View_C_Invoice_Header_vt</value>
+  </row>
+  <row id="952" trl="N" eid="VIS_952">
+    <value column="Name" original="View_C_Invoice_LineTax_vt">View_C_Invoice_LineTax_vt</value>
+  </row>
+  <row id="953" trl="N" eid="VIS_953">
+    <value column="Name" original="View_C_Order_Header_vt">View_C_Order_Header_vt</value>
+  </row>
+  <row id="954" trl="N" eid="VIS_954">
+    <value column="Name" original="View_C_Order_LineTax_vt">View_C_Order_LineTax_vt</value>
+  </row>
+  <row id="955" trl="N" eid="VIS_955">
+    <value column="Name" original="View_C_PaySelection_Check_vt">View_C_PaySelection_Check_vt</value>
+  </row>
+  <row id="956" trl="N" eid="VIS_956">
+    <value column="Name" original="View_C_PaySelection_Remittance_vt">View_C_PaySelection_Remittance_vt</value>
+  </row>
+  <row id="958" trl="N" eid="VIS_958">
+    <value column="Name" original="View_M_InOut_Line_vt">View_M_InOut_Line_vt</value>
+  </row>
+  <row id="959" trl="N" eid="VIS_959">
+    <value column="Name" original="View_C_Project_Header_vt">View_C_Project_Header_vt</value>
+  </row>
+  <row id="960" trl="N" eid="VIS_960">
+    <value column="Name" original="View_C_Project_Details_vt">View_C_Project_Details_vt</value>
+  </row>
+  <row id="961" trl="N" eid="VIS_961">
+    <value column="Name" original="View_C_RfQResponse_vt">View_C_RfQResponse_vt</value>
+  </row>
+  <row id="962" trl="N" eid="VIS_962">
+    <value column="Name" original="View_C_RfQResponseLine_vt">View_C_RfQResponseLine_vt</value>
+  </row>
+  <row id="963" trl="N" eid="VIS_963">
+    <value column="Name" original="View_C_RfQResponseLineQty_vt">View_C_RfQResponseLineQty_vt</value>
+  </row>
+  <row id="964" trl="N" eid="VIS_964">
+    <value column="Name" original="View_M_InOutConfirm_vt">View_M_InOutConfirm_vt</value>
+  </row>
+  <row id="965" trl="N" eid="VIS_965">
+    <value column="Name" original="View_M_InOut_LineConfirm_vt">View_M_InOut_LineConfirm_vt</value>
+  </row>
+  <row id="966" trl="N" eid="VIS_966">
+    <value column="Name" original="View_C_Dunning_Header_vt">View_C_Dunning_Header_vt</value>
+  </row>
+  <row id="967" trl="N" eid="VIS_967">
+    <value column="Name" original="View_C_Dunning_Line_vt">View_C_Dunning_Line_vt</value>
+  </row>
+  <row id="968" trl="N" eid="VIS_968">
+    <value column="Name" original="View_R_Request_v">View_R_Request_v</value>
+  </row>
+  <row id="969" trl="N" eid="VIS_969">
+    <value column="Name" original="View_C_Invoice_v">View_C_Invoice_v</value>
+  </row>
+  <row id="970" trl="N" eid="VIS_970">
+    <value column="Name" original="View_C_Invoice_v1">View_C_Invoice_v1</value>
+  </row>
+  <row id="971" trl="N" eid="VIS_971">
+    <value column="Name" original="View_C_InvoiceLine_v">View_C_InvoiceLine_v</value>
+  </row>
+  <row id="972" trl="N" eid="VIS_972">
+    <value column="Name" original="View_C_Invoice_Candidate_v">View_C_Invoice_Candidate_v</value>
+  </row>
+  <row id="973" trl="N" eid="VIS_973">
+    <value column="Name" original="View_M_InOut_Candidate_v">View_M_InOut_Candidate_v</value>
+  </row>
+  <row id="975" trl="N" eid="VIS_975">
+    <value column="Name" original="View_GL_JournalLine_Acct_v">View_GL_JournalLine_Acct_v</value>
+  </row>
+  <row id="976" trl="N" eid="VIS_976">
+    <value column="Name" original="View_AD_ChangeLog_v">View_AD_ChangeLog_v</value>
+  </row>
+  <row id="977" trl="N" eid="VIS_977">
+    <value column="Name" original="View_T_InvoiceGL_vt">View_T_InvoiceGL_vt</value>
+  </row>
+  <row id="978" trl="N" eid="VIS_978">
+    <value column="Name" original="View_M_InOutLineMA_vt">View_M_InOutLineMA_vt</value>
+  </row>
+  <row id="979" trl="N" eid="VIS_979">
+    <value column="Name" original="View_M_MovementLineMA_vt">View_M_MovementLineMA_vt</value>
+  </row>
+  <row id="980" trl="N" eid="VIS_980">
+    <value column="Name" original="Access Records">Access Records</value>
+  </row>
+  <row id="981" trl="N" eid="VIS_981">
+    <value column="Name" original="User Query Line">用户查询行</value>
+  </row>
+  <row id="982" trl="N" eid="VIS_982">
+    <value column="Name" original="View_RV_ReceiptNotMatched">View_RV_ReceiptNotMatched</value>
+  </row>
+  <row id="983" trl="N" eid="VIS_983">
+    <value column="Name" original="Recent Item">Recent Item</value>
+  </row>
+  <row id="985" trl="N" eid="VIS_985">
+    <value column="Name" original="Return Policy">退货政策</value>
+  </row>
+  <row id="986" trl="N" eid="VIS_986">
+    <value column="Name" original="Return Policy Line">返回政策</value>
+  </row>
+  <row id="987" trl="N" eid="VIS_987">
+    <value column="Name" original="RMA Category">RMA分类</value>
+  </row>
+  <row id="988" trl="N" eid="VIS_988">
+    <value column="Name" original="Document Base Type">文档库类型</value>
+  </row>
+  <row id="989" trl="N" eid="VIS_989">
+    <value column="Name" original="User Preference">用户偏好</value>
+  </row>
+  <row id="990" trl="N" eid="VIS_990">
+    <value column="Name" original="View_M_InOut_Header_vt">View_M_InOut_Header_vt</value>
+  </row>
+  <row id="991" trl="N" eid="VIS_991">
+    <value column="Name" original="View_M_ProductLocator_v">View_M_ProductLocator_v</value>
+  </row>
+  <row id="992" trl="N" eid="VIS_992">
+    <value column="Name" original="Import Format">导入格式</value>
+  </row>
+  <row id="1000000" trl="N" eid="VIS_1000000">
+    <value column="Name" original="AD_ExportData_ID">AD_ExportData_ID</value>
+  </row>
+  <row id="1000001" trl="N" eid="VIS_1000001">
+    <value column="Name" original="AppointmentsInfo_ID">AppointmentsInfo_ID</value>
+  </row>
+  <row id="1000002" trl="N" eid="VIS_1000002">
+    <value column="Name" original="AD_SmsConfiguration_ID">AD_SmsConfiguration_ID</value>
+  </row>
+  <row id="1000003" trl="N" eid="VIS_1000003">
+    <value column="Name" original="MailAttachment1_ID">MailAttachment1_ID</value>
+  </row>
+  <row id="1000004" trl="N" eid="VIS_1000004">
+    <value column="Name" original="AD_TextTemplate_ID">AD_TextTemplate_ID</value>
+  </row>
+  <row id="1000005" trl="N" eid="VIS_1000005">
+    <value column="Name" original="Chart Name">图表名</value>
+  </row>
+  <row id="1000006" trl="N" eid="VIS_1000006">
+    <value column="Name" original="D_ChartAccess_ID">D_ChartAccess_ID</value>
+  </row>
+  <row id="1000007" trl="N" eid="VIS_1000007">
+    <value column="Name" original="Series Name">系列名称</value>
+  </row>
+  <row id="1000008" trl="N" eid="VIS_1000008">
+    <value column="Name" original="D_SeriesFilter_ID">D_SeriesFilter_ID</value>
+  </row>
+  <row id="1000009" trl="N" eid="VIS_1000009">
+    <value column="Name" original="AD_UserMailConfigration">用户邮件CONFIGRATION</value>
+  </row>
+  <row id="1000010" trl="N" eid="VIS_1000010">
+    <value column="Name" original="AD_ImportMap_ID">AD_ImportMap_ID</value>
+  </row>
+  <row id="1000011" trl="N" eid="VIS_1000011">
+    <value column="Name" original="AD_ImportIdentifier_ID">AD_ImportIdentifier_ID</value>
+  </row>
+  <row id="1000012" trl="N" eid="VIS_1000012">
+    <value column="Name" original="AD_Module_ID">AD_Module_ID</value>
+  </row>
+  <row id="1000013" trl="N" eid="VIS_1000013">
+    <value column="Name" original="AD_ModuleRole_ID">AD_ModuleRole_ID</value>
+  </row>
+  <row id="1000014" trl="N" eid="VIS_1000014">
+    <value column="Name" original="AD_ModuleFavourite_ID">AD_ModuleFavourite_ID</value>
+  </row>
+  <row id="1000015" trl="N" eid="VIS_1000015">
+    <value column="Name" original="AD_ExportIndustry_ID">AD_ExportIndustry_ID</value>
+  </row>
+  <row id="1000016" trl="N" eid="VIS_1000016">
+    <value column="Name" original="AD_ExportClientInfo_ID">AD_ExportClientInfo_ID</value>
+  </row>
+  <row id="1000018" trl="N" eid="VIS_1000018">
+    <value column="Name" original="VSS_RELATIONDETAILS_ID">VSS_RELATIONDETAILS_ID</value>
+  </row>
+  <row id="1000019" trl="N" eid="VIS_1000019">
+    <value column="Name" original="VSS_DOCUMENTS_ID">VSS_DOCUMENTS_ID</value>
+  </row>
+  <row id="1000020" trl="N" eid="VIS_1000020">
+    <value column="Name" original="VSS_HISTORY_ID">VSS_HISTORY_ID</value>
+  </row>
+  <row id="1000021" trl="N" eid="VIS_1000021">
+    <value column="Name" original="VSS_ACCIDENTDETAILS_ID">VSS_ACCIDENTDETAILS_ID</value>
+  </row>
+  <row id="1000022" trl="N" eid="VIS_1000022">
+    <value column="Name" original="VSS_EMPLOYEECOMPENSATION_ID">VSS_EMPLOYEECOMPENSATION_ID</value>
+  </row>
+  <row id="1000025" trl="N" eid="VIS_1000025">
+    <value column="Name" original="VSS_POSITIONCOMPENSATION_ID">VSS_POSITIONCOMPENSATION_ID</value>
+  </row>
+  <row id="1000026" trl="N" eid="VIS_1000026">
+    <value column="Name" original="VSS_POSITIONPOLICY_ID">VSS_POSITIONPOLICY_ID</value>
+  </row>
+  <row id="1000028" trl="N" eid="VIS_1000028">
+    <value column="Name" original="VSS_DEPARTMENTMASTER_ID">VSS_DEPARTMENTMASTER_ID</value>
+  </row>
+  <row id="1000034" trl="N" eid="VIS_1000034">
+    <value column="Name" original="VSS_BANKTRANSFERHEADER_ID">VSS_BANKTRANSFERHEADER_ID</value>
+  </row>
+  <row id="1000036" trl="N" eid="VIS_1000036">
+    <value column="Name" original="payslipheader">payslipheader</value>
+  </row>
+  <row id="1000040" trl="N" eid="VIS_1000040">
+    <value column="Name" original="PAYSLIPLINEHEADER_ID">PAYSLIPLINEHEADER_ID</value>
+  </row>
+  <row id="1000043" trl="N" eid="VIS_1000043">
+    <value column="Name" original="VSS_EMPLOYEEPOLICY_ID">VSS_EMPLOYEEPOLICY_ID</value>
+  </row>
+  <row id="1000044" trl="N" eid="VIS_1000044">
+    <value column="Name" original="HR_EmployeeContract">HR_EmployeeContract</value>
+  </row>
+  <row id="1000054" trl="N" eid="VIS_1000054">
+    <value column="Name" original="HR_Appraisal">HR_Appraisal</value>
+  </row>
+  <row id="1000065" trl="N" eid="VIS_1000065">
+    <value column="Name" original="DS_Business_ID">DS_Business_ID</value>
+  </row>
+  <row id="1000072" trl="N" eid="VIS_1000072">
+    <value column="Name" original="VSS_WebStoreTaxCat">VSS_WebStoreTaxCat</value>
+  </row>
+  <row id="1000090" trl="N" eid="VIS_1000090">
+    <value column="Name" original="Work Order">工作指示</value>
+  </row>
+  <row id="1000091" trl="N" eid="VIS_1000091">
+    <value column="Name" original="Operation">手术</value>
+  </row>
+  <row id="1000092" trl="N" eid="VIS_1000092">
+    <value column="Name" original="Work Order Component">工单</value>
+  </row>
+  <row id="1000093" trl="N" eid="VIS_1000093">
+    <value column="Name" original="M_WorkOrderResource_ID">M_WorkOrderResource_ID</value>
+  </row>
+  <row id="1000094" trl="N" eid="VIS_1000094">
+    <value column="Name" original="Work Order Transaction">工作订单事务</value>
+  </row>
+  <row id="1000095" trl="N" eid="VIS_1000095">
+    <value column="Name" original="Work Order Transaction Line">工单交易行</value>
+  </row>
+  <row id="1000096" trl="N" eid="VIS_1000096">
+    <value column="Name" original="M_WorkOrderTransactionLineMA_ID">M_WorkOrderTransactionLineMA_ID</value>
+  </row>
+  <row id="1000097" trl="N" eid="VIS_1000097">
+    <value column="Name" original="Work Order Resource Transaction Line">工单资源交易行</value>
+  </row>
+  <row id="1000102" trl="N" eid="VIS_1000102">
+    <value column="Name" original="VSS_VW_SAL_LETALLBANKSLINE_ID">VSS_VW_SAL_LETALLBANKSLINE_ID</value>
+  </row>
+  <row id="1000103" trl="N" eid="VIS_1000103">
+    <value column="Name" original="VSS_VW_SAL_LETALLBANKSHEAD_ID">VSS_VW_SAL_LETALLBANKSHEAD_ID</value>
+  </row>
+  <row id="1000104" trl="N" eid="VIS_1000104">
+    <value column="Name" original="VSS_VW_SALESHEAD_ID">VSS_VW_SALESHEAD_ID</value>
+  </row>
+  <row id="1000105" trl="N" eid="VIS_1000105">
+    <value column="Name" original="VSS_VW_SALES_ID">VSS_VW_SALES_ID</value>
+  </row>
+  <row id="1000106" trl="N" eid="VIS_1000106">
+    <value column="Name" original="VSS_VW_OTDETAILS_HEAD_ID">VSS_VW_OTDETAILS_HEAD_ID</value>
+  </row>
+  <row id="1000107" trl="N" eid="VIS_1000107">
+    <value column="Name" original="VSS_VW_OTDETAILS_ID">VSS_VW_OTDETAILS_ID</value>
+  </row>
+  <row id="1000108" trl="N" eid="VIS_1000108">
+    <value column="Name" original="VSS_VW_LOCALLINE_ID">VSS_VW_LOCALLINE_ID</value>
+  </row>
+  <row id="1000109" trl="N" eid="VIS_1000109">
+    <value column="Name" original="VSS_VW_LOCALHEAD_ID">VSS_VW_LOCALHEAD_ID</value>
+  </row>
+  <row id="1000110" trl="N" eid="VIS_1000110">
+    <value column="Name" original="VSS_VW_EXPATHEAD_ID">VSS_VW_EXPATHEAD_ID</value>
+  </row>
+  <row id="1000111" trl="N" eid="VIS_1000111">
+    <value column="Name" original="VSS_VW_EXPAT_ID">VSS_VW_EXPAT_ID</value>
+  </row>
+  <row id="1000112" trl="N" eid="VIS_1000112">
+    <value column="Name" original="VSS_VW_BANK_LINE_ID">VSS_VW_BANK_LINE_ID</value>
+  </row>
+  <row id="1000113" trl="N" eid="VIS_1000113">
+    <value column="Name" original="VSS_VW_BANK_HEAD_ID">VSS_VW_BANK_HEAD_ID</value>
+  </row>
+  <row id="1000114" trl="N" eid="VIS_1000114">
+    <value column="Name" original="VSS_VW_AUB_SAL_LETTER_ID">VSS_VW_AUB_SAL_LETTER_ID</value>
+  </row>
+  <row id="1000115" trl="N" eid="VIS_1000115">
+    <value column="Name" original="VSS_VW_ALLOWANCELINE_ID">VSS_VW_ALLOWANCELINE_ID</value>
+  </row>
+  <row id="1000116" trl="N" eid="VIS_1000116">
+    <value column="Name" original="VSS_VW_ALLOWANCEHEAD_ID">VSS_VW_ALLOWANCEHEAD_ID</value>
+  </row>
+  <row id="1000117" trl="N" eid="VIS_1000117">
+    <value column="Name" original="VSS_NEWEMPLOYEE_ID">VSS_NEWEMPLOYEE_ID</value>
+  </row>
+  <row id="1000118" trl="N" eid="VIS_1000118">
+    <value column="Name" original="VSS_INDIVIDUALEMPLOYEE_ID">VSS_INDIVIDUALEMPLOYEE_ID</value>
+  </row>
+  <row id="1000128" trl="N" eid="VIS_1000128">
+    <value column="Name" original="VSS_Sticker">VSS_Sticker</value>
+  </row>
+  <row id="1000129" trl="N" eid="VIS_1000129">
+    <value column="Name" original="VSS_VW_SalSummaryHead">VSS_VW_SalSummaryHead</value>
+  </row>
+  <row id="1000131" trl="N" eid="VIS_1000131">
+    <value column="Name" original="Consolidation Reference">Consolidation Reference</value>
+  </row>
+  <row id="1000139" trl="N" eid="VIS_1000139">
+    <value column="Name" original="Warehouse Task Material Allocation">Warehouse Task Material Allocation</value>
+  </row>
+  <row id="1000144" trl="N" eid="VIS_1000144">
+    <value column="Name" original="VSS_VW_SalSummaryLine">VSS_VW_SalSummaryLine</value>
+  </row>
+  <row id="1000158" trl="N" eid="VIS_1000158">
+    <value column="Name" original="Task List Address Label View">Task List Address Label View</value>
+  </row>
+  <row id="1000159" trl="N" eid="VIS_1000159">
+    <value column="Name" original="T_LocatorVisits_ID">T_LocatorVisits_ID</value>
+  </row>
+  <row id="1000160" trl="N" eid="VIS_1000160">
+    <value column="Name" original="T_TaskHandlerPerf_ID">T_TaskHandlerPerf_ID</value>
+  </row>
+  <row id="1000161" trl="N" eid="VIS_1000161">
+    <value column="Name" original="Warehouse Stock Information">Warehouse Stock Information</value>
+  </row>
+  <row id="1000166" trl="N" eid="VIS_1000166">
+    <value column="Name" original="VSS_TEMP_BANK_HEAD_ID">VSS_TEMP_BANK_HEAD_ID</value>
+  </row>
+  <row id="1000167" trl="N" eid="VIS_1000167">
+    <value column="Name" original="VSS_TEMP_BANK_LINE_ID">VSS_TEMP_BANK_LINE_ID</value>
+  </row>
+  <row id="1000168" trl="N" eid="VIS_1000168">
+    <value column="Name" original="VSS_EmpTraining">VSS_EmpTraining</value>
+  </row>
+  <row id="1000169" trl="N" eid="VIS_1000169">
+    <value column="Name" original="I_BOMProduct_ID">I_BOMProduct_ID</value>
+  </row>
+  <row id="1000170" trl="N" eid="VIS_1000170">
+    <value column="Name" original="T_BOMDetails_ID">T_BOMDetails_ID</value>
+  </row>
+  <row id="1000172" trl="N" eid="VIS_1000172">
+    <value column="Name" original="VSS_OWN_BANK_ID">VSS_OWN_BANK_ID</value>
+  </row>
+  <row id="1000174" trl="N" eid="VIS_1000174">
+    <value column="Name" original="AD_CrystalReport_Bind_ID">AD_CrystalReport_Bind_ID</value>
+  </row>
+  <row id="1000175" trl="N" eid="VIS_1000175">
+    <value column="Name" original="AD_CrystalReport_Para_ID">AD_CrystalReport_Para_ID</value>
+  </row>
+  <row id="1000176" trl="N" eid="VIS_1000176">
+    <value column="Name" original="AD_CrystalInstance_ID">AD_CrystalInstance_ID</value>
+  </row>
+  <row id="1000177" trl="N" eid="VIS_1000177">
+    <value column="Name" original="AD_CrystalInstance_Para_ID">AD_CrystalInstance_Para_ID</value>
+  </row>
+  <row id="1000178" trl="N" eid="VIS_1000178">
+    <value column="Name" original="Balance Aggregation">Balance Aggregation</value>
+  </row>
+  <row id="1000179" trl="N" eid="VIS_1000179">
+    <value column="Name" original="HR_ACCRUALSUMMARY">HR_ACCRUALSUMMARY</value>
+  </row>
+  <row id="1000196" trl="N" eid="VIS_1000196">
+    <value column="Name" original="M_TaskListLine_v">M_TaskListLine_v</value>
+  </row>
+  <row id="1000207" trl="N" eid="VIS_1000207">
+    <value column="Name" original="Expense/Receipt Type">费用/收据类型</value>
+  </row>
+  <row id="1000208" trl="N" eid="VIS_1000208">
+    <value column="Name" original="C_Cash_ExpenseReceipt_Acct">C_Cash_ExpenseReceipt_Acct</value>
+  </row>
+  <row id="1000214" trl="N" eid="VIS_1000214">
+    <value column="Name" original="M_CostUpdate_ID">M_CostUpdate_ID</value>
+  </row>
+  <row id="1000215" trl="N" eid="VIS_1000215">
+    <value column="Name" original="M_CostUpdateLine">M_CostUpdateLine</value>
+  </row>
+  <row id="1000216" trl="N" eid="VIS_1000216">
+    <value column="Name" original="Skill">技能</value>
+  </row>
+  <row id="1000218" trl="N" eid="VIS_1000218">
+    <value column="Name" original="Prospect_ID">Prospect_ID</value>
+  </row>
+  <row id="1000220" trl="N" eid="VIS_1000220">
+    <value column="Name" original="AppointmentCategory_ID">AppointmentCategory_ID</value>
+  </row>
+  <row id="1000223" trl="N" eid="VIS_1000223">
+    <value column="Name" original="vss_prospect_interestarea_ID">vss_prospect_interestarea_ID</value>
+  </row>
+  <row id="1000224" trl="N" eid="VIS_1000224">
+    <value column="Name" original="vss_lead_interestarea">vss_lead_interestarea_ID</value>
+  </row>
+  <row id="1000225" trl="N" eid="VIS_1000225">
+    <value column="Name" original="RC_ActionView_ID">RC_ActionView_ID</value>
+  </row>
+  <row id="1000226" trl="N" eid="VIS_1000226">
+    <value column="Name" original="RoleCenter Chart Pane">RC_ChartPane_ID</value>
+  </row>
+  <row id="1000227" trl="N" eid="VIS_1000227">
+    <value column="Name" original="RoleCenter KPI">KPI</value>
+  </row>
+  <row id="1000229" trl="N" eid="VIS_1000229">
+    <value column="Name" original="RoleCenter KPI Access">KPI访问</value>
+  </row>
+  <row id="1000230" trl="N" eid="VIS_1000230">
+    <value column="Name" original="KPI Center">KPI中心</value>
+  </row>
+  <row id="1000231" trl="N" eid="VIS_1000231">
+    <value column="Name" original="RoleCenter KPI Pane">KPI窗格</value>
+  </row>
+  <row id="1000232" trl="N" eid="VIS_1000232">
+    <value column="Name" original="RoleCenter Manager">RoleCenter经理</value>
+  </row>
+  <row id="1000233" trl="N" eid="VIS_1000233">
+    <value column="Name" original="RoleCenter Tab">RoleCenter标签</value>
+  </row>
+  <row id="1000234" trl="N" eid="VIS_1000234">
+    <value column="Name" original="RoleCenter Tab Panel">Tab平板</value>
+  </row>
+  <row id="1000235" trl="N" eid="VIS_1000235">
+    <value column="Name" original="RoleCenter View">角色中心查看</value>
+  </row>
+  <row id="1000236" trl="N" eid="VIS_1000236">
+    <value column="Name" original="RoleCenter View Access">视图访问</value>
+  </row>
+  <row id="1000237" trl="N" eid="VIS_1000237">
+    <value column="Name" original="RoleCenter View Column">视图列</value>
+  </row>
+  <row id="1000238" trl="N" eid="VIS_1000238">
+    <value column="Name" original="RoleCenter View Pane">RC_ViewPane_ID</value>
+  </row>
+  <row id="1000239" trl="N" eid="VIS_1000239">
+    <value column="Name" original="CM_Subscribe">CM_Subscribe_ID</value>
+  </row>
+  <row id="1000240" trl="N" eid="VIS_1000240">
+    <value column="Name" original="C_TargetList">C_TargetList_ID</value>
+  </row>
+  <row id="1000241" trl="N" eid="VIS_1000241">
+    <value column="Name" original="C_InviteeList">C_InviteeList_ID</value>
+  </row>
+  <row id="1000242" trl="N" eid="VIS_1000242">
+    <value column="Name" original="C_InviteeResponse_ID">C_InviteeResponse_ID</value>
+  </row>
+  <row id="1000244" trl="N" eid="VIS_1000244">
+    <value column="Name" original="C_Forecast">预测</value>
+  </row>
+  <row id="1000245" trl="N" eid="VIS_1000245">
+    <value column="Name" original="C_ForecastLine">C_ForecastLine_ID</value>
+  </row>
+  <row id="1000246" trl="N" eid="VIS_1000246">
+    <value column="Name" original="C_MasterForecast">预测</value>
+  </row>
+  <row id="1000248" trl="N" eid="VIS_1000248">
+    <value column="Name" original="C_MasterForecastLine">C_MasterForecastLine_ID</value>
+  </row>
+  <row id="1000249" trl="N" eid="VIS_1000249">
+    <value column="Name" original="C_MasterTargetList">目标列表</value>
+  </row>
+  <row id="1000250" trl="N" eid="VIS_1000250">
+    <value column="Name" original="C_CampaignTargetList_ID">C_CampaignTargetList_ID</value>
+  </row>
+  <row id="1000251" trl="N" eid="VIS_1000251">
+    <value column="Name" original="Campaign Template">广告系列模板</value>
+  </row>
+  <row id="1000252" trl="N" eid="VIS_1000252">
+    <value column="Name" original="CM_Link_ID">CM_Link_ID</value>
+  </row>
+  <row id="1000253" trl="N" eid="VIS_1000253">
+    <value column="Name" original="CM_Note_ID">CM_Note_ID</value>
+  </row>
+  <row id="1000254" trl="N" eid="VIS_1000254">
+    <value column="Name" original="Billing Frequency">开票频率</value>
+  </row>
+  <row id="1000255" trl="N" eid="VIS_1000255">
+    <value column="Name" original="C_Renewal_ID">C_Renewal_ID</value>
+  </row>
+  <row id="1000256" trl="N" eid="VIS_1000256">
+    <value column="Name" original="Contract">合同编号</value>
+  </row>
+  <row id="1000257" trl="N" eid="VIS_1000257">
+    <value column="Name" original="Invoice Schedule">C_ContractSchedule_ID</value>
+  </row>
+  <row id="1000258" trl="N" eid="VIS_1000258">
+    <value column="Name" original="Campaign Type">运动型</value>
+  </row>
+  <row id="1000259" trl="N" eid="VIS_1000259">
+    <value column="Name" original="C_CampaignPhase_ID">C_CampaignPhase_ID</value>
+  </row>
+  <row id="1000260" trl="N" eid="VIS_1000260">
+    <value column="Name" original="Campaign Task">C_CampaignTask_ID</value>
+  </row>
+  <row id="1000261" trl="N" eid="VIS_1000261">
+    <value column="Name" original="AD_ImportedData_ID">AD_ImportedData_ID</value>
+  </row>
+  <row id="1000264" trl="N" eid="VIS_1000264">
+    <value column="Name" original="C_QUOTATION_HEADER">C_QUOTATION_HEADER_ID</value>
+  </row>
+  <row id="1000265" trl="N" eid="VIS_1000265">
+    <value column="Name" original="C_Quotation_Line">C_Quotation_Line_ID</value>
+  </row>
+  <row id="1000295" trl="N" eid="VIS_1000295">
+    <value column="Name" original="C_ORDERHEADER_ID">C_ORDERHEADER_ID</value>
+  </row>
+  <row id="1000296" trl="N" eid="VIS_1000296">
+    <value column="Name" original="C_ORDER_LINE_ID">C_ORDER_LINE_ID</value>
+  </row>
+  <row id="1000297" trl="N" eid="VIS_1000297">
+    <value column="Name" original="C_INVOICE_HEADER_ID">C_INVOICE_HEADER_ID</value>
+  </row>
+  <row id="1000298" trl="N" eid="VIS_1000298">
+    <value column="Name" original="C_INVOICE_LINE_ID">C_INVOICE_LINE_ID</value>
+  </row>
+  <row id="1000299" trl="N" eid="VIS_1000299">
+    <value column="Name" original="CR_LeadDetails_V_ID">CR_LeadDetails_V_ID</value>
+  </row>
+  <row id="1000300" trl="N" eid="VIS_1000300">
+    <value column="Name" original="CR_OPPORTUNITY_V_ID">CR_OPPORTUNITY_V_ID</value>
+  </row>
+  <row id="1000301" trl="N" eid="VIS_1000301">
+    <value column="Name" original="CR_INTERESTDETAILS_V_ID">CR_INTERESTDETAILS_V_ID</value>
+  </row>
+  <row id="1000302" trl="N" eid="VIS_1000302">
+    <value column="Name" original="CR_OPPORTUNITY_QUOTATION_V_ID">CR_OPPORTUNITY_QUOTATION_V_ID</value>
+  </row>
+  <row id="1000303" trl="N" eid="VIS_1000303">
+    <value column="Name" original="CR_OPPORTUNITYORDER_V_ID">CR_OPPORTUNITYORDER_V_ID</value>
+  </row>
+  <row id="1000304" trl="N" eid="VIS_1000304">
+    <value column="Name" original="RV_BPARTNER_ID">RV_BPARTNER_ID</value>
+  </row>
+  <row id="1000306" trl="N" eid="VIS_1000306">
+    <value column="Name" original="CR_PRODUCTDETAILS_V_ID">CR_PRODUCTDETAILS_V_ID</value>
+  </row>
+  <row id="1000307" trl="N" eid="VIS_1000307">
+    <value column="Name" original="CR_DEMANDEDPRODUCT_V">CR_DEMANDEDPRODUCT_V_ID</value>
+  </row>
+  <row id="1000309" trl="N" eid="VIS_1000309">
+    <value column="Name" original="CR_SALESQUOTATIONDETAIL_V">CR_SALESQUOTATIONDETAIL_V_ID</value>
+  </row>
+  <row id="1000313" trl="N" eid="VIS_1000313">
+    <value column="Name" original="CR_OPENQUOTATION_V_ID">CR_OPENQUOTATION_V_ID</value>
+  </row>
+  <row id="1000315" trl="N" eid="VIS_1000315">
+    <value column="Name" original="C_TEAMFORECAST_V">C_TEAMFORECAST_V_ID</value>
+  </row>
+  <row id="1000316" trl="N" eid="VIS_1000316">
+    <value column="Name" original="C_MASTERFORECAST_V_ID">C_MASTERFORECAST_V_ID</value>
+  </row>
+  <row id="1000317" trl="N" eid="VIS_1000317">
+    <value column="Name" original="C_MARKETINGCAMPAIGN_V_ID">C_MARKETINGCAMPAIGN_V_ID</value>
+  </row>
+  <row id="1000320" trl="N" eid="VIS_1000320">
+    <value column="Name" original="CR_SERVICECONTRACT_V_ID">CR_SERVICECONTRACT_V_ID</value>
+  </row>
+  <row id="1000321" trl="N" eid="VIS_1000321">
+    <value column="Name" original="CR_HIGHESTSALESACCOUNTS_V_ID">CR_HIGHESTSALESACCOUNTS_V_ID</value>
+  </row>
+  <row id="1000322" trl="N" eid="VIS_1000322">
+    <value column="Name" original="CR_OPENORDER_V_ID">CR_OPENORDER_V_ID</value>
+  </row>
+  <row id="1000323" trl="N" eid="VIS_1000323">
+    <value column="Name" original="CR_SALESORDERDETAIL_V">CR_SALESORDERDETAIL_V_ID</value>
+  </row>
+  <row id="1000324" trl="N" eid="VIS_1000324">
+    <value column="Name" original="CR_MASTERFORECAST_V">CR_MASTERFORECAST_V_ID</value>
+  </row>
+  <row id="1000325" trl="N" eid="VIS_1000325">
+    <value column="Name" original="C_MARRKETINGCAMPAIGN_V">C_MARRKETINGCAMPAIGN_V_ID</value>
+  </row>
+  <row id="1000326" trl="N" eid="VIS_1000326">
+    <value column="Name" original="CR_PROSPECT_V">CR_PROSPECT_V_ID</value>
+  </row>
+  <row id="1000327" trl="N" eid="VIS_1000327">
+    <value column="Name" original="C_CONTRACT_LINE">C_CONTRACT_LINE_ID</value>
+  </row>
+  <row id="1000328" trl="N" eid="VIS_1000328">
+    <value column="Name" original="C_CONTRACT_HEADER">C_CONTRACT_HEADER_ID</value>
+  </row>
+  <row id="1000329" trl="N" eid="VIS_1000329">
+    <value column="Name" original="CR_InterestDetail_V_ID">CR_InterestDetail_V_ID</value>
+  </row>
+  <row id="1000330" trl="N" eid="VIS_1000330">
+    <value column="Name" original="AD_WeatherInfo_ID">AD_WeatherInfo_ID</value>
+  </row>
+  <row id="1000331" trl="N" eid="VIS_1000331">
+    <value column="Name" original="Window Action">AD_WindowAction_ID</value>
+  </row>
+  <row id="1000335" trl="N" eid="VIS_1000335">
+    <value column="Name" original="AD_ExcelImport_ID">AD_ExcelImport_ID</value>
+  </row>
+  <row id="1000336" trl="N" eid="VIS_1000336">
+    <value column="Name" original="C_OPENORDER_V_ID">C_OPENORDER_V_ID</value>
+  </row>
+  <row id="1000337" trl="N" eid="VIS_1000337">
+    <value column="Name" original="C_OPENINVOICE_V_ID">C_OPENINVOICE_V_ID</value>
+  </row>
+  <row id="1000340" trl="N" eid="VIS_1000340">
+    <value column="Name" original="C_Invoice_Header_vs_ID">C_Invoice_Header_vs_ID</value>
+  </row>
+  <row id="1000341" trl="N" eid="VIS_1000341">
+    <value column="Name" original="AD_ExcelImportMapping_ID">AD_ExcelImportMapping_ID</value>
+  </row>
+  <row id="1000350" trl="N" eid="VIS_1000350">
+    <value column="Name" original="AD_ModuleInfo">ModuleInfo</value>
+  </row>
+  <row id="1000351" trl="N" eid="VIS_1000351">
+    <value column="Name" original="AD_ModuleMenuFolder">模块菜单文件夹</value>
+  </row>
+  <row id="1000352" trl="N" eid="VIS_1000352">
+    <value column="Name" original="AD_ModuleWindow">模块窗口</value>
+  </row>
+  <row id="1000353" trl="N" eid="VIS_1000353">
+    <value column="Name" original="AD_ModuleTab">模块选项卡</value>
+  </row>
+  <row id="1000354" trl="N" eid="VIS_1000354">
+    <value column="Name" original="AD_ModuleField">AD_ModuleField_ID</value>
+  </row>
+  <row id="1000355" trl="N" eid="VIS_1000355">
+    <value column="Name" original="AD_ModuleProcess">模块流程</value>
+  </row>
+  <row id="1000356" trl="N" eid="VIS_1000356">
+    <value column="Name" original="AD_ModuleForm">AD_ModuleForm_ID</value>
+  </row>
+  <row id="1000357" trl="N" eid="VIS_1000357">
+    <value column="Name" original="AD_ModuleTable">模块表</value>
+  </row>
+  <row id="1000358" trl="N" eid="VIS_1000358">
+    <value column="Name" original="AD_Module_DB_Schema">模块的dbschema</value>
+  </row>
+  <row id="1000361" trl="N" eid="VIS_1000361">
+    <value column="Name" original="AD_Module_DBScript">模块DBScript</value>
+  </row>
+  <row id="1000364" trl="N" eid="VIS_1000364">
+    <value column="Name" original="RV_CHECKPRINT_HEADER_ID">RV_CHECKPRINT_HEADER_ID</value>
+  </row>
+  <row id="1000365" trl="N" eid="VIS_1000365">
+    <value column="Name" original="RV_CHECKPRINT_LINE_ID">RV_CHECKPRINT_LINE_ID</value>
+  </row>
+  <row id="1000366" trl="N" eid="VIS_1000366">
+    <value column="Name" original="Cashbook Line">C_CashbookLine_ID</value>
+  </row>
+  <row id="1000367" trl="N" eid="VIS_1000367">
+    <value column="Name" original="C_CashLine_VW">C_CashLine_VW_ID</value>
+  </row>
+  <row id="1000370" trl="N" eid="VIS_1000370">
+    <value column="Name" original="C_Area_ID">C_Area_ID</value>
+  </row>
+  <row id="1000371" trl="N" eid="VIS_1000371">
+    <value column="Name" original="vss_payment_voucher_v_ID">vss_payment_voucher_v_ID</value>
+  </row>
+  <row id="1000372" trl="N" eid="VIS_1000372">
+    <value column="Name" original="C_BankAccountLine_ID">C_BankAccountLine_ID</value>
+  </row>
+  <row id="1000373" trl="N" eid="VIS_1000373">
+    <value column="Name" original="Shortcut">AD_Shortcut_ID</value>
+  </row>
+  <row id="1000374" trl="N" eid="VIS_1000374">
+    <value column="Name" original="Account Group">账户组</value>
+  </row>
+  <row id="1000375" trl="N" eid="VIS_1000375">
+    <value column="Name" original="Account Sub Group">账户上级集团</value>
+  </row>
+  <row id="1000376" trl="N" eid="VIS_1000376">
+    <value column="Name" original="Currency Source">货币来源</value>
+  </row>
+  <row id="1000377" trl="N" eid="VIS_1000377">
+    <value column="Name" original="C_ElementValueTemp_ID">C_ElementValueTemp_ID</value>
+  </row>
+  <row id="1000378" trl="N" eid="VIS_1000378">
+    <value column="Name" original="VACTWZ_ELEMENTVALUE_ID">VACTWZ_ELEMENTVALUE_ID</value>
+  </row>
+  <row id="1000379" trl="N" eid="VIS_1000379">
+    <value column="Name" original="Module Category">模块类别</value>
+  </row>
+  <row id="1000380" trl="N" eid="VIS_1000380">
+    <value column="Name" original="AD_ShortCutParameter_ID">AD_ShortCutParameter_ID</value>
+  </row>
+  <row id="1000381" trl="N" eid="VIS_1000381">
+    <value column="Name" original="C_AccountGroup_Trl">账户组 **</value>
+  </row>
+  <row id="1000382" trl="N" eid="VIS_1000382">
+    <value column="Name" original="C_AccountSubGroup_Trl">账户上级集团 **</value>
+  </row>
+  <row id="1000383" trl="N" eid="VIS_1000383">
+    <value column="Name" original="Module Related Info">模块相关信息</value>
+  </row>
+  <row id="1000384" trl="N" eid="VIS_1000384">
+    <value column="Name" original="I_ProductCost_ID">I_ProductCost_ID</value>
+  </row>
+  <row id="1000386" trl="N" eid="VIS_1000386">
+    <value column="Name" original="C_CASHLINETYPE_VW">C_CASHLINETYPE_VW_ID</value>
+  </row>
+  <row id="1000387" trl="N" eid="WSP_1000381">
+    <value column="Name" original="WSP_DeletedUserLog">WSP_DeletedUserLog_ID</value>
+  </row>
+  <row id="1000388" trl="N" eid="WSP_1000382">
+    <value column="Name" original="WSP_GmailConfiguration">WSP_GmailConfiguration_ID</value>
+  </row>
+  <row id="1000389" trl="N" eid="WSP_1000383">
+    <value column="Name" original="WSP_UserContact">WSP_UserContact_ID</value>
+  </row>
+  <row id="1000390" trl="N" eid="WSP_1000386">
+    <value column="Name" original="WSP_Windows">WSP_Windows_ID</value>
+  </row>
+  <row id="1000391" trl="N" eid="WSP_1000384">
+    <value column="Name" original="WSP_Section">WSP_Section_ID</value>
+  </row>
+  <row id="1000392" trl="N" eid="WSP_1000385">
+    <value column="Name" original="WSP_SectionLink">WSP_SectionLink_ID</value>
+  </row>
+  <row id="1000393" trl="N" eid="WSP_1000387">
+    <value column="Name" original="WSP_Link">WSP_Link_ID</value>
+  </row>
+  <row id="1000394" trl="N" eid="WSP_1000388">
+    <value column="Name" original="WSP_Note">WSP_Note_ID</value>
+  </row>
+  <row id="1000395" trl="N" eid="VIS_1000395">
+    <value column="Name" original="AD_Shortcut_ID Trl">AD_Shortcut_ID **</value>
+  </row>
+  <row id="1000397" trl="N" eid="VACTWZ_1000392">
+    <value column="Name" original="VACTWZ_ClientCurrency_ID">VACTWZ_ClientCurrency_ID</value>
+  </row>
+  <row id="1000398" trl="N" eid="VIS_1000410">
+    <value column="Name" original="Account Group Batch">C_AccountGroupBatch_ID</value>
+  </row>
+  <row id="1000399" trl="N" eid="VIS_1000396">
+    <value column="Name" original="TLMenu_Trl">I_TLMenu_Trl_ID</value>
+  </row>
+  <row id="1000400" trl="N" eid="VIS_1000397">
+    <value column="Name" original="TLRef_List_Trl">I_TLRef_List_Trl_ID</value>
+  </row>
+  <row id="1000401" trl="N" eid="VIS_1000398">
+    <value column="Name" original="I_Language">I_TLLanguage_ID</value>
+  </row>
+  <row id="1000402" trl="N" eid="VIS_1000399">
+    <value column="Name" original="TLElement_Trl">I_TLElement_Trl_ID</value>
+  </row>
+  <row id="1000403" trl="N" eid="VIS_1000400">
+    <value column="Name" original="TLMessage_Trl">I_TLMessage_Trl_ID</value>
+  </row>
+  <row id="1000404" trl="N" eid="VIS_1000401">
+    <value column="Name" original="TLWindow_Trl">I_TLWindow_Trl_ID</value>
+  </row>
+  <row id="1000405" trl="N" eid="VIS_1000402">
+    <value column="Name" original="TLTab_Trl">I_TLTab_Trl_ID</value>
+  </row>
+  <row id="1000406" trl="N" eid="VIS_1000403">
+    <value column="Name" original="TLField_Trl">I_TLField_Trl_ID</value>
+  </row>
+  <row id="1000407" trl="N" eid="VIS_1000404">
+    <value column="Name" original="TLFieldGroup_Trl">I_TLFieldGroup_Trl_ID</value>
+  </row>
+  <row id="1000408" trl="N" eid="VIS_1000405">
+    <value column="Name" original="TLProcess_Trl">I_TLProcess_Trl_ID</value>
+  </row>
+  <row id="1000409" trl="N" eid="VIS_1000406">
+    <value column="Name" original="TLForm_Trl">I_TLForm_Trl_ID</value>
+  </row>
+  <row id="1000410" trl="N" eid="VIS_1000407">
+    <value column="Name" original="TLTask_Trl">I_TLTask_Trl_ID</value>
+  </row>
+  <row id="1000411" trl="N" eid="VIS_1000408">
+    <value column="Name" original="TLWorkflow_Trl">I_TLWorkflow_Trl_ID</value>
+  </row>
+  <row id="1000412" trl="N" eid="VIS_1000409">
+    <value column="Name" original="TLWF_Node_Trl">I_TLWF_Node_Trl_ID</value>
+  </row>
+  <row id="1000413" trl="N" eid="VIS_1000421">
+    <value column="Name" original="Workflow Recipient">AD_WF_Recipient_ID</value>
+  </row>
+  <row id="1000414" trl="N" eid="VIS_1000412">
+    <value column="Name" original="AD_ReportFormat">AD_ReportFormat_ID</value>
+  </row>
+  <row id="1000415" trl="N" eid="VIS_1000413">
+    <value column="Name" original="AD_ReportItem">AD_ReportItem_ID</value>
+  </row>
+  <row id="1000416" trl="N" eid="VIS_1000414">
+    <value column="Name" original="AD_ReportItem_Trl">AD_ReportItem_ID **</value>
+  </row>
+  <row id="1000417" trl="N" eid="VIS_1000415">
+    <value column="Name" original="AD_ReportTable">AD_ReportTable_ID</value>
+  </row>
+  <row id="1000418" trl="N" eid="VIS_1000426">
+    <value column="Name" original="Genral Attribute Search">C_GenAttributeSearch_ID</value>
+  </row>
+  <row id="1000419" trl="N" eid="VIS_1000427">
+    <value column="Name" original="General Attribute">C_GenAttribute_ID</value>
+  </row>
+  <row id="1000420" trl="N" eid="VIS_1000428">
+    <value column="Name" original="Genral Attribute Set Exclude">C_GenAttributeSetExclude_ID</value>
+  </row>
+  <row id="1000421" trl="N" eid="VIS_1000429">
+    <value column="Name" original="Genral Attribute Set">一般属性集</value>
+  </row>
+  <row id="1000422" trl="N" eid="VIS_1000430">
+    <value column="Name" original="GenralAttribute Use">GenralAttribute Use</value>
+  </row>
+  <row id="1000423" trl="N" eid="VIS_1000417">
+    <value column="Name" original="Server Settings">ServerSettings_ID</value>
+  </row>
+  <row id="1000424" trl="N" eid="VIS_1000431">
+    <value column="Name" original="Genral Attribute Value">C_GenAttributeValue_ID</value>
+  </row>
+  <row id="1000425" trl="N" eid="VIS_1000416">
+    <value column="Name" original="Module Dependency Info">AD_ModuleDependencyInfo_ID</value>
+  </row>
+  <row id="1000426" trl="N" eid="VIS_1000434">
+    <value column="Name" original="Team">球队</value>
+  </row>
+  <row id="1000427" trl="N" eid="VIS_1000435">
+    <value column="Name" original="TeamMember">队员</value>
+  </row>
+  <row id="1000428" trl="N" eid="VIS_1000433">
+    <value column="Name" original="Genral Attribute Set Instance">一般属性集实例</value>
+  </row>
+  <row id="1000429" trl="N" eid="VIS_1000418">
+    <value column="Name" original="STATEMENT_V">STATEMENT_V_ID</value>
+  </row>
+  <row id="1000430" trl="N" eid="VIS_1000419">
+    <value column="Name" original="TrlBalSummary_V">TrlBalSummary_V</value>
+  </row>
+  <row id="1000431" trl="N" eid="VIS_1000420">
+    <value column="Name" original="DetailedTB_V">DetailedTB_V</value>
+  </row>
+  <row id="1000432" trl="N" eid="VIS_1000423">
+    <value column="Name" original="T_BALSHEET_ID">T_BALSHEET_ID</value>
+  </row>
+  <row id="1000433" trl="N" eid="VIS_1000424">
+    <value column="Name" original="Balsheet_v">Balsheet_v</value>
+  </row>
+  <row id="1000434" trl="N" eid="VIS_1000425">
+    <value column="Name" original="PROFITLOSS_V">PROFITLOSS_V_ID</value>
+  </row>
+  <row id="1000435" trl="N" eid="VIS_1000432">
+    <value column="Name" original="General AttributeInstance">General AttributeInstance</value>
+  </row>
+  <row id="1000436" trl="N" eid="VIS_1000422">
+    <value column="Name" original="Attachment Local Path">AD_AttachmentLocalPath_ID</value>
+  </row>
+  <row id="1000437" trl="N" eid="WSP_20000238">
+    <value column="Name" original="WSP_SharedUser">WSP_SharedUser_ID</value>
+  </row>
+  <row id="1000438" trl="N" eid="VIS_1000441">
+    <value column="Name" original="RC_KPIRange">RC_KPIRange_ID</value>
+  </row>
+  <row id="1000439" trl="N" eid="VIS_1000495">
+    <value column="Name" original="Group">AD_GroupInfo_ID</value>
+  </row>
+  <row id="1000440" trl="N" eid="VIS_1000496">
+    <value column="Name" original="Group Form">AD_Group_Form_ID</value>
+  </row>
+  <row id="1000441" trl="N" eid="VIS_1000497">
+    <value column="Name" original="Group Process">AD_Group_Process_ID</value>
+  </row>
+  <row id="1000442" trl="N" eid="VIS_1000498">
+    <value column="Name" original="Group Window">AD_Group_Window_ID</value>
+  </row>
+  <row id="1000443" trl="N" eid="VIS_1000499">
+    <value column="Name" original="Group Workflow">AD_Group_Workflow_ID</value>
+  </row>
+  <row id="1000444" trl="N" eid="VIS_1000444">
+    <value column="Name" original="Attachment Line">AD_AttachmentLine_ID</value>
+  </row>
+  <row id="1000445" trl="N" eid="VIS_1000443">
+    <value column="Name" original="User Home Page Setting">AD_UserHomePageSetting_ID</value>
+  </row>
+  <row id="1000446" trl="N" eid="VIS_1000500">
+    <value column="Name" original="AD_Role_Group">AD_Role_Group</value>
+  </row>
+  <row id="1000447" trl="N" eid="VIS_1000501">
+    <value column="Name" original="AD_InviteUser">AD_InviteUser_ID</value>
+  </row>
+  <row id="1000448" trl="N" eid="VIS_1000502">
+    <value column="Name" original="AD_InviteUser_Role">AD_InviteUser_Role_ID</value>
+  </row>
+  <row id="1000449" trl="N" eid="VIS_1000449">
+    <value column="Name" original="Login Settings">AD_LoginSetting_ID</value>
+  </row>
+  <row id="1000450" trl="N" eid="VIS_1000442">
+    <value column="Name" original="Manufacturer">M_Manufacturer_ID</value>
+  </row>
+  <row id="1000451" trl="N" eid="VIS_1000445">
+    <value column="Name" original="Financial Report Configuration">C_FinRptConfig_ID</value>
+  </row>
+  <row id="1000452" trl="N" eid="VIS_1000446">
+    <value column="Name" original="C_FinRptAcctGroup">C_FinRptAcctGroup_ID</value>
+  </row>
+  <row id="1000453" trl="N" eid="VIS_1000447">
+    <value column="Name" original="C_FinRptAcctSubGroup">C_FinRptAcctSubGroup_ID</value>
+  </row>
+  <row id="1000454" trl="N" eid="VIS_1000448">
+    <value column="Name" original="Product Attributes">M_ProductAttributes_ID</value>
+  </row>
+  <row id="1000455" trl="N" eid="VIS_1000436">
+    <value column="Name" original="Profit Dimension">利润尺寸</value>
+  </row>
+  <row id="1000456" trl="N" eid="VIS_1000437">
+    <value column="Name" original="Profit Loss">C_ProfitLoss_ID</value>
+  </row>
+  <row id="1000457" trl="N" eid="VIS_1000438">
+    <value column="Name" original="Profit Loss Lines">损益表线</value>
+  </row>
+  <row id="1000458" trl="N" eid="VIS_1000439">
+    <value column="Name" original="Income Tax">所得税</value>
+  </row>
+  <row id="1000459" trl="N" eid="VIS_1000440">
+    <value column="Name" original="Income Tax Lines">所得税线</value>
+  </row>
+  <row id="1000460" trl="N" eid="VARPT_20000294">
+    <value column="Name" original="VARPT_C_INVOICVENHEADER_V">VARPT_C_INVOICVENHEADER_V_ID</value>
+  </row>
+  <row id="1000461" trl="N" eid="VARPT_20000295">
+    <value column="Name" original="VARPT_C_INVOICECLINEVENC_VW">VARPT_C_INVOICECLINEVENC_VW</value>
+  </row>
+  <row id="1000462" trl="N" eid="VARPT_20000296">
+    <value column="Name" original="VARPT_C_INVOICECTAXVEN_V">VARPT_C_INVOICECTAXVEN_V</value>
+  </row>
+  <row id="1000463" trl="N" eid="VARPT_20000300">
+    <value column="Name" original="VARPT_PAYMENTVOUCHER_V">VARPT_PAYMENTVOUCHER_V_ID</value>
+  </row>
+  <row id="1000464" trl="N" eid="VARPT_20000264">
+    <value column="Name" original="VARPT_PAYMENT_V">VARPT_PAYMENT_V_ID</value>
+  </row>
+  <row id="1000465" trl="N" eid="VARPT_20000355">
+    <value column="Name" original="DTD001_REQUISITION_V">DTD001_REQUISITION_V_ID</value>
+  </row>
+  <row id="1000466" trl="N" eid="VARPT_20000356">
+    <value column="Name" original="DTD001_REQUISITIONLINE_V">DTD001_REQUISITIONLINE_V</value>
+  </row>
+  <row id="1000467" trl="N" eid="VARPT_20000267">
+    <value column="Name" original="VARPT_INTERNALUSEINV_V">VARPT_INTERNALUSEINV_V_ID</value>
+  </row>
+  <row id="1000468" trl="N" eid="VARPT_20000268">
+    <value column="Name" original="VARPT_INTERNALUSEINVLINE_V">VARPT_INTERNALUSEINVLINE_V</value>
+  </row>
+  <row id="1000469" trl="N" eid="DTD001_20000357">
+    <value column="Name" original="DTD001_INVENTORYMOVE_V">DTD001_INVENTORYMOVE_V_ID</value>
+  </row>
+  <row id="1000470" trl="N" eid="DTD001_20000359">
+    <value column="Name" original="DTD001_INVENTORYMOVELINE_V">DTD001_INVENTORYMOVELINE_V</value>
+  </row>
+  <row id="1000471" trl="N" eid="VARPT_20000261">
+    <value column="Name" original="VARPT_C_INVOICEHEADER_V">VARPT_C_INVOICEHEADER_V_ID</value>
+  </row>
+  <row id="1000472" trl="N" eid="VARPT_20000262">
+    <value column="Name" original="VARPT_C_INVOICECLINEC_VW">VARPT_C_INVOICECLINEC_VW</value>
+  </row>
+  <row id="1000473" trl="N" eid="VARPT_20000263">
+    <value column="Name" original="VARPT_C_INVOICECTAX_V">VARPT_C_INVOICECTAX_V</value>
+  </row>
+  <row id="1000474" trl="N" eid="VARPT_20000271">
+    <value column="Name" original="VARPT_MATERIALRECEIPT_V">VARPT_MATERIALRECEIPT_V_ID</value>
+  </row>
+  <row id="1000475" trl="N" eid="VARPT_20000272">
+    <value column="Name" original="VARPT_MATERIALRECEIPTLINE_V">VARPT_MATERIALRECEIPTLINE_V</value>
+  </row>
+  <row id="1000476" trl="N" eid="DTD001_20000349">
+    <value column="Name" original="DTD001_PURCHASEORDERLINE_V">DTD001_PURCHASEORDERLINE_V</value>
+  </row>
+  <row id="1000477" trl="N" eid="DTD001_20000350">
+    <value column="Name" original="DTD001_PURCHASEORDER_V">DTD001_PURCHASEORDER_V_ID</value>
+  </row>
+  <row id="1000478" trl="N" eid="DTD001_20000351">
+    <value column="Name" original="DTD001_PURCHASEORDERTAX_V">DTD001_PURCHASEORDERTAX_V</value>
+  </row>
+  <row id="1000479" trl="N" eid="VARPT_20000279">
+    <value column="Name" original="VARPT_SERVICECONTRACTLINE_V">VARPT_SERVICECONTRACTLINE_V</value>
+  </row>
+  <row id="1000480" trl="N" eid="VARPT_20000280">
+    <value column="Name" original="VARPT_SERVICECONTRACT_V">VARPT_SERVICECONTRACT_V_ID</value>
+  </row>
+  <row id="1000481" trl="N" eid="VARPT_20000281">
+    <value column="Name" original="VARPT_SERVICECONTRACTTAX_V">VARPT_SERVICECONTRACTTAX_V</value>
+  </row>
+  <row id="1000482" trl="N" eid="VARPT_20000282">
+    <value column="Name" original="VARPT_PhysicalInventory_V">VARPT_PhysicalInventory_V</value>
+  </row>
+  <row id="1000483" trl="N" eid="VARPT_20000283">
+    <value column="Name" original="VARPT_PhysicalInventoryLine_V">VARPT_PhysicalInventoryLine_V</value>
+  </row>
+  <row id="1000484" trl="N" eid="VARPT_20000287">
+    <value column="Name" original="VARPT_INVOICELINE_V">VARPT_INVOICELINE_V</value>
+  </row>
+  <row id="1000485" trl="N" eid="VARPT_20000286">
+    <value column="Name" original="VARPT_INVOICEHEADER_V">VARPT_INVOICEHEADER_V_ID</value>
+  </row>
+  <row id="1000486" trl="N" eid="VARPT_20000293">
+    <value column="Name" original="VARPT_INVOICETAX_V">VARPT_INVOICETAX_V</value>
+  </row>
+  <row id="1000487" trl="N" eid="VARPT_20000284">
+    <value column="Name" original="Shipment View">VARPT_SHIPMENT_V_ID</value>
+  </row>
+  <row id="1000488" trl="N" eid="VARPT_20000285">
+    <value column="Name" original="Shipment line view">Shipment line view</value>
+  </row>
+  <row id="1000489" trl="N" eid="VARPT_20000288">
+    <value column="Name" original="VARPT_CASHJOURNAL_V">VARPT_CASHJOURNAL_V_ID</value>
+  </row>
+  <row id="1000490" trl="N" eid="VARPT_20000289">
+    <value column="Name" original="VARPT_CASHJOURNALLINE_V">VARPT_CASHJOURNALLINE_V</value>
+  </row>
+  <row id="1000491" trl="N" eid="VARPT_20000299">
+    <value column="Name" original="VARPT_CashLineFormat_V">VARPT_CashLineFormat_V</value>
+  </row>
+  <row id="1000492" trl="N" eid="VARPT_20000290">
+    <value column="Name" original="VARPT_CASHLINEREPORT_V">VARPT_CASHLINEREPORT_V_ID</value>
+  </row>
+  <row id="1000493" trl="N" eid="VARPT_20000291">
+    <value column="Name" original="VARPT_JOURNALREPORT_V">VARPT_JOURNALREPORT_V_ID</value>
+  </row>
+  <row id="1000494" trl="N" eid="VARPT_20000292">
+    <value column="Name" original="VARPT_JOURNALLINE_V">VARPT_JOURNALLINE_V</value>
+  </row>
+  <row id="1000495" trl="N" eid="VARPT_20000403">
+    <value column="Name" original="VARPT_VENDERRMALINE_V">VARPT_VENDERRMALINE_V</value>
+  </row>
+  <row id="1000496" trl="N" eid="VARPT_20000404">
+    <value column="Name" original="VARPT_VENDERRMA_V">VARPT_VENDERRMA_V_ID</value>
+  </row>
+  <row id="1000497" trl="N" eid="VARPT_20000405">
+    <value column="Name" original="VARPT_VENDERRMATAX_V">VARPT_VENDERRMATAX_V</value>
+  </row>
+  <row id="1000498" trl="N" eid="VARPT_20000406">
+    <value column="Name" original="VARPT_ReturnToVendor_V">VARPT_ReturnToVendor_V</value>
+  </row>
+  <row id="1000499" trl="N" eid="VARPT_20000407">
+    <value column="Name" original="VARPT_ReturnToVendorLine_V">VARPT_ReturnToVendorLine_V</value>
+  </row>
+  <row id="1000500" trl="N" eid="VARPT_20000303">
+    <value column="Name" original="VARPT_AcctPayRec_V">VARPT_AcctPayRec_V_ID</value>
+  </row>
+  <row id="1000501" trl="N" eid="VARPT_20000379">
+    <value column="Name" original="VARPT_CampaignLine_V">VARPT_CampaignLine_V</value>
+  </row>
+  <row id="1000502" trl="N" eid="VARPT_20000380">
+    <value column="Name" original="VARPT_Campaign_V">VARPT_Campaign_V</value>
+  </row>
+  <row id="1000503" trl="N" eid="VARPT_20000254">
+    <value column="Name" original="VARPT_STOCKDET_V">VARPT_STOCKDET_V</value>
+  </row>
+  <row id="1000504" trl="N" eid="VARPT_20000364">
+    <value column="Name" original="VARPT_CashJournalHeader_v">VARPT_CashJournalHeader_v</value>
+  </row>
+  <row id="1000505" trl="N" eid="VARPT_20000365">
+    <value column="Name" original="VARPT_CashJournalHeaderL_v">VARPT_CashJournalHeaderL_v</value>
+  </row>
+  <row id="1000506" trl="N" eid="VARPT_20000305">
+    <value column="Name" original="VARPT_PAYMENTREPORT_V">VARPT_PAYMENTREPORT_V_ID</value>
+  </row>
+  <row id="1000507" trl="N" eid="VARPT_20000352">
+    <value column="Name" original="VARPT_LEDGERSTATEMENT_V">VARPT_LEDGERSTATEMENT_V_ID</value>
+  </row>
+  <row id="1000508" trl="N" eid="VARPT_20000361">
+    <value column="Name" original="VARPT_FINANCIALREPORT_V">VARPT_FINANCIALREPORT_V</value>
+  </row>
+  <row id="1000509" trl="N" eid="VARPT_20000362">
+    <value column="Name" original="VARPT_FINANCIALREPORTASSET_V">VARPT_FINANCIALREPORTASSET_V</value>
+  </row>
+  <row id="1000510" trl="N" eid="VARPT_20000363">
+    <value column="Name" original="VARPT_FINANCIALREPORTLIA_V">VARPT_FINANCIALREPORTLIA_V</value>
+  </row>
+  <row id="1000511" trl="N" eid="VARPT_20000395">
+    <value column="Name" original="VARPT_OpenTrxRep_V">VARPT_OpenTrxRep_V</value>
+  </row>
+  <row id="1000512" trl="N" eid="VARPT_20000265">
+    <value column="Name" original="VARPT_REQUISITION_V">VARPT_REQUISITION_V_ID</value>
+  </row>
+  <row id="1000513" trl="N" eid="VARPT_20000304">
+    <value column="Name" original="VARPT_ASSETREGISTER">VARPT_ASSETREGISTER_ID</value>
+  </row>
+  <row id="1000514" trl="N" eid="VARPT_20000297">
+    <value column="Name" original="VARPT_SALEQUOTATIONLINE_V">VARPT_SALEQUOTATIONLINE_V</value>
+  </row>
+  <row id="1000515" trl="N" eid="VARPT_20000269">
+    <value column="Name" original="VARPT_INVENTORYMOVE_V">VARPT_INVENTORYMOVE_V_ID</value>
+  </row>
+  <row id="1000516" trl="N" eid="VARPT_20000298">
+    <value column="Name" original="VARPT_SalesQuotation_V">VARPT_SalesQuotation_V</value>
+  </row>
+  <row id="1000517" trl="N" eid="VARPT_20000275">
+    <value column="Name" original="VARPT_SALESORDERLINE_V">VARPT_SALESORDERLINE_V</value>
+  </row>
+  <row id="1000518" trl="N" eid="VARPT_20000274">
+    <value column="Name" original="VARPT_SALESORDERTAX_V">VARPT_SALESORDERTAX_V</value>
+  </row>
+  <row id="1000519" trl="N" eid="VARPT_20000273">
+    <value column="Name" original="VARPT_SALESORDER_V">VARPT_SALESORDER_V_ID</value>
+  </row>
+  <row id="1000520" trl="N" eid="VARPT_20000301">
+    <value column="Name" original="VARPT_SalesQuotationTax_V">VARPT_SalesQuotationTax_V</value>
+  </row>
+  <row id="1000521" trl="N" eid="VARPT_20000354">
+    <value column="Name" original="T_LEDGERSTATEMENT">T_LEDGERSTATEMENT</value>
+  </row>
+  <row id="1000522" trl="N" eid="VARPT_20000266">
+    <value column="Name" original="VARPT_REQUISITIONLINE_V">VARPT_REQUISITIONLINE_V</value>
+  </row>
+  <row id="1000523" trl="N" eid="VARPT_20000270">
+    <value column="Name" original="VARPT_INVENTORYMOVELINE_V">VARPT_INVENTORYMOVELINE_V</value>
+  </row>
+  <row id="1000524" trl="N" eid="VARPT_20000277">
+    <value column="Name" original="VARPT_PURCHASEORDER_V">VARPT_PURCHASEORDER_V_ID</value>
+  </row>
+  <row id="1000525" trl="N" eid="VARPT_20000276">
+    <value column="Name" original="VARPT_PURCHASEORDERLINE_V">VARPT_PURCHASEORDERLINE_V</value>
+  </row>
+  <row id="1000526" trl="N" eid="VARPT_20000278">
+    <value column="Name" original="VARPT_PURCHASEORDERTAX_V">VARPT_PURCHASEORDERTAX_V</value>
+  </row>
+  <row id="1000527" trl="N" eid="VARPT_20000257">
+    <value column="Name" original="VARPT_Temp_Stock">VARPT_Temp_Stock</value>
+  </row>
+  <row id="1000528" trl="N" eid="VADB_20000394">
+    <value column="Name" original="VADB_Filter_ID">VADB_Filter_ID</value>
+  </row>
+  <row id="1000529" trl="N" eid="VADB_20000399">
+    <value column="Name" original="VADB_FilterLine_ID">VADB_FilterLine_ID</value>
+  </row>
+  <row id="1000530" trl="N" eid="DTD001_20000396">
+    <value column="Name" original="Product Sticker">产品贴纸</value>
+  </row>
+  <row id="1000531" trl="N" eid="DTD001_20000397">
+    <value column="Name" original="DTD001_ProductStickerLine_ID">DTD001_ProductStickerLine_ID</value>
+  </row>
+  <row id="1000532" trl="N" eid="DTD001_20000346">
+    <value column="Name" original="DTD001_Packing_V">DTD001_Packing_V</value>
+  </row>
+  <row id="1000533" trl="N" eid="DTD001_20000347">
+    <value column="Name" original="DTD001_PackingLine_V">DTD001_PackingLine_V</value>
+  </row>
+  <row id="1000534" trl="N" eid="DTD001_20000342">
+    <value column="Name" original="Packing">填料</value>
+  </row>
+  <row id="1000535" trl="N" eid="DTD001_20000348">
+    <value column="Name" original="Open Requisitions View">Open Requisitions View</value>
+  </row>
+  <row id="1000536" trl="N" eid="DTD001_20000368">
+    <value column="Name" original="DTD001_StockAgingReport_V">DTD001_StockAgingReport_V</value>
+  </row>
+  <row id="1000537" trl="N" eid="DTD001_20000329">
+    <value column="Name" original="DTD001_INTERNALUSEIN_VIEW_ID">DTD001_INTERNALUSEIN_VIEW_ID</value>
+  </row>
+  <row id="1000538" trl="N" eid="DTD001_20000330">
+    <value column="Name" original="DTD001_INTERNALUSEINL_VIEW">DTD001_INTERNALUSEINL_VIEW</value>
+  </row>
+  <row id="1000539" trl="N" eid="DTD001_20000339">
+    <value column="Name" original="DTD001_PackagingList_V">DTD001_PackagingList_V</value>
+  </row>
+  <row id="1000540" trl="N" eid="DTD001_20000340">
+    <value column="Name" original="DTD001_Packaging_V">DTD001_Packaging_V</value>
+  </row>
+  <row id="1000541" trl="N" eid="DTD001_20000341">
+    <value column="Name" original="DTD001_PackagingStores_V">DTD001_PackagingStores_V</value>
+  </row>
+  <row id="1000542" trl="N" eid="DTD001_20000338">
+    <value column="Name" original="DTD001_SALESREPORT_V">DTD001_SALESREPORT_V</value>
+  </row>
+  <row id="1000543" trl="N" eid="DTD001_20000332">
+    <value column="Name" original="DTD001_INVENTORYMOVEL_VIEW">DTD001_INVENTORYMOVEL_VIEW</value>
+  </row>
+  <row id="1000544" trl="N" eid="DTD001_20000331">
+    <value column="Name" original="DTD001_INVENTORYMOVE_VIEW_ID">DTD001_INVENTORYMOVE_VIEW_ID</value>
+  </row>
+  <row id="1000545" trl="N" eid="DTD001_20000353">
+    <value column="Name" original="Temp Open Requisition">Temp Open Requisition</value>
+  </row>
+  <row id="1000546" trl="N" eid="DTD001_20000398">
+    <value column="Name" original="Temp Product Sticker">Temp Product Sticker</value>
+  </row>
+  <row id="1000547" trl="N" eid="VAPRC_20000333">
+    <value column="Name" original="VAPRC_EXPIRY_V">VAPRC_EXPIRY_V</value>
+  </row>
+  <row id="1000548" trl="N" eid="VAPRC_20000334">
+    <value column="Name" original="VAPRC_TEMP_EXPIRYREPORT">VAPRC_TEMP_EXPIRYREPORT</value>
+  </row>
+  <row id="1000549" trl="N" eid="VIS_1000504">
+    <value column="Name" original="Sales Office">销售办事处</value>
+  </row>
+  <row id="1000550" trl="N" eid="VIS_1000505">
+    <value column="Name" original="Organization Translation">组织 **</value>
+  </row>
+  <row id="1000551" trl="N" eid="VIS_1000506">
+    <value column="Name" original="Sales Office Translation">销售办事处 **</value>
+  </row>
+  <row id="1000552" trl="N" eid="VIS_1000503">
+    <value column="Name" original="RV_C_INVOICELINERPT">RV_C_INVOICELINERPT</value>
+  </row>
+  <row id="1000553" trl="N" eid="SAP001_1000503">
+    <value column="Name" original="Distribution Channel">分销渠道</value>
+  </row>
+  <row id="1000554" trl="N" eid="SAP001_1000504">
+    <value column="Name" original="Distribution Channel Translation">分销渠道 **</value>
+  </row>
+  <row id="1000555" trl="N" eid="SAP001_1000505">
+    <value column="Name" original="Sales Str">销售海峡</value>
+  </row>
+  <row id="1000556" trl="N" eid="SAP001_1000516">
+    <value column="Name" original="Service Configuration">服务配置</value>
+  </row>
+  <row id="1000557" trl="N" eid="SAP001_1000506">
+    <value column="Name" original="Division">联赛</value>
+  </row>
+  <row id="1000558" trl="N" eid="SAP001_1000507">
+    <value column="Name" original="Division Transaltion">联赛 **</value>
+  </row>
+  <row id="1000559" trl="N" eid="SAP001_1000508">
+    <value column="Name" original="Rejection Reason">拒绝原因</value>
+  </row>
+  <row id="1000560" trl="N" eid="SAP001_1000509">
+    <value column="Name" original="Rejection Reason Translation">拒绝原因 **</value>
+  </row>
+  <row id="1000561" trl="N" eid="SAP001_1000510">
+    <value column="Name" original="Inco Term">INCO期限</value>
+  </row>
+  <row id="1000562" trl="N" eid="SAP001_1000511">
+    <value column="Name" original="Inco Term Translation">INCO期限 **</value>
+  </row>
+  <row id="1000563" trl="N" eid="SAP001_1000512">
+    <value column="Name" original="SAP Document Types">SAP文档类型</value>
+  </row>
+  <row id="1000564" trl="N" eid="SAP001_1000513">
+    <value column="Name" original="SAP Document Types Translation">SAP文档类型 **</value>
+  </row>
+  <row id="1000565" trl="N" eid="SAP001_1000514">
+    <value column="Name" original="SAP001_Accessories_ID">SAP001_Accessories_ID</value>
+  </row>
+  <row id="1000566" trl="N" eid="VADB_20000413">
+    <value column="Name" original="VADB_ExcelChartSeries_ID">VADB_ExcelChartSeries_ID</value>
+  </row>
+  <row id="1000567" trl="N" eid="VADB_20000414">
+    <value column="Name" original="Excel File">Excel文件</value>
+  </row>
+  <row id="1000568" trl="N" eid="SAP001_1000517">
+    <value column="Name" original="Service Credentials">SAP001_ServiceCredentials_ID</value>
+  </row>
+  <row id="1000569" trl="N" eid="VISPRO_1000412">
+    <value column="Name" original="DB Export Import Info">DB导出导入信息</value>
+  </row>
+  <row id="1000570" trl="N" eid="VISPRO_1000413">
+    <value column="Name" original="VISPRO_ServerSettings_ID">VISPRO_ServerSettings_ID</value>
+  </row>
+  <row id="1000571" trl="N" eid="VATAX_20000325">
+    <value column="Name" original="Tax Cat Rate">税务猫率</value>
+  </row>
+  <row id="1000572" trl="N" eid="VATAX_20000328">
+    <value column="Name" original="Tax Type">税收类型</value>
+  </row>
+  <row id="1000573" trl="N" eid="VIS_1000507">
+    <value column="Name" original="M_Product_Category_Trl">产品分类 **</value>
+  </row>
+  <row id="1000574" trl="N" eid="SAP001_1000519">
+    <value column="Name" original="Customer Partner">客户合作伙伴</value>
+  </row>
+  <row id="1000575" trl="N" eid="SAP001_1000520">
+    <value column="Name" original="Customer Sales">客户销售</value>
+  </row>
+  <row id="1000576" trl="N" eid="SAP001_1000521">
+    <value column="Name" original="Accessories">Accessories</value>
+  </row>
+  <row id="1000577" trl="N" eid="SAP001_1000527">
+    <value column="Name" original="Termianls Data">SAP001_TerminalsData_ID</value>
+  </row>
+  <row id="1000578" trl="N" eid="SAP001_1000526">
+    <value column="Name" original="Purchase Group">Purchase Group</value>
+  </row>
+  <row id="1000579" trl="N" eid="SAP001_1000524">
+    <value column="Name" original="SAP001_DeliveryLine">SAP001_DeliveryLine</value>
+  </row>
+  <row id="1000580" trl="N" eid="SAP001_1000525">
+    <value column="Name" original="SAP001_InventoryLine">SAP001_InventoryLine</value>
+  </row>
+  <row id="1000581" trl="N" eid="SAP001_1000528">
+    <value column="Name" original="Stock Transfer">Stock Transfer</value>
+  </row>
+  <row id="1000582" trl="N" eid="SAP001_1000529">
+    <value column="Name" original="Line">SAP001_StockTransferLine_ID</value>
+  </row>
+  <row id="1000583" trl="N" eid="SAP001_1000530">
+    <value column="Name" original="SAP001_StockTransferACC">SAP001_StockTransferACC</value>
+  </row>
+  <row id="1000584" trl="N" eid="SAP001_1000533">
+    <value column="Name" original="SAP001_Shipment_V">SAP001_Shipment_V</value>
+  </row>
+  <row id="1000585" trl="N" eid="SAP001_1000534">
+    <value column="Name" original="SAP001_ShipmentLine_V">SAP001_ShipmentLine_V</value>
+  </row>
+  <row id="1000586" trl="N" eid="SAP001_1000531">
+    <value column="Name" original="SAP001_SaleByCustomer_Dv">SAP001_SaleByCustomer_Dv</value>
+  </row>
+  <row id="1000587" trl="N" eid="SAP001_1000532">
+    <value column="Name" original="SAP001_SaleByModel_Dv">SAP001_SaleByModel_Dv</value>
+  </row>
+  <row id="1000588" trl="N" eid="SAP001_1000535">
+    <value column="Name" original="SAP001_TerminalSaleByMonth_DV">SAP001_TerminalSaleByMonth_DV</value>
+  </row>
+  <row id="1000589" trl="N" eid="SAP001_1000536">
+    <value column="Name" original="Customer Consignments">Customer Consignments</value>
+  </row>
+  <row id="1000590" trl="N" eid="VIS_1000508">
+    <value column="Name" original="Card View">AD_CardView_ID</value>
+  </row>
+  <row id="1000591" trl="N" eid="VIS_1000509">
+    <value column="Name" original="Card View Columns">AD_CardView_Column_ID</value>
+  </row>
+  <row id="1000592" trl="N" eid="VIS_1000510">
+    <value column="Name" original="Card View roles">AD_CardView_Role_ID</value>
+  </row>
+  <row id="1000593" trl="N" eid="VARPT_20000408">
+    <value column="Name" original="VARPT_CUSTMRRMA_V">VARPT_CUSTMRRMA_V</value>
+  </row>
+  <row id="1000594" trl="N" eid="VARPT_20000409">
+    <value column="Name" original="VARPT_CUSTMRRMALIE_V">VARPT_CUSTMRRMALIE_V</value>
+  </row>
+  <row id="1000595" trl="N" eid="VARPT_20000410">
+    <value column="Name" original="VARPT_CUSTRMATAX_V">VARPT_CUSTRMATAX_V</value>
+  </row>
+  <row id="1000596" trl="N" eid="VARPT_20000411">
+    <value column="Name" original="VARPT_CustomerToReturn_V">VARPT_CustomerToReturn_V</value>
+  </row>
+  <row id="1000597" trl="N" eid="VARPT_20000412">
+    <value column="Name" original="VARPT_CustomerToReturnLine_V">VARPT_CustomerToReturnLine_V</value>
+  </row>
+  <row id="1000598" trl="N" eid="VARPT_20000419">
+    <value column="Name" original="VARPT_STOCKDETRPT_V">VARPT_STOCKDETRPT_V</value>
+  </row>
+  <row id="1000599" trl="N" eid="VARPT_20000420">
+    <value column="Name" original="VARPT_STOCKDETWW_V">VARPT_STOCKDETWW_V</value>
+  </row>
+  <row id="1000600" trl="N" eid="VIS_1000511">
+    <value column="Name" original="CardView Conditions">CardView Conditions</value>
+  </row>
+  <row id="1000601" trl="N" eid="VIS_1000512">
+    <value column="Name" original="AD_Login">AD_Login</value>
+  </row>
+  <row id="1000602" trl="N" eid="VIS_1000513">
+    <value column="Name" original="AD_Login_Trl">AD_Login_Trl</value>
+  </row>
+  <row id="1000603" trl="N" eid="SAP001_1000537">
+    <value column="Name" original="Service Credentials VA">Service Credentials VA</value>
+  </row>
+  <row id="1000604" trl="N" eid="SAP001_1000538">
+    <value column="Name" original="SAP Fallback">SAP Fallback</value>
+  </row>
+  <row id="1000605" trl="N" eid="_VAICNT20000344">
+    <value column="Name" original="VAICNT_InventoryCount">VAICNT_InventoryCount</value>
+  </row>
+  <row id="1000606" trl="N" eid="_VAICNT20000345">
+    <value column="Name" original="VAICNT_InventoryCountLine">VAICNT_InventoryCountLine</value>
+  </row>
+  <row id="1000607" trl="N" eid="VA004_20000421">
+    <value column="Name" original="Language Mapping">Language Mapping</value>
+  </row>
+  <row id="1000608" trl="N" eid="VA004_20000422">
+    <value column="Name" original="VA004_Setting">VA004_Setting</value>
+  </row>
+  <row id="1000609" trl="N" eid="VIS_1000514">
+    <value column="Name" original="Request Product">Request Product</value>
+  </row>
+  <row id="1000610" trl="N" eid="XYN01_1000545">
+    <value column="Name" original="Delvery Note View">Delvery Note View</value>
+  </row>
+  <row id="1000611" trl="N" eid="XYN01_1000546">
+    <value column="Name" original="Delivery Note Line View">Delivery Note Line View</value>
+  </row>
+  <row id="1000612" trl="N" eid="XYN01_1000547">
+    <value column="Name" original="Delivery Note Inventory View">Delivery Note Inventory View</value>
+  </row>
+  <row id="1000613" trl="N" eid="XYN01_1000548">
+    <value column="Name" original="Delivery Note Inventory View">Delivery Note Inventory View</value>
+  </row>
+</ViennaTrl>

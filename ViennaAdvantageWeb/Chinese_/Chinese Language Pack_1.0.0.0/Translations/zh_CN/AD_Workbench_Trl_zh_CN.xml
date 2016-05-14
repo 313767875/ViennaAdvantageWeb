@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_Workbench">
+  <row id="100" trl="N" eid="VIS_100">
+    <value column="Name" original="Sales">Sales</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+</ViennaTrl>

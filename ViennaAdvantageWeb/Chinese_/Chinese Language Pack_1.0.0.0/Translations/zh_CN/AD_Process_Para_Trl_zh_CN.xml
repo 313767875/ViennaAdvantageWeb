@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_Process_Para">
+  <row id="227" trl="N" eid="VIS_227">
+    <value column="Name" original="Delete existing Accounting Entries">Delete existing Accounting Entries</value>
+    <value column="Description" original="The selected accounting entries will be deleted!  DANGEROUS !!!">The selected accounting entries will be deleted!  DANGEROUS !!!</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="233" trl="N" eid="VIS_233">
+    <value column="Name" original="Pricelist Version">Pricelist Version</value>
+    <value column="Description" original="Only used if Price List is used to set future/standard cost price">Only used if Price List is used to set future/standard cost price</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="302" trl="N" eid="VIS_302">
+    <value column="Name" original="Overwrite Payment Rule">Overwrite Payment Rule</value>
+    <value column="Description" original="Overwrite how to pay the invoice">Overwrite how to pay the invoice</value>
+    <value column="Help" original="The Payment Rule indicates how the incoice will be settled - you can overwrite the value from the invoice.">The Payment Rule indicates how the incoice will be settled - you can overwrite the value from the invoice.</value>
+  </row>
+  <row id="315" trl="N" eid="VIS_315">
+    <value column="Name" original="From User">From User</value>
+    <value column="Description" original="Send EMail from user">Send EMail from user</value>
+    <value column="Help" original="The email is sent from the user selected - otherwise it is sent from the request email address of the client">The email is sent from the user selected - otherwise it is sent from the request email address of the client</value>
+  </row>
+  <row id="452" trl="N" eid="VIS_452">
+    <value column="Name" original="Maintenance Mode">Maintenance Mode</value>
+    <value column="Description" original="Language Maintenance Mode">Language Maintenance Mode</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="467" trl="N" eid="VIS_467">
+    <value column="Name" original="Existing Organization">Existing Organization</value>
+    <value column="Description" original="Organizational entity within client - set to empty if you want to create a new organization">Organizational entity within client - set to empty if you want to create a new organization</value>
+    <value column="Help" original="An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.">An organization is a unit of your client or legal entity - examples are store, department. You can share data between organizations.</value>
+  </row>
+  <row id="469" trl="N" eid="VIS_469">
+    <value column="Name" original="Limit Access to Role">Limit Access to Role</value>
+    <value column="Description" original="If no Role is selected, grant access to all (non-manual) roles of the Client">If no Role is selected, grant access to all (non-manual) roles of the Client</value>
+    <value column="Help" original="The Role determines security and access a user who has this Role will have in the System.">The Role determines security and access a user who has this Role will have in the System.</value>
+  </row>
+  <row id="493" trl="N" eid="VIS_493">
+    <value column="Name" original="New User/Contact">New User/Contact</value>
+    <value column="Description" original="User within the system - Internal or Business Partner Contact">User within the system - Internal or Business Partner Contact</value>
+    <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">The User identifies a unique user in the system. This could be an internal user or a business partner contact</value>
+  </row>
+  <row id="494" trl="N" eid="VIS_494">
+    <value column="Name" original="New Workflow Responsible">New Workflow Responsible</value>
+    <value column="Description" original="Responsible for Workflow Execution">Responsible for Workflow Execution</value>
+    <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.</value>
+  </row>
+  <row id="496" trl="N" eid="VIS_496">
+    <value column="Name" original="New User/Contact">New User/Contact</value>
+    <value column="Description" original="User within the system - Internal or Business Partner Contact">User within the system - Internal or Business Partner Contact</value>
+    <value column="Help" original="The User identifies a unique user in the system. This could be an internal user or a business partner contact">The User identifies a unique user in the system. This could be an internal user or a business partner contact</value>
+  </row>
+  <row id="497" trl="N" eid="VIS_497">
+    <value column="Name" original="New Workflow Responsible">New Workflow Responsible</value>
+    <value column="Description" original="Responsible for Workflow Execution">Responsible for Workflow Execution</value>
+    <value column="Help" original="The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.">The ultimate responsibility for a workflow is with an actual user. The Workflow Responsible allows to define ways to find that actual User.</value>
+  </row>
+  <row id="523" trl="N" eid="VIS_523">
+    <value column="Name" original="Default Sales Rep">Default Sales Rep</value>
+    <value column="Description" original="If not defined on Business Partner Level">If not defined on Business Partner Level</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="524" trl="N" eid="VIS_524">
+    <value column="Name" original="Dunning Currency">Dunning Currency</value>
+    <value column="Description" original="Currency to create Dunning Letters">Currency to create Dunning Letters</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="632" trl="N" eid="VIS_632">
+    <value column="Name" original="Request Type">Request Type</value>
+    <value column="Description" original="Type of Case (e.g. Inquiry, Complaint, ..)">Type of Case (e.g. Inquiry, Complaint, ..)</value>
+    <value column="Help" original="CaseTypes are used for processing and categorizing requests. Options are Account Inquiry, Warranty Issue, etc.">CaseTypes are used for processing and categorizing requests. Options are Account Inquiry, Warranty Issue, etc.</value>
+  </row>
+  <row id="768" trl="N" eid="VIS_768">
+    <value column="Name" original="From Business Partner">From Business Partner</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="770" trl="N" eid="VIS_770">
+    <value column="Name" original="From Organization">From Organization</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="772" trl="N" eid="VIS_772">
+    <value column="Name" original="From Product">From Product</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="774" trl="N" eid="VIS_774">
+    <value column="Name" original="From User/Contact">From User/Contact</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000444" trl="N" eid="VARPT_20000318">
+    <value column="Name" original="Date">Date</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000445" trl="N" eid="VARPT_20000319">
+    <value column="Name" original="Bank Account">Bank Account</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000496" trl="N" eid="DTD001_20000293">
+    <value column="Name" original="Source Warehouse">Source Warehouse</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000499" trl="N" eid="DTD001_20000378">
+    <value column="Name" original="PO Organization">PO Organization</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000500" trl="N" eid="DTD001_20000260">
+    <value column="Name" original="Requisition Organization">Requisition Organization</value>
+    <value column="Description" original="Organizational entity within Tenant">Organizational entity within Tenant</value>
+    <value column="Help" original="An organization is a unit of your Tenant or legal entity - examples are store, department. You can share data between organizations.">An organization is a unit of your Tenant or legal entity - examples are store, department. You can share data between organizations.</value>
+  </row>
+  <row id="1000524" trl="Y" eid="DTD001_20000302">
+    <value column="Name" original="Vendor">供应商</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+</ViennaTrl>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_ElementCtx">
+  <row id="100" trl="N" eid="VIS_100">
+    <value column="Name" original="Employee">Employee</value>
+    <value column="PrintName" original="Employee">Employee</value>
+    <value column="Description" original="Identifies an Employee">Identifies an Employee</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="101" trl="Y" eid="VIS_101">
+    <value column="Name" original="Customer">客户</value>
+    <value column="PrintName" original="Customer">Customer</value>
+    <value column="Description" original="Identifies a Customer">Identifies a Customer</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="102" trl="Y" eid="VIS_102">
+    <value column="Name" original="Vendor">供应商</value>
+    <value column="PrintName" original="Vendor">Vendor</value>
+    <value column="Description" original="Identifies a Vendor">Identifies a Vendor</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="103" trl="Y" eid="VIS_103">
+    <value column="Name" original="Purchase Order No">采购单号码</value>
+    <value column="PrintName" original="Purchase Order No">Purchase Order No</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="104" trl="Y" eid="VIS_104">
+    <value column="Name" original="Invoice No">发票号码</value>
+    <value column="PrintName" original="Invoice No">Invoice No</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="105" trl="Y" eid="VIS_105">
+    <value column="Name" original="Material Receipt No">Material Receipt 号码</value>
+    <value column="PrintName" original="Material Receipt No">Material Receipt No</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="106" trl="Y" eid="VIS_106">
+    <value column="Name" original="Request No">Request 号码</value>
+    <value column="PrintName" original="Request No">Request No</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="107" trl="Y" eid="VIS_107">
+    <value column="Name" original="Sales Order No">销售单号码</value>
+    <value column="PrintName" original="Sales Order No">Sales Order No</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="108" trl="Y" eid="VIS_108">
+    <value column="Name" original="Shipment No">装运单号码</value>
+    <value column="PrintName" original="Shipment No">Shipment No</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="109" trl="Y" eid="VIS_109">
+    <value column="Name" original="Vendor Invoice No">Vendor Invoice 号码</value>
+    <value column="PrintName" original="Vendor Invoice No">Vendor Invoice No</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="110" trl="Y" eid="VIS_110">
+    <value column="Name" original="Location">位置</value>
+    <value column="PrintName" original="Location">Location</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="111" trl="N" eid="VIS_111">
+    <value column="Name" original="Vendor Location">Vendor Location</value>
+    <value column="PrintName" original="Vendor Location">Vendor Location</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="112" trl="Y" eid="VIS_112">
+    <value column="Name" original="Location">位置</value>
+    <value column="PrintName" original="Location">Location</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="113" trl="N" eid="VIS_113">
+    <value column="Name" original="Vendor Location">Vendor Location</value>
+    <value column="PrintName" original="Vendor Location">Vendor Location</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="114" trl="N" eid="VIS_114">
+    <value column="Name" original="Vendor Location">Vendor Location</value>
+    <value column="PrintName" original="Vendor Location">Vendor Location</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="115" trl="Y" eid="VIS_115">
+    <value column="Name" original="Vendor">供应商</value>
+    <value column="PrintName" original="Vendor">Vendor</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="116" trl="Y" eid="VIS_116">
+    <value column="Name" original="Vendor">供应商</value>
+    <value column="PrintName" original="Vendor">Vendor</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="117" trl="Y" eid="VIS_117">
+    <value column="Name" original="Customer">客户</value>
+    <value column="PrintName" original="Customer">Customer</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="118" trl="N" eid="VIS_118">
+    <value column="Name" original="Invoice to Customer">Invoice to Customer</value>
+    <value column="PrintName" original="Invoice to Customer">Invoice to Customer</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="120" trl="N" eid="VIS_120">
+    <value column="Name" original="Invoice to Location">Invoice to Location</value>
+    <value column="PrintName" original="Invoice to Location">Invoice to Location</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="121" trl="N" eid="VIS_121">
+    <value column="Name" original="Invoice to Customer">Invoice to Customer</value>
+    <value column="PrintName" original="Invoice to Customer">Invoice to Customer</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="122" trl="N" eid="VIS_122">
+    <value column="Name" original="Invoice to Contact">Invoice to Contact</value>
+    <value column="PrintName" original="Invoice to Contact">Invoice to Contact</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="123" trl="N" eid="VIS_123">
+    <value column="Name" original="Vendor Contact">Vendor Contact</value>
+    <value column="PrintName" original="Vendor Contact">Vendor Contact</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="124" trl="N" eid="VIS_124">
+    <value column="Name" original="Contact">Contact</value>
+    <value column="PrintName" original="Contact">Contact</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="125" trl="N" eid="VIS_125">
+    <value column="Name" original="Vendor Contact">Vendor Contact</value>
+    <value column="PrintName" original="Vendor Contact">Vendor Contact</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="126" trl="N" eid="VIS_126">
+    <value column="Name" original="Sales Order Reference">Sales Order Reference</value>
+    <value column="PrintName" original="Sales Order Reference">Sales Order Reference</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="127" trl="N" eid="VIS_127">
+    <value column="Name" original="Sales Order Reference">Sales Order Reference</value>
+    <value column="PrintName" original="Sales Order Reference">Sales Order Reference</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="128" trl="N" eid="VIS_128">
+    <value column="Name" original="Invoice Type">Invoice Type</value>
+    <value column="PrintName" original="Invoice Type">Invoice Type</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="129" trl="N" eid="VIS_129">
+    <value column="Name" original="Orig Receipt">Orig Receipt</value>
+    <value column="PrintName" original="Orig Receipt">Orig Receipt</value>
+    <value column="Description" original="Original receipt of the vendor RMA">Original receipt of the vendor RMA</value>
+    <value column="Help" original="Reference to the original receipt for the vendor Return Material Authorization (RMA)">Reference to the original receipt for the vendor Return Material Authorization (RMA)</value>
+  </row>
+  <row id="130" trl="N" eid="VIS_130">
+    <value column="Name" original="Orig Purchase Order">Orig Purchase Order</value>
+    <value column="PrintName" original="Orig Purchase Order">Orig Purchase Order</value>
+    <value column="Description" original="Original Purchase Order for Vendor Return Material Authorization">Original Purchase Order for Vendor Return Material Authorization</value>
+    <value column="Help" original="Reference to the original Purchase Order for Vendor Return Material Authorization">Reference to the original Purchase Order for Vendor Return Material Authorization</value>
+  </row>
+  <row id="131" trl="N" eid="VIS_131">
+    <value column="Name" original="Orig Receipt Line">Orig Receipt Line</value>
+    <value column="PrintName" original="Orig Receipt Line">Orig Receipt Line</value>
+    <value column="Description" original="Original receipt line of the  Vendor RMA">Original receipt line of the  Vendor RMA</value>
+    <value column="Help" original="Reference to the original receipt line for the Return Material Authorization (RMA)">Reference to the original receipt line for the Return Material Authorization (RMA)</value>
+  </row>
+  <row id="132" trl="N" eid="VIS_132">
+    <value column="Name" original="Original Purchase Order Line">Original Purchase Order Line</value>
+    <value column="PrintName" original="Original Purchase Order Line">Original Purchase Order Line</value>
+    <value column="Description" original="Original Purchase Order Line for Vendor Return Material Authorization">Original Purchase Order Line for Vendor Return Material Authorization</value>
+    <value column="Help" original="Reference to the original Purchase Order Line for Vendor Return Material Authorization (RMA)">Reference to the original Purchase Order Line for Vendor Return Material Authorization (RMA)</value>
+  </row>
+</ViennaTrl>

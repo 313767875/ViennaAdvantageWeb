@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_InfoWindow">
+  <row id="100" trl="Y" eid="VIS_100">
+    <value column="Name" original="Business Partner">商业伙伴</value>
+    <value column="Description" original="Business Partner Info">Business Partner Info</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="101" trl="N" eid="VIS_101">
+    <value column="Name" original="Product Info">Product Info</value>
+    <value column="Description" original="Product Info">Product Info</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="102" trl="N" eid="VIS_102">
+    <value column="Name" original="Invoice Info">Invoice Info</value>
+    <value column="Description" original="Invoice Info">Invoice Info</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="103" trl="N" eid="VIS_103">
+    <value column="Name" original="Asset">Asset</value>
+    <value column="Description" original="Asset Info">Asset Info</value>
+    <value column="Help" original="A_Asset A_Asset &#xD;LEFT OUTER JOIN M_Product   M_Product  ON  A_Asset.M_Product_ID=M_Product.M_Product_ID&#xD;LEFT OUTER JOIN C_BPartner  C_BPartner  ON  A_Asset.C_BPartner_ID=C_BPartner.C_BPartner_ID&#xD;LEFT OUTER JOIN AD_User  AD_User ON  A_Asset.AD_User_ID=AD_User.AD_User_ID">A_Asset A_Asset 
+LEFT OUTER JOIN M_Product   M_Product  ON  A_Asset.M_Product_ID=M_Product.M_Product_ID
+LEFT OUTER JOIN C_BPartner  C_BPartner  ON  A_Asset.C_BPartner_ID=C_BPartner.C_BPartner_ID
+LEFT OUTER JOIN AD_User  AD_User ON  A_Asset.AD_User_ID=AD_User.AD_User_ID</value>
+  </row>
+  <row id="104" trl="Y" eid="VIS_104">
+    <value column="Name" original="Order">订单</value>
+    <value column="Description" original="Order Info">Order Info</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="105" trl="Y" eid="VIS_105">
+    <value column="Name" original="Shipment">装运单</value>
+    <value column="Description" original="Shipment Info">Shipment Info</value>
+    <value column="Help" original="Shipment Info">
+    </value>
+  </row>
+  <row id="106" trl="N" eid="VIS_106">
+    <value column="Name" original="Payment">Payment</value>
+    <value column="Description" original="Payment Info">Payment Info</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="107" trl="N" eid="VIS_107">
+    <value column="Name" original="Cash Line">Cash Line</value>
+    <value column="Description" original="Cash Line Info">Cash Line Info</value>
+    <value column="Help" original="aa">aa</value>
+  </row>
+  <row id="108" trl="N" eid="VIS_108">
+    <value column="Name" original="Resource Assignment">Resource Assignment</value>
+    <value column="Description" original="Resource Assignment Info">Resource Assignment Info</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="109" trl="N" eid="VIS_109">
+    <value column="Name" original="Payment">Payment</value>
+    <value column="Description" original="Unallocated Payments - Used by Payment Allocation Form">Unallocated Payments - Used by Payment Allocation Form</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="111" trl="N" eid="VIS_111">
+    <value column="Name" original="Invoice">Invoice</value>
+    <value column="Description" original="Unpaid Invoices - Used by Payment Allocation Form">Unpaid Invoices - Used by Payment Allocation Form</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="112" trl="N" eid="VIS_112">
+    <value column="Name" original="Invoice">Invoice</value>
+    <value column="Description" original="Match Invoices - Used by Invoice Matching Form">Match Invoices - Used by Invoice Matching Form</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="113" trl="Y" eid="VIS_113">
+    <value column="Name" original="Order">订单</value>
+    <value column="Description" original="Match Orders - Used by Invoice Matching Window">Match Orders - Used by Invoice Matching Window</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="114" trl="N" eid="VIS_114">
+    <value column="Name" original="Receipt">Receipt</value>
+    <value column="Description" original="Match Receipts - Used by Invoice Matching window">Match Receipts - Used by Invoice Matching window</value>
+    <value column="Help" original="--FULL JOIN @MatchToTable@ m ON (lin.M_InOutLine_ID=m.M_InOutLine_ID)">--FULL JOIN @MatchToTable@ m ON (lin.M_InOutLine_ID=m.M_InOutLine_ID)</value>
+  </row>
+  <row id="1000000" trl="N" eid="VIS_1000000">
+    <value column="Name" original="Generate Resource Charges">Generate Resource Charges</value>
+    <value column="Description" original="Generate Resource Charges">Generate Resource Charges</value>
+    <value column="Help" original="Enables you to create resource transactions for a given resource across work orders and work order operations in a single step. Resource quantity can be selected by the user for each transaction">Enables you to create resource transactions for a given resource across work orders and work order operations in a single step. Resource quantity can be selected by the user for each transaction</value>
+  </row>
+  <row id="1000001" trl="N" eid="VIS_1000001">
+    <value column="Name" original="Implement Plan">Implement Plan</value>
+    <value column="Description" original="Implement Plan">Implement Plan</value>
+    <value column="Help" original="Material Planning Implement Plan window. Enables you to release work orders and purchase orders recommended by the planning engine.">Material Planning Implement Plan window. Enables you to release work orders and purchase orders recommended by the planning engine.</value>
+  </row>
+  <row id="1000002" trl="Y" eid="VIS_1000002">
+    <value column="Name" original="Locator">库存位置</value>
+    <value column="Description" original="Locator Info">Locator Info</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000003" trl="N" eid="VIS_1000003">
+    <value column="Name" original="Locator Info">Locator Info</value>
+    <value column="Description" original="Locator Info">Locator Info</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000004" trl="Y" eid="VIS_1000004">
+    <value column="Name" original="Order">订单</value>
+    <value column="Description" original="Wave Planning">Wave Planning</value>
+    <value column="Help" original="Select Orders as part of Wave Planning">Select Orders as part of Wave Planning</value>
+  </row>
+  <row id="1000005" trl="Y" eid="VIS_1000005">
+    <value column="Name" original="Product Attribute Instance">批次</value>
+    <value column="Description" original="Product Attribute Instance">Product Attribute Instance</value>
+    <value column="Help" original="Used by the Product Attribute Instance window">Used by the Product Attribute Instance window</value>
+  </row>
+  <row id="1000006" trl="N" eid="VIS_1000006">
+    <value column="Name" original="Shipment">Shipment</value>
+    <value column="Description" original="Shipment - Used by Shpiment Management window">Shipment - Used by Shpiment Management window</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000007" trl="N" eid="VIS_1000007">
+    <value column="Name" original="Task">Task</value>
+    <value column="Description" original="Task">Task</value>
+    <value column="Help" original="Warehouse Task Confirmation window">Warehouse Task Confirmation window</value>
+  </row>
+  <row id="1000008" trl="N" eid="VIS_1000008">
+    <value column="Name" original="Task List">Task List</value>
+    <value column="Description" original="Task List Info Window">Task List Info Window</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000010" trl="N" eid="VIS_1000010">
+    <value column="Name" original="Wave">Wave</value>
+    <value column="Description" original="Release Wave">Release Wave</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000011" trl="N" eid="VIS_1000011">
+    <value column="Name" original="Wave">Wave</value>
+    <value column="Description" original="Release Wave (summarized)">Release Wave (summarized)</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000012" trl="N" eid="VIS_1000012">
+    <value column="Name" original="Work Order Operation">Work Order Operation</value>
+    <value column="Description" original="Work Order Operation">Work Order Operation</value>
+    <value column="Help" original="Generate Work Operation Requirements window. Enables you to generate component issues, component returns and resource usage transactions for multiple operations across work orders.">Generate Work Operation Requirements window. Enables you to generate component issues, component returns and resource usage transactions for multiple operations across work orders.</value>
+  </row>
+  <row id="1000014" trl="N" eid="VIS_1000014">
+    <value column="Name" original="VIS_Business Partner For Test WIndow">VIS_Business Partner For Test WIndow</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000015" trl="N" eid="DTD001_20000000">
+    <value column="Name" original="DTD001_MovementLine">Movement Line</value>
+    <value column="Description" original="Movement Line info window">Movement Line info window</value>
+    <value column="Help" original="">M_MovementLine LINE INNER JOIN M_Movement HEAD ON(head.M_Movement_ID=line.M_Movement_ID AND head.DocStatus='IP')
+LEFT JOIN M_Product P ON (LINE.M_Product_ID=P.M_Product_ID)
+LEFT JOIN M_Warehouse W ON (HEAD.M_Warehouse_ID=W.M_Warehouse_ID)
+LEFT JOIN M_Locator LOC ON(LINE.M_Locator_ID=LOC.M_Locator_ID)
+LEFT JOIN M_Locator LOC2 ON(LINE.M_LocatorTo_ID=LOC2.M_Locator_ID)
+WHERE LINE.M_MovementLine_ID NOT IN(SELECT M_MovementLine_ID  FROM M_PackageLine where dtd001_totalqty=dtd001_alreadypackqty+qty  AND  M_MovementLine_ID is not null)</value>
+  </row>
+</ViennaTrl>

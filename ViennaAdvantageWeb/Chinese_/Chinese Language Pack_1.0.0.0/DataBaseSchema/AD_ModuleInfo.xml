@@ -1,0 +1,93 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="AD_ModuleInfo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="AD_CLIENT_ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="AD_MODULEINFO_ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="AD_ORG_ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="AUTHOR" type="xs:string" minOccurs="0" />
+                <xs:element name="CREATED" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="CREATEDBY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="DATABASESCHEMA" type="xs:string" minOccurs="0" />
+                <xs:element name="DEPENDENCYINFO" type="xs:string" minOccurs="0" />
+                <xs:element name="DESCRIPTION" type="xs:string" minOccurs="0" />
+                <xs:element name="DEVELOPMENTSTATUS" type="xs:string" minOccurs="0" />
+                <xs:element name="ISACTIVE" type="xs:string" minOccurs="0" />
+                <xs:element name="ISFREE" type="xs:string" minOccurs="0" />
+                <xs:element name="ISPAID" type="xs:string" minOccurs="0" />
+                <xs:element name="NAME" type="xs:string" minOccurs="0" />
+                <xs:element name="NAMESPACE" type="xs:string" minOccurs="0" />
+                <xs:element name="PATH" type="xs:string" minOccurs="0" />
+                <xs:element name="PREFIX" type="xs:string" minOccurs="0" />
+                <xs:element name="TERMCONDITION" type="xs:string" minOccurs="0" />
+                <xs:element name="URL" type="xs:string" minOccurs="0" />
+                <xs:element name="UPDATED" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="UPDATEDBY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="UPGRADEINFO" type="xs:string" minOccurs="0" />
+                <xs:element name="VERSIONID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="VERSIONNO" type="xs:string" minOccurs="0" />
+                <xs:element name="EXPORT_ID" type="xs:string" minOccurs="0" />
+                <xs:element name="ASSEMBLYNAME" type="xs:string" minOccurs="0" />
+                <xs:element name="INSTALLATIONINSTRUCTION" type="xs:string" minOccurs="0" />
+                <xs:element name="FEATURE" type="xs:string" minOccurs="0" />
+                <xs:element name="BINARYDATA" type="xs:base64Binary" minOccurs="0" />
+                <xs:element name="RATING" type="xs:decimal" minOccurs="0" />
+                <xs:element name="LOGSUMMARY" type="xs:string" minOccurs="0" />
+                <xs:element name="ISRELEASED" type="xs:string" minOccurs="0" />
+                <xs:element name="ISPLANNED" type="xs:string" minOccurs="0" />
+                <xs:element name="ESTIMATEDDAY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="RECEIVED_FS_COST" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ESTIMATED_FS_COST" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ESTIMATED_D_COST" type="xs:decimal" minOccurs="0" />
+                <xs:element name="RECEIVED_D_COST" type="xs:decimal" minOccurs="0" />
+                <xs:element name="ISCOMMUNITYFREE" type="xs:string" minOccurs="0" />
+                <xs:element name="ISPROFESSIONALFREE" type="xs:string" minOccurs="0" />
+                <xs:element name="ISPROFESSIONALPAID" type="xs:string" minOccurs="0" />
+                <xs:element name="SUBSCRIPTIONDAY" type="xs:decimal" minOccurs="0" />
+                <xs:element name="AD_MODULECATEGORY_ID" type="xs:decimal" minOccurs="0" />
+                <xs:element name="INCLUDEDFILE" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <AD_ModuleInfo>
+    <AD_CLIENT_ID>0</AD_CLIENT_ID>
+    <AD_MODULEINFO_ID>1000119</AD_MODULEINFO_ID>
+    <AD_ORG_ID>0</AD_ORG_ID>
+    <CREATED>2015-08-04T15:49:25+05:30</CREATED>
+    <CREATEDBY>100</CREATEDBY>
+    <DATABASESCHEMA>N                                                 </DATABASESCHEMA>
+    <DESCRIPTION>Chinese Language Pack</DESCRIPTION>
+    <ISACTIVE>Y</ISACTIVE>
+    <ISFREE>N</ISFREE>
+    <ISPAID>N</ISPAID>
+    <NAME>Chinese Language Pack</NAME>
+    <NAMESPACE>ViennaAdvantage</NAMESPACE>
+    <PREFIX>Chinese_</PREFIX>
+    <UPDATED>2015-08-04T15:49:25+05:30</UPDATED>
+    <UPDATEDBY>100</UPDATEDBY>
+    <VERSIONID>1000</VERSIONID>
+    <VERSIONNO>1.0.0.0</VERSIONNO>
+    <EXPORT_ID>Chinese_20000053</EXPORT_ID>
+    <ASSEMBLYNAME>Chinese</ASSEMBLYNAME>
+    <RATING>0</RATING>
+    <ISRELEASED>N</ISRELEASED>
+    <ISPLANNED>N</ISPLANNED>
+    <ESTIMATEDDAY>0</ESTIMATEDDAY>
+    <RECEIVED_FS_COST>0</RECEIVED_FS_COST>
+    <ESTIMATED_FS_COST>0</ESTIMATED_FS_COST>
+    <ESTIMATED_D_COST>0</ESTIMATED_D_COST>
+    <RECEIVED_D_COST>0</RECEIVED_D_COST>
+    <ISCOMMUNITYFREE>N</ISCOMMUNITYFREE>
+    <ISPROFESSIONALFREE>N</ISPROFESSIONALFREE>
+    <ISPROFESSIONALPAID>N</ISPROFESSIONALPAID>
+    <SUBSCRIPTIONDAY>0</SUBSCRIPTIONDAY>
+  </AD_ModuleInfo>
+</NewDataSet>

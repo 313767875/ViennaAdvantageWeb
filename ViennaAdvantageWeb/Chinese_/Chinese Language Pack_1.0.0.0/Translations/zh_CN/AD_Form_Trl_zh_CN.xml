@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_Form">
+  <row id="100" trl="Y" eid="VIS_100">
+    <value column="Name" original="Generate Invoices (manual)">生成发票（手动）</value>
+    <value column="Description" original="Select and generate invoices">Select and generate invoices</value>
+    <value column="Help" original="Generate Invoices from Orders.  &#xA;Select the orders to generate the invoice for.">Generate Invoices from Orders.  
+Select the orders to generate the invoice for.</value>
+  </row>
+  <row id="101" trl="Y" eid="VIS_101">
+    <value column="Name" original="Import File Loader">导入文件装载机</value>
+    <value column="Description" original="Load flat Files into import tables">Load flat Files into import tables</value>
+    <value column="Help" original="The Import File Loader parses the content of a flat file and loads it into import tables. Comments start with a '[' and end with a ']' and are ignored; example: [Some Heading].">The Import File Loader parses the content of a flat file and loads it into import tables. Comments start with a '[' and end with a ']' and are ignored; example: [Some Heading].</value>
+  </row>
+  <row id="102" trl="Y" eid="VIS_102">
+    <value column="Name" original="Initial Tenant Setup">初始设置租户</value>
+    <value column="Description" original="Initial new Client/Tenant Setup">Initial new Client/Tenant Setup</value>
+    <value column="Help" original="Set up a new Client/Tenant of the system">Set up a new Client/Tenant of the system</value>
+  </row>
+  <row id="103" trl="Y" eid="VIS_103">
+    <value column="Name" original="Material Transactions">重大交易</value>
+    <value column="Description" original="Material Transactions">Material Transactions</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="104" trl="Y" eid="VIS_104">
+    <value column="Name" original="Payment Allocation">付款分配</value>
+    <value column="Description" original="Allocate invoices and payments">Allocate invoices and payments</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="105" trl="Y" eid="VIS_105">
+    <value column="Name" original="Generate Charges">产生电荷</value>
+    <value column="Description" original="Generate Charges from natural accounts">Generate Charges from natural accounts</value>
+    <value column="Help" original="Use the upper portion to create new charges using the general charge accounts.  Use the lower portion to create charges based on the natural account.">Use the upper portion to create new charges using the general charge accounts.  Use the lower portion to create charges based on the natural account.</value>
+  </row>
+  <row id="106" trl="Y" eid="VIS_106">
+    <value column="Name" original="Payment Print/Export">付款打印/导出</value>
+    <value column="Description" original="Print or export your payments">Print or export your payments</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="107" trl="Y" eid="VIS_107">
+    <value column="Name" original="Payment Selection (manual)">付款选择（手动）</value>
+    <value column="Description" original="Manual Payment Selection">Manual Payment Selection</value>
+    <value column="Help" original="Select vendor invoices for payment. If you don't see an invoice, make sure that it is not included in a different (nprocessed) Payment Selection.">Select vendor invoices for payment. If you don't see an invoice, make sure that it is not included in a different (nprocessed) Payment Selection.</value>
+  </row>
+  <row id="108" trl="Y" eid="VIS_108">
+    <value column="Name" original="Matching PO-Receipt-Invoice">匹配PO收据，发票</value>
+    <value column="Description" original="Match Purchase Orders, Receipts, Vendor Invoices">Match Purchase Orders, Receipts, Vendor Invoices</value>
+    <value column="Help" original="Make sure that the Receipts and Invoices are processed. If you want to match partial shipment, make sure that &quot;Same Quantity&quot; is not selected.">Make sure that the Receipts and Invoices are processed. If you want to match partial shipment, make sure that "Same Quantity" is not selected.</value>
+  </row>
+  <row id="109" trl="Y" eid="VIS_109">
+    <value column="Name" original="Translation Import/Export">翻译导入/导出</value>
+    <value column="Description" original="Import or Export Language Translation">Import or Export Language Translation</value>
+    <value column="Help" original="Export/Import Translation info to/from xml for translation in external tool. Please note that the Language MUST be an enabled and verified System Langage.">Export/Import Translation info to/from xml for translation in external tool. Please note that the Language MUST be an enabled and verified System Langage.</value>
+  </row>
+  <row id="110" trl="Y" eid="VIS_110">
+    <value column="Name" original="Generate Shipments (manual)">产生出货单（手动）</value>
+    <value column="Description" original="Select and generate shipments">Select and generate shipments</value>
+    <value column="Help" original="Generate Shipments from Orders.  &#xA;Select the orders to generate the shipments for.">Generate Shipments from Orders.  
+Select the orders to generate the shipments for.</value>
+  </row>
+  <row id="111" trl="Y" eid="VIS_111">
+    <value column="Name" original="SQL Process">SQL过程</value>
+    <value column="Description" original="Process SQL Statements">Process SQL Statements</value>
+    <value column="Help" original="Process SQL DDL Statements">Process SQL DDL Statements</value>
+  </row>
+  <row id="112" trl="Y" eid="VIS_112">
+    <value column="Name" original="Merge Entities">合并实体</value>
+    <value column="Description" original="Merge From Entity to To Entity - Delete From">Merge From Entity to To Entity - Delete From</value>
+    <value column="Help" original="&lt;i&gt;Dangerous - Please are aware of what you are doing!&lt;/i&gt;&#xA;All instances of the From entity (e.g. Customer A) are changed to the To entity (e.g. Customer B). &#xA;The From entity (e.g. Customer A) is deleted. &#xA;&lt;p&gt;&lt;b&gt;There is NO undo nor trace !  Please do a backup first&lt;/b&gt; Please be aware that you may be changing history records (e.g. invoices, etc.) ! &lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Side effects:&lt;/b&gt; Merging Products are likely to distort product costs; Merging Business Partners may result in incorrect open item balance. Check with support on remedies.&#xA;&lt;p&gt;&lt;b&gt;Restrictions:&lt;/b&gt; Accounting and Inventory conflicts are not resolved in this version.">&lt;i&gt;Dangerous - Please are aware of what you are doing!&lt;/i&gt;
+All instances of the From entity (e.g. Customer A) are changed to the To entity (e.g. Customer B). 
+The From entity (e.g. Customer A) is deleted. 
+&lt;p&gt;&lt;b&gt;There is NO undo nor trace !  Please do a b</value>
+  </row>
+  <row id="113" trl="Y" eid="VIS_113">
+    <value column="Name" original="POS">POS</value>
+    <value column="Description" original="Point Of Sales Terminal">Point Of Sales Terminal</value>
+    <value column="Help" original="Enter Transactions via a POS Terminal.  Automatically, scans or credit card swipes are recongized.">Enter Transactions via a POS Terminal.  Automatically, scans or credit card swipes are recongized.</value>
+  </row>
+  <row id="114" trl="Y" eid="VIS_114">
+    <value column="Name" original="BOM Drop">BOM降</value>
+    <value column="Description" original="Drop (expand) Bill of Materials">Drop (expand) Bill of Materials</value>
+    <value column="Help" original="Drop the extended Bill of Materials into an Order, Invoice, etc.  The documents need to be in a Drafted stage.  Make sure that the items included in the BOM are on the price list of the Order, Invoice, etc. as otherwise the price will be zero!">Drop the extended Bill of Materials into an Order, Invoice, etc.  The documents need to be in a Drafted stage.  Make sure that the items included in the BOM are on the price list of the Order, Invoice, etc. as otherwise the price will be zero!</value>
+  </row>
+  <row id="115" trl="Y" eid="VIS_115">
+    <value column="Name" original="Tree Maintenance">树维护</value>
+    <value column="Description" original="Maintain Trees">Maintain Trees</value>
+    <value column="Help" original="View and change trees. Maintain the entries in their specific Windows.">View and change trees. Maintain the entries in their specific Windows.</value>
+  </row>
+  <row id="116" trl="Y" eid="VIS_116">
+    <value column="Name" original="Workflow Editor">工作流程编辑器</value>
+    <value column="Description" original="Edit Workflows">Edit Workflows</value>
+    <value column="Help" original="Edit the graphical layout of workflows">Edit the graphical layout of workflows</value>
+  </row>
+  <row id="117" trl="Y" eid="VIS_117">
+    <value column="Name" original="Workflow Activities">工作流活动</value>
+    <value column="Description" original="My active workflow activities">My active workflow activities</value>
+    <value column="Help" original="View active worflow activities">View active worflow activities</value>
+  </row>
+  <row id="118" trl="Y" eid="VIS_118">
+    <value column="Name" original="Archive Viewer">存档查看器</value>
+    <value column="Description" original="View automatically archived Documents">View automatically archived Documents</value>
+    <value column="Help" original="Depending on the Client Automatic Archive Level documents and reports are saved and available for view. In the Report Viewer you can manually archive Documents or Reports.  You can only view archives, if you have access to the original document.">Depending on the Client Automatic Archive Level documents and reports are saved and available for view. In the Report Viewer you can manually archive Documents or Reports.  You can only view archives, if you have access to the original document.</value>
+  </row>
+  <row id="119" trl="Y" eid="VIS_119">
+    <value column="Name" original="Performance Indicators">性能指标</value>
+    <value column="Description" original="View Performance Indicators">View Performance Indicators</value>
+    <value column="Help" original="View all Performance Indicators and Goals">View all Performance Indicators and Goals</value>
+  </row>
+  <row id="120" trl="Y" eid="VIS_120">
+    <value column="Name" original="Product Attribute Grid">产品属性网格</value>
+    <value column="Description" original="Maintain Products with Attributes in a Table Grid">Maintain Products with Attributes in a Table Grid</value>
+    <value column="Help" original="Select one or two attributes if a Product Attribute and display/maintain products in a row or table grid.">Select one or two attributes if a Product Attribute and display/maintain products in a row or table grid.</value>
+  </row>
+  <row id="1000032" trl="Y" eid="VIS_1000032">
+    <value column="Name" original="Business Partner Report">业务合作伙伴报告</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000064" trl="Y" eid="VIS_1000064">
+    <value column="Name" original="VServer">Vserver</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000065" trl="Y" eid="VIS_1000065">
+    <value column="Name" original="Team Forecast Report">团队预测报告</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000066" trl="Y" eid="VIS_1000066">
+    <value column="Name" original="Campaign Summary">广告系列摘要</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000067" trl="Y" eid="VIS_1000067">
+    <value column="Name" original="Shipment Form">货运表单</value>
+    <value column="Description" original="Shipment Form">Shipment Form</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000068" trl="Y" eid="VIS_1000068">
+    <value column="Name" original="COD Form">COD表</value>
+    <value column="Description" original="COD Form">COD Form</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000073" trl="Y" eid="VIS_1000073">
+    <value column="Name" original="Banking">银行业</value>
+    <value column="Description" original="Banking">Banking</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000074" trl="Y" eid="VIS_1000074">
+    <value column="Name" original="Design">设计</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000078" trl="Y" eid="VIS_1000078">
+    <value column="Name" original="Market_ImportModule">Market_ImportModule</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000080" trl="Y" eid="VIS_1000080">
+    <value column="Name" original="Account Statement">帐户对帐单</value>
+    <value column="Description" original="Account Statement">Account Statement</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000086" trl="Y" eid="WSP_1000080">
+    <value column="Name" original="WSP_Workspace">WSP_Workspace</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000090" trl="Y" eid="VACTWZ_1000094">
+    <value column="Name" original="VACTWZ_Account Wizard">VACTWZ_会计向导</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000091" trl="Y" eid="WEB_1000093">
+    <value column="Name" original="WEB_TestForm">WEB_TestForm</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000094" trl="Y" eid="CPT_1000081">
+    <value column="Name" original="CPT_Cockpit">CPT_Cockpit</value>
+    <value column="Description" original="Cockpit">Cockpit</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000095" trl="Y" eid="VADSHBC_1000091">
+    <value column="Name" original="VADSHBC_Accounts Dashboard">VADSHBC_会计仪表板</value>
+    <value column="Description" original="Accounts Dashboard">Accounts Dashboard</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000097" trl="Y" eid="VAAPBC_1000086">
+    <value column="Name" original="VAAPBC_Account Payables">VAAPBC_会计应付款</value>
+    <value column="Description" original="Account Payables">Account Payables</value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000098" trl="Y" eid="VIS_1000090">
+    <value column="Name" original="GL Journal Form">GL杂志形式</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000099" trl="Y" eid="VIS_1000091">
+    <value column="Name" original="GlJournalCrystalReport">GlJournalCrystalReport</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000100" trl="Y" eid="VACTFR_20000051">
+    <value column="Name" original="VACTFR_Account Wizard">VACTFR_Account向导</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000101" trl="Y" eid="VIS_1000098">
+    <value column="Name" original="Rights Configurator">版权配置</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000102" trl="Y" eid="WSP_20000063">
+    <value column="Name" original="WSP_Scheduler">WSP_Scheduler</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000103" trl="Y" eid="WSP_20000064">
+    <value column="Name" original="WSP_Contact">WSP_Contact</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000104" trl="Y" eid="VADB_20000062">
+    <value column="Name" original="VADB_BusinessActivity">VADB_BusinessActivity</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000105" trl="Y" eid="DTD001_20000061">
+    <value column="Name" original="DTD001_MaterialIssueForm">DTD001_MaterialIssueForm</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000106" trl="Y" eid="VISPRO_1000091">
+    <value column="Name" original="VISPRO_VExpImpDB">VISPRO_VExpImpDB</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000107" trl="Y" eid="VISPRO_1000090">
+    <value column="Name" original="VISPRO_VServer">VISPRO_VServer</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000108" trl="Y" eid="VISPRO_1000092">
+    <value column="Name" original="VISPRO_GenerateXModel">VISPRO_GenerateXModel</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000109" trl="Y" eid="VDIU_1000093">
+    <value column="Name" original="VDIU_ExcelImport">VDIU_ExcelImport</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000110" trl="N" eid="VIS_1000099">
+    <value column="Name" original="VIS_GenerateXModel">VIS_GenerateXModel</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000111" trl="N" eid="VA004_20000073">
+    <value column="Name" original="VA004_Translation Form">VA004_Translation Form</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000112" trl="N" eid="VARCOM_20000053">
+    <value column="Name" original="VARCOM_ReportFormat">VARCOM_ReportFormat</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000113" trl="N" eid="_VAICNT20000065">
+    <value column="Name" original="VAICNT_InventoryCount">VAICNT_InventoryCount</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000114" trl="N" eid="VA005_20000074">
+    <value column="Name" original="VA005_ProductCreation">VA005_ProductCreation</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000115" trl="N" eid="VA005_20000076">
+    <value column="Name" original="VA005_AttributeSetListing">VA005_AttributeSetListing</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+  <row id="1000116" trl="N" eid="VA005_20000072">
+    <value column="Name" original="VA005_ProductCategories">VA005_ProductCategories</value>
+    <value column="Description" original="">
+    </value>
+    <value column="Help" original="">
+    </value>
+  </row>
+</ViennaTrl>

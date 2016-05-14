@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="R_MailText">
+  <row id="1000000" trl="N" eid="VIS_1000000">
+    <value column="MailHeader" original="Invoice">Invoice</value>
+    <value column="MailText" original="Dear @BPName@&#xA;&#xA;Please find attached your Invoice. &#xA;&#xA;Regards,  &#xA;&#xA;@Org@">Dear @BPName@
+
+Please find attached your Invoice. 
+
+Regards,  
+
+@Org@</value>
+    <value column="Name" original="COD Invoice">COD Invoice</value>
+    <value column="MailText2" original="">
+    </value>
+    <value column="MailText3" original="">
+    </value>
+  </row>
+  <row id="1000001" trl="N" eid="VIS_1000001">
+    <value column="MailHeader" original="Sales Order">Sales Order</value>
+    <value column="MailText" original="Dear @BPName@,&#xA;&#xA;Please find your Sales Order attached. &#xA;&#xA;Regards,&#xA;&#xA;@Org@&#xA;&#xA;Warm Regards,">Dear @BPName@,
+
+Please find your Sales Order attached. 
+
+Regards,
+
+@Org@
+
+Warm Regards,</value>
+    <value column="Name" original="Sales Order Template">Sales Order Template</value>
+    <value column="MailText2" original="">
+    </value>
+    <value column="MailText3" original="">
+    </value>
+  </row>
+  <row id="1000002" trl="N" eid="VIS_1000002">
+    <value column="MailHeader" original="SMS Template">SMS Template</value>
+    <value column="MailText" original="Order has Been dispatched. Order No. @C_Order_ID@&#xA;Track your order: www.courier.com&#xA;Tracking no. @TrackingNo@ allow 2 days for delivery">Order has Been dispatched. Order No. @C_Order_ID@
+Track your order: www.courier.com
+Tracking no. @TrackingNo@ allow 2 days for delivery</value>
+    <value column="Name" original="SMS Template">SMS Template</value>
+    <value column="MailText2" original="">
+    </value>
+    <value column="MailText3" original="">
+    </value>
+  </row>
+  <row id="1000003" trl="N" eid="VIS_1000003">
+    <value column="MailHeader" original="Invoice">Invoice</value>
+    <value column="MailText" original="Dear @BPName@&#xA;&#xA;THANK YOU FOR THE PAYMENT.&#xA;Please find attached your Invoice. &#xA;&#xA;&#xA;Regards,  &#xA;&#xA;@Org@">Dear @BPName@
+
+THANK YOU FOR THE PAYMENT.
+Please find attached your Invoice. 
+
+
+Regards,  
+
+@Org@</value>
+    <value column="Name" original="PP Invoice">PP Invoice</value>
+    <value column="MailText2" original="">
+    </value>
+    <value column="MailText3" original="">
+    </value>
+  </row>
+  <row id="1000005" trl="N" eid="VIS_1000005">
+    <value column="MailHeader" original="Tax Invoice">Tax Invoice</value>
+    <value column="MailText" original="Dear @BPName@&#xA;&#xA;THANK YOU FOR THE PAYMENT.&#xA;Please find attached your Invoice. &#xA;Track your order: www.courier.com&#xA;Tracking no. @TrackingNo@ allow 2 days for delivery&#xA;&#xA;&#xA;Regards,  &#xA;&#xA;@Org@">Dear @BPName@
+
+THANK YOU FOR THE PAYMENT.
+Please find attached your Invoice. 
+Track your order: www.courier.com
+Tracking no. @TrackingNo@ allow 2 days for delivery
+
+
+Regards,  
+
+@Org@</value>
+    <value column="Name" original="PP Shipment">PP Shipment</value>
+    <value column="MailText2" original="">
+    </value>
+    <value column="MailText3" original="">
+    </value>
+  </row>
+  <row id="1000006" trl="N" eid="VIS_1000006">
+    <value column="MailHeader" original="Tax Invoice">Tax Invoice</value>
+    <value column="MailText" original="Dear @BPName@&#xA;&#xA;Please find attached your Invoice. &#xA;Track your order: www.courier.com, Tracking no. @TrackingNo@ allow 2 days for delivery&#xA;&#xA;Regards,  &#xA;&#xA;@Org@">Dear @BPName@
+
+Please find attached your Invoice. 
+Track your order: www.courier.com, Tracking no. @TrackingNo@ allow 2 days for delivery
+
+Regards,  
+
+@Org@</value>
+    <value column="Name" original="COD Shipment">COD Shipment</value>
+    <value column="MailText2" original="">
+    </value>
+    <value column="MailText3" original="">
+    </value>
+  </row>
+</ViennaTrl>

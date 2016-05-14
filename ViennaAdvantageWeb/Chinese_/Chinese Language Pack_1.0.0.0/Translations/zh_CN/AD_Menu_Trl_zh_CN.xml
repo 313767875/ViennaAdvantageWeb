@@ -1,0 +1,3290 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_Menu">
+  <row id="100" trl="Y" eid="VIS_100">
+    <value column="Name" original="Invoice Inquiry">发票查询</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="101" trl="Y" eid="VIS_101">
+    <value column="Name" original="Task">任务</value>
+    <value column="Description" original="Maintain Tasks">Maintain Tasks</value>
+  </row>
+  <row id="102" trl="Y" eid="VIS_102">
+    <value column="Name" original="Currency">货币</value>
+    <value column="Description" original="Maintain Currencies">Maintain Currencies</value>
+  </row>
+  <row id="103" trl="Y" eid="VIS_103">
+    <value column="Name" original="Currency Rate">货币汇率</value>
+    <value column="Description" original="Maintain Currency Conversion Rates">Maintain Currency Conversion Rates</value>
+  </row>
+  <row id="104" trl="Y" eid="VIS_104">
+    <value column="Name" original="Calendar Year and Period">日历年度和期间</value>
+    <value column="Description" original="Maintain Calendars Years Periods">Maintain Calendars Years Periods</value>
+  </row>
+  <row id="105" trl="Y" eid="VIS_105">
+    <value column="Name" original="Account Element">账户元素</value>
+    <value column="Description" original="Maintain Account Elements">Maintain Account Elements</value>
+  </row>
+  <row id="106" trl="Y" eid="VIS_106">
+    <value column="Name" original="Account Combination">账户组合</value>
+    <value column="Description" original="Maintain Valid Account Combinations">Maintain Valid Account Combinations</value>
+  </row>
+  <row id="107" trl="Y" eid="VIS_107">
+    <value column="Name" original="Unit of Measure">测量单位</value>
+    <value column="Description" original="Maintain Unit of Measure">Maintain Unit of Measure</value>
+  </row>
+  <row id="108" trl="Y" eid="VIS_108">
+    <value column="Name" original="Location">地点</value>
+    <value column="Description" original="Maintain Location Address">Maintain Location Address</value>
+  </row>
+  <row id="109" trl="Y" eid="VIS_109">
+    <value column="Name" original="Country Region and City">国家地区和城市</value>
+    <value column="Description" original="Maintain Countries Regions and Cities">Maintain Countries Regions and Cities</value>
+  </row>
+  <row id="110" trl="Y" eid="VIS_110">
+    <value column="Name" original="Business Partner">生意伙伴</value>
+    <value column="Description" original="Maintain Customer">Maintain Customer</value>
+  </row>
+  <row id="111" trl="Y" eid="VIS_111">
+    <value column="Name" original="Accounting Schema">会计模式</value>
+    <value column="Description" original="Maintain Accounting Schema - For changes to become effective you must re-login">Maintain Accounting Schema - For changes to become effective you must re-login</value>
+  </row>
+  <row id="113" trl="Y" eid="VIS_113">
+    <value column="Name" original="Test">测试</value>
+    <value column="Description" original="Test Screen">Test Screen</value>
+  </row>
+  <row id="114" trl="Y" eid="VIS_114">
+    <value column="Name" original="Attachment">附件</value>
+    <value column="Description" original="Maintain Attachments">Maintain Attachments</value>
+  </row>
+  <row id="115" trl="Y" eid="VIS_115">
+    <value column="Name" original="Preference">偏好</value>
+    <value column="Description" original="Maintain System Client Org and User Preferences">Maintain System Client Org and User Preferences</value>
+  </row>
+  <row id="116" trl="Y" eid="VIS_116">
+    <value column="Name" original="Project">工程</value>
+    <value column="Description" original="Maintain Projects">Maintain Projects</value>
+  </row>
+  <row id="117" trl="Y" eid="VIS_117">
+    <value column="Name" original="GL Category">GL分类</value>
+    <value column="Description" original="Maintain General Ledger Categories">Maintain General Ledger Categories</value>
+  </row>
+  <row id="118" trl="Y" eid="VIS_118">
+    <value column="Name" original="GL Journal">GL杂志</value>
+    <value column="Description" original="Enter and change Manual Journal Entries">Enter and change Manual Journal Entries</value>
+  </row>
+  <row id="120" trl="Y" eid="VIS_120">
+    <value column="Name" original="Activity (ABC)">活动（ABC）</value>
+    <value column="Description" original="Maintain Activities for Activity Based Costing">Maintain Activities for Activity Based Costing</value>
+  </row>
+  <row id="121" trl="Y" eid="VIS_121">
+    <value column="Name" original="Document Type">文件类型</value>
+    <value column="Description" original="Maintain Document Types">Maintain Document Types</value>
+  </row>
+  <row id="123" trl="Y" eid="VIS_123">
+    <value column="Name" original="Tax Rate">税率</value>
+    <value column="Description" original="Maintain Taxes and their Rates">Maintain Taxes and their Rates</value>
+  </row>
+  <row id="124" trl="Y" eid="VIS_124">
+    <value column="Name" original="Tax Category">税收类别</value>
+    <value column="Description" original="Maintain Tax Categories">Maintain Tax Categories</value>
+  </row>
+  <row id="125" trl="Y" eid="VIS_125">
+    <value column="Name" original="Plant &amp; Storage Locations">库存位置</value>
+    <value column="Description" original="Maintain Warehouses and Locators">Maintain Warehouses and Locators</value>
+  </row>
+  <row id="126" trl="Y" eid="VIS_126">
+    <value column="Name" original="Product">产品</value>
+    <value column="Description" original="Maintain Products">Maintain Products</value>
+  </row>
+  <row id="127" trl="Y" eid="VIS_127">
+    <value column="Name" original="Payment Term">付款期限</value>
+    <value column="Description" original="Maintain Payment Terms">Maintain Payment Terms</value>
+  </row>
+  <row id="128" trl="Y" eid="VIS_128">
+    <value column="Name" original="Shipper">发货人</value>
+    <value column="Description" original="Maintain Shippers">Maintain Shippers</value>
+  </row>
+  <row id="129" trl="Y" eid="VIS_129">
+    <value column="Name" original="Sales Order">销售订单</value>
+    <value column="Description" original="Enter and change Sales Orders">Enter and change Sales Orders</value>
+  </row>
+  <row id="130" trl="Y" eid="VIS_130">
+    <value column="Name" original="Product Category">产品分类</value>
+    <value column="Description" original="Maintain Product Categories">Maintain Product Categories</value>
+  </row>
+  <row id="132" trl="Y" eid="VIS_132">
+    <value column="Name" original="Price List">价格表</value>
+    <value column="Description" original="Maintain Product Price Lists">Maintain Product Price Lists</value>
+  </row>
+  <row id="133" trl="Y" eid="VIS_133">
+    <value column="Name" original="Invoice Schedule">发票时间表</value>
+    <value column="Description" original="Maintain Invoicing Schedule">Maintain Invoicing Schedule</value>
+  </row>
+  <row id="134" trl="Y" eid="VIS_134">
+    <value column="Name" original="Marketing Campaign">营销活动</value>
+    <value column="Description" original="Maintain Marketing Campaigns">Maintain Marketing Campaigns</value>
+  </row>
+  <row id="135" trl="Y" eid="VIS_135">
+    <value column="Name" original="GL Budget">GL预算</value>
+    <value column="Description" original="Maintain General Ledger Budgets">Maintain General Ledger Budgets</value>
+  </row>
+  <row id="136" trl="Y" eid="VIS_136">
+    <value column="Name" original="Marketing Channel">营销渠道</value>
+    <value column="Description" original="Maintain Marketing  Channels">Maintain Marketing  Channels</value>
+  </row>
+  <row id="137" trl="Y" eid="VIS_137">
+    <value column="Name" original="Sales Region">销售地区</value>
+    <value column="Description" original="Maintain Sales Regions">Maintain Sales Regions</value>
+  </row>
+  <row id="138" trl="Y" eid="VIS_138">
+    <value column="Name" original="System Element">系统元素</value>
+    <value column="Description" original="Maintain System Elements">Maintain System Elements</value>
+  </row>
+  <row id="139" trl="Y" eid="VIS_139">
+    <value column="Name" original="Table and Column">表和列</value>
+    <value column="Description" original="Maintain Tables and Columns">Maintain Tables and Columns</value>
+  </row>
+  <row id="140" trl="Y" eid="VIS_140">
+    <value column="Name" original="Reference">参考</value>
+    <value column="Description" original="Maintain System References">Maintain System References</value>
+  </row>
+  <row id="141" trl="Y" eid="VIS_141">
+    <value column="Name" original="Window, Tab &amp; Field">窗口，标签及栏位</value>
+    <value column="Description" original="Maintain Windows, Tabs &amp; Fields">Maintain Windows, Tabs &amp; Fields</value>
+  </row>
+  <row id="142" trl="Y" eid="VIS_142">
+    <value column="Name" original="Validation Rules">验证规则</value>
+    <value column="Description" original="Maintain dynamic Validation Rules for columns and fields">Maintain dynamic Validation Rules for columns and fields</value>
+  </row>
+  <row id="143" trl="Y" eid="VIS_143">
+    <value column="Name" original="Message">信息</value>
+    <value column="Description" original="Maintain Information and Error Messages">Maintain Information and Error Messages</value>
+  </row>
+  <row id="144" trl="Y" eid="VIS_144">
+    <value column="Name" original="Menu">菜单</value>
+    <value column="Description" original="Maintain Menu">Maintain Menu</value>
+  </row>
+  <row id="145" trl="Y" eid="VIS_145">
+    <value column="Name" original="Language">语言</value>
+    <value column="Description" original="Maintain Languages">Maintain Languages</value>
+  </row>
+  <row id="147" trl="Y" eid="VIS_147">
+    <value column="Name" original="User">用户</value>
+    <value column="Description" original="Maintain Users of the system">Maintain Users of the system</value>
+  </row>
+  <row id="148" trl="Y" eid="VIS_148">
+    <value column="Name" original="Tenant">房客</value>
+    <value column="Description" original="Maintain Clients/Tenants">Maintain Clients/Tenants</value>
+  </row>
+  <row id="149" trl="Y" eid="VIS_149">
+    <value column="Name" original="Organization">组织</value>
+    <value column="Description" original="Maintain Organizations">Maintain Organizations</value>
+  </row>
+  <row id="150" trl="Y" eid="VIS_150">
+    <value column="Name" original="Role">角色</value>
+    <value column="Description" original="Maintain User Responsibilities">Maintain User Responsibilities</value>
+  </row>
+  <row id="151" trl="Y" eid="VIS_151">
+    <value column="Name" original="Document Sequence">单据序列</value>
+    <value column="Description" original="Maintain System and Document Sequences">Maintain System and Document Sequences</value>
+  </row>
+  <row id="152" trl="Y" eid="VIS_152">
+    <value column="Name" original="Workflow">流程</value>
+    <value column="Description" original="Maintain Workflow">Maintain Workflow</value>
+  </row>
+  <row id="153" trl="Y" eid="VIS_2000078">
+    <value column="Name" original="Application Dictionary">应用字典</value>
+    <value column="Description" original="Maintain Application Dictionary">Maintain Application Dictionary</value>
+  </row>
+  <row id="155" trl="Y" eid="VIS_155">
+    <value column="Name" original="General Rules">一般规则</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="156" trl="Y" eid="VIS_156">
+    <value column="Name" original="Tenant Rules">租客规则</value>
+    <value column="Description" original="Maintain Tenant Rules">Maintain Tenant Rules</value>
+  </row>
+  <row id="157" trl="Y" eid="VIS_157">
+    <value column="Name" original="Data">数据</value>
+    <value column="Description" original="Maintain Data">Maintain Data</value>
+  </row>
+  <row id="158" trl="Y" eid="VIS_158">
+    <value column="Name" original="Performance Measurement">绩效评估</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="159" trl="Y" eid="VIS_159">
+    <value column="Name" original="Utility">效用</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="160" trl="Y" eid="VIS_2000056">
+    <value column="Name" original="Project Management">项目管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="161" trl="Y" eid="VIS_161">
+    <value column="Name" original="System Rules">系统规则</value>
+    <value column="Description" original="General System Rules">General System Rules</value>
+  </row>
+  <row id="163" trl="Y" eid="VIS_2000077">
+    <value column="Name" original="Data Import">数据导入</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="164" trl="Y" eid="VIS_164">
+    <value column="Name" original="Accounting Rules">会计准则</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="165" trl="Y" eid="VIS_165">
+    <value column="Name" original="Business Partner Rules">业务合作伙伴规则</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="166" trl="Y" eid="VIS_166">
+    <value column="Name" original="Quote-to-Invoice">报价到发票</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="167" trl="Y" eid="VIS_167">
+    <value column="Name" original="Material Management Rules">物料管理规则</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="169" trl="Y" eid="VIS_169">
+    <value column="Name" original="Accounting Fact Details">会计事实细节</value>
+    <value column="Description" original="Query Accounting Facts">Query Accounting Facts</value>
+  </row>
+  <row id="170" trl="Y" eid="VIS_170">
+    <value column="Name" original="Tree">树表</value>
+    <value column="Description" original="Maintain Tree definition">Maintain Tree definition</value>
+  </row>
+  <row id="171" trl="Y" eid="VIS_171">
+    <value column="Name" original="Bank">银行</value>
+    <value column="Description" original="Maintain Bank">Maintain Bank</value>
+  </row>
+  <row id="172" trl="Y" eid="VIS_172">
+    <value column="Name" original="Dunning">催款</value>
+    <value column="Description" original="Maintain Dunning Levels">Maintain Dunning Levels</value>
+  </row>
+  <row id="173" trl="Y" eid="VIS_173">
+    <value column="Name" original="Withholding (1099)">预提（1099）</value>
+    <value column="Description" original="Maintain Withholding Certificates">Maintain Withholding Certificates</value>
+  </row>
+  <row id="174" trl="Y" eid="VIS_174">
+    <value column="Name" original="Charge">收费</value>
+    <value column="Description" original="Maintain Charges">Maintain Charges</value>
+  </row>
+  <row id="175" trl="Y" eid="VIS_175">
+    <value column="Name" original="Organization Rules">组织规则</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="176" trl="Y" eid="VIS_176">
+    <value column="Name" original="Report &amp; Process">报表及处理</value>
+    <value column="Description" original="Maintain Reports &amp; Processes">Maintain Reports &amp; Processes</value>
+  </row>
+  <row id="178" trl="Y" eid="VIS_178">
+    <value column="Name" original="Invoice (Customer)">发票（客户）</value>
+    <value column="Description" original="Customer Invoice Entry">Customer Invoice Entry</value>
+  </row>
+  <row id="179" trl="Y" eid="VIS_179">
+    <value column="Name" original="Physical Inventory">库存盘点</value>
+    <value column="Description" original="Enter Physical Inventory">Enter Physical Inventory</value>
+  </row>
+  <row id="180" trl="Y" eid="VIS_180">
+    <value column="Name" original="Delivery Note">出货单（销售订单）</value>
+    <value column="Description" original="Customer Inventory Shipments Customer Returns">Customer Inventory Shipments Customer Returns</value>
+  </row>
+  <row id="181" trl="Y" eid="VIS_181">
+    <value column="Name" original="Delivery Note (Stock Transfer)">出货单（库存转移）</value>
+    <value column="Description" original="Delivery Note (Stock Transfer )">Inventory Move</value>
+  </row>
+  <row id="183" trl="Y" eid="VIS_183">
+    <value column="Name" original="Material Management">物料管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="185" trl="Y" eid="VIS_185">
+    <value column="Name" original="Import Business Partner">进口业务合作伙伴</value>
+    <value column="Description" original="Import Business Partner">Import Business Partner</value>
+  </row>
+  <row id="186" trl="Y" eid="VIS_186">
+    <value column="Name" original="Revenue Recognition">收入确认</value>
+    <value column="Description" original="Revenue Recognition Rules">Revenue Recognition Rules</value>
+  </row>
+  <row id="187" trl="Y" eid="VIS_187">
+    <value column="Name" original="Perpetual Inventory">永续盘存</value>
+    <value column="Description" original="Maintain Perpetual Inventory Rules">Maintain Perpetual Inventory Rules</value>
+  </row>
+  <row id="188" trl="Y" eid="VIS_188">
+    <value column="Name" original="Vendor Details">供应商详细信息</value>
+    <value column="Description" original="Maintain Vendor Details">Maintain Vendor Details</value>
+  </row>
+  <row id="190" trl="Y" eid="VIS_190">
+    <value column="Name" original="Greeting">欢迎</value>
+    <value column="Description" original="Maintain Greetings">Maintain Greetings</value>
+  </row>
+  <row id="192" trl="Y" eid="VIS_192">
+    <value column="Name" original="Generate Invoices">生成发票</value>
+    <value column="Description" original="Generate and print Invoices from open Orders">Generate and print Invoices from open Orders</value>
+  </row>
+  <row id="193" trl="Y" eid="VIS_193">
+    <value column="Name" original="Generate Shipments">产生装运单</value>
+    <value column="Description" original="Generate and print Shipments from open Orders">Generate and print Shipments from open Orders</value>
+  </row>
+  <row id="194" trl="Y" eid="VIS_194">
+    <value column="Name" original="Order Transactions">订单交易</value>
+    <value column="Description" original="Sales Order Transaction Report">Sales Order Transaction Report</value>
+  </row>
+  <row id="195" trl="Y" eid="VIS_195">
+    <value column="Name" original="Open Orders">打开订单</value>
+    <value column="Description" original="Open Order Report">Open Order Report</value>
+  </row>
+  <row id="196" trl="Y" eid="VIS_196">
+    <value column="Name" original="Replenish Report">补充报告</value>
+    <value column="Description" original="Inventory Replenish Report">Inventory Replenish Report</value>
+  </row>
+  <row id="197" trl="Y" eid="VIS_197">
+    <value column="Name" original="Product Transaction Summary">产品交易概述</value>
+    <value column="Description" original="Product Transaction Summary">Product Transaction Summary</value>
+  </row>
+  <row id="200" trl="Y" eid="VIS_200">
+    <value column="Name" original="Request Processor">请求处理器</value>
+    <value column="Description" original="Define Request Processors">Define Request Processors</value>
+  </row>
+  <row id="201" trl="Y" eid="VIS_201">
+    <value column="Name" original="Report View">报告视图</value>
+    <value column="Description" original="Maintain Report Views">Maintain Report Views</value>
+  </row>
+  <row id="202" trl="Y" eid="VIS_202">
+    <value column="Name" original="Invoice Transactions (Acct)">发票交易（会计）</value>
+    <value column="Description" original="Invoice Transactions by Accounting Date">Invoice Transactions by Accounting Date</value>
+  </row>
+  <row id="203" trl="Y" eid="VIS_203">
+    <value column="Name" original="Requisition-to-Invoice">申请到发票</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="204" trl="Y" eid="VIS_204">
+    <value column="Name" original="Material Receipt">材料收据</value>
+    <value column="Description" original="Vendor Shipments (Receipts)">Vendor Shipments (Receipts)</value>
+  </row>
+  <row id="205" trl="Y" eid="VIS_2000005">
+    <value column="Name" original="Purchase Order">采购订单</value>
+    <value column="Description" original="Manage Purchase Orders">Manage Purchase Orders</value>
+  </row>
+  <row id="206" trl="Y" eid="VIS_206">
+    <value column="Name" original="Invoice (Vendor)">发票（供应商）</value>
+    <value column="Description" original="Vendor Invoice Entry">Vendor Invoice Entry</value>
+  </row>
+  <row id="210" trl="Y" eid="VIS_210">
+    <value column="Name" original="Daily Invoice">每日发票</value>
+    <value column="Description" original="Invoice Report per Day">Invoice Report per Day</value>
+  </row>
+  <row id="211" trl="Y" eid="VIS_211">
+    <value column="Name" original="Monthly Invoice">每月发票</value>
+    <value column="Description" original="Invoice Report per Month">Invoice Report per Month</value>
+  </row>
+  <row id="212" trl="Y" eid="VIS_212">
+    <value column="Name" original="Monthly Invoice Prod Cat">每月物料类别发票</value>
+    <value column="Description" original="Invoice Report by Product Category per Month">Invoice Report by Product Category per Month</value>
+  </row>
+  <row id="213" trl="Y" eid="VIS_213">
+    <value column="Name" original="Weekly Invoice Prod Cat">每周物料类别发票</value>
+    <value column="Description" original="Invoice Report by Product Category per Week">Invoice Report by Product Category per Week</value>
+  </row>
+  <row id="214" trl="Y" eid="VIS_214">
+    <value column="Name" original="Monthly Invoice Vendor">每月供应商发票</value>
+    <value column="Description" original="Invoice Report by Product Vendor per Month">Invoice Report by Product Vendor per Month</value>
+  </row>
+  <row id="215" trl="Y" eid="VIS_215">
+    <value column="Name" original="Weekly Invoice">每周发票</value>
+    <value column="Description" original="Invoice Report per Week">Invoice Report per Week</value>
+  </row>
+  <row id="216" trl="Y" eid="VIS_216">
+    <value column="Name" original="Form">形式</value>
+    <value column="Description" original="Special Forms">Special Forms</value>
+  </row>
+  <row id="217" trl="Y" eid="VIS_217">
+    <value column="Name" original="Generate Invoices (manual)">生成发票（手动）</value>
+    <value column="Description" original="Select and generate invoices">Select and generate invoices</value>
+  </row>
+  <row id="218" trl="Y" eid="VIS_218">
+    <value column="Name" original="System Admin">系统管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="220" trl="N" eid="VIS_220">
+    <value column="Name" original="Java Version">Java Version</value>
+    <value column="Description" original="Displays the version of the default Java VM">Displays the version of the default Java VM</value>
+  </row>
+  <row id="221" trl="Y" eid="VIS_221">
+    <value column="Name" original="Error Message">错误信息</value>
+    <value column="Description" original="Display Error Messages">Display Error Messages</value>
+  </row>
+  <row id="222" trl="Y" eid="VIS_222">
+    <value column="Name" original="Import Loader Format">进口装载机格式</value>
+    <value column="Description" original="Maintain Import Loader Formats">Maintain Import Loader Formats</value>
+  </row>
+  <row id="223" trl="Y" eid="VIS_223">
+    <value column="Name" original="Import File Loader">导入文件装载机</value>
+    <value column="Description" original="Load flat Files into import tables">Load flat Files into import tables</value>
+  </row>
+  <row id="225" trl="Y" eid="VIS_225">
+    <value column="Name" original="Initial Tenant Setup">初始设置租户</value>
+    <value column="Description" original="Initial new Client/Tenant Setup">Initial new Client/Tenant Setup</value>
+  </row>
+  <row id="227" trl="Y" eid="VIS_227">
+    <value column="Name" original="Vendor Selection">供应商选择</value>
+    <value column="Description" original="Products with more than one vendor">Products with more than one vendor</value>
+  </row>
+  <row id="228" trl="Y" eid="VIS_228">
+    <value column="Name" original="Production">生产</value>
+    <value column="Description" original="Production based on Bill of Materials">Production based on Bill of Materials</value>
+  </row>
+  <row id="229" trl="Y" eid="VIS_229">
+    <value column="Name" original="Material Transactions">物料交易</value>
+    <value column="Description" original="Material Transactions">Material Transactions</value>
+  </row>
+  <row id="230" trl="Y" eid="VIS_230">
+    <value column="Name" original="Quarterly Invoice Customer by Product">按产品每季度发票客户</value>
+    <value column="Description" original="Invoice Report by Customer and Product Category per Quarter">Invoice Report by Customer and Product Category per Quarter</value>
+  </row>
+  <row id="231" trl="Y" eid="VIS_231">
+    <value column="Name" original="Quarterly Invoice Customer by Vendor">由供应商发票季度客户</value>
+    <value column="Description" original="Invoice Report by Customer and Product Vendor per Quarter">Invoice Report by Customer and Product Vendor per Quarter</value>
+  </row>
+  <row id="232" trl="Y" eid="VIS_232">
+    <value column="Name" original="Business Partner Group">业务合作伙伴集团</value>
+    <value column="Description" original="Maintain Customer/Prospect Groups">Maintain Customer/Prospect Groups</value>
+  </row>
+  <row id="233" trl="Y" eid="VIS_233">
+    <value column="Name" original="Notice">通知</value>
+    <value column="Description" original="View System Notices">View System Notices</value>
+  </row>
+  <row id="234" trl="Y" eid="VIS_234">
+    <value column="Name" original="Bank Statement">银行对帐单</value>
+    <value column="Description" original="Process Bank Statements">Process Bank Statements</value>
+  </row>
+  <row id="235" trl="Y" eid="VIS_235">
+    <value column="Name" original="Payment">付款</value>
+    <value column="Description" original="Process Payments and Receipts">Process Payments and Receipts</value>
+  </row>
+  <row id="236" trl="Y" eid="VIS_236">
+    <value column="Name" original="Open Items">未清项目</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="237" trl="Y" eid="VIS_237">
+    <value column="Name" original="Request">要求</value>
+    <value column="Description" original="Work on your requests">Work on your requests</value>
+  </row>
+  <row id="238" trl="Y" eid="VIS_238">
+    <value column="Name" original="Mail Template">邮件模板</value>
+    <value column="Description" original="Maintain Mail Template">Maintain Mail Template</value>
+  </row>
+  <row id="239" trl="Y" eid="VIS_239">
+    <value column="Name" original="Custom Attribute">自定义属性</value>
+    <value column="Description" original="Maintain custom entity attributes">Maintain custom entity attributes</value>
+  </row>
+  <row id="240" trl="Y" eid="VIS_240">
+    <value column="Name" original="Cashbook">现金簿</value>
+    <value column="Description" original="Maintain Cashbook">Maintain Cashbook</value>
+  </row>
+  <row id="241" trl="Y" eid="VIS_241">
+    <value column="Name" original="Cash Journal">现金日记帐</value>
+    <value column="Description" original="Cash transactions">Cash transactions</value>
+  </row>
+  <row id="243" trl="Y" eid="VIS_243">
+    <value column="Name" original="Open Items Report">开放的项目报告</value>
+    <value column="Description" original="Open Item (Invoice) List">Open Item (Invoice) List</value>
+  </row>
+  <row id="244" trl="Y" eid="VIS_244">
+    <value column="Name" original="UnReconciled Payments">未取得一致付款</value>
+    <value column="Description" original="Payments not reconciled with Bank Statement">Payments not reconciled with Bank Statement</value>
+  </row>
+  <row id="245" trl="Y" eid="VIS_245">
+    <value column="Name" original="Payment Allocation">付款分配</value>
+    <value column="Description" original="Allocate invoices and payments">Allocate invoices and payments</value>
+  </row>
+  <row id="246" trl="Y" eid="VIS_246">
+    <value column="Name" original="Allocation">分配</value>
+    <value column="Description" original="Payment - Invoice - Allocation">Payment - Invoice - Allocation</value>
+  </row>
+  <row id="249" trl="Y" eid="VIS_249">
+    <value column="Name" original="Field Group">栏位组</value>
+    <value column="Description" original="Define Field Group">Define Field Group</value>
+  </row>
+  <row id="251" trl="Y" eid="VIS_251">
+    <value column="Name" original="View Allocation">查看分配</value>
+    <value column="Description" original="View and Reverse Allocations">View and Reverse Allocations</value>
+  </row>
+  <row id="252" trl="Y" eid="VIS_252">
+    <value column="Name" original="Invoice Transactions (Doc)">发票交易（DOC）</value>
+    <value column="Description" original="Invoice Transactions by Invoice Date">Invoice Transactions by Invoice Date</value>
+  </row>
+  <row id="253" trl="Y" eid="VIS_253">
+    <value column="Name" original="Invoice Detail &amp; Margin">发票明细及保证金</value>
+    <value column="Description" original="Invoice (Line) Detail and Margin Report">Invoice (Line) Detail and Margin Report</value>
+  </row>
+  <row id="254" trl="Y" eid="VIS_254">
+    <value column="Name" original="Generate Charges">产生电荷</value>
+    <value column="Description" original="Generate Charges from natural accounts">Generate Charges from natural accounts</value>
+  </row>
+  <row id="255" trl="Y" eid="VIS_255">
+    <value column="Name" original="Payment Selection">付款选择</value>
+    <value column="Description" original="Select Invoices for Payment">Select Invoices for Payment</value>
+  </row>
+  <row id="256" trl="Y" eid="VIS_256">
+    <value column="Name" original="Product Transaction Value">产品成交价格</value>
+    <value column="Description" original="Product Transaction Value">Product Transaction Value</value>
+  </row>
+  <row id="257" trl="Y" eid="VIS_257">
+    <value column="Name" original="Commission">佣金</value>
+    <value column="Description" original="Maintain Commissions and Royalties">Maintain Commissions and Royalties</value>
+  </row>
+  <row id="258" trl="Y" eid="VIS_258">
+    <value column="Name" original="Project Reporting">项目申报</value>
+    <value column="Description" original="Maintain Project Reporting Cycles">Maintain Project Reporting Cycles</value>
+  </row>
+  <row id="260" trl="Y" eid="VIS_260">
+    <value column="Name" original="Project Status Summary">项目状态摘要</value>
+    <value column="Description" original="Project Status of Project Cycle">Project Status of Project Cycle</value>
+  </row>
+  <row id="263" trl="Y" eid="VIS_263">
+    <value column="Name" original="Partner Relations">合作伙伴关系</value>
+    <value column="Description" original="Customer Relations and Partner Management">Customer Relations and Partner Management</value>
+  </row>
+  <row id="264" trl="Y" eid="VIS_264">
+    <value column="Name" original="Commission Run">委员会运行</value>
+    <value column="Description" original="Check and modify Commissions">Check and modify Commissions</value>
+  </row>
+  <row id="271" trl="Y" eid="VIS_271">
+    <value column="Name" original="Service">服务</value>
+    <value column="Description" original="Service Management">Service Management</value>
+  </row>
+  <row id="272" trl="Y" eid="VIS_272">
+    <value column="Name" original="Sales and Marketing">销售和营销</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="275" trl="Y" eid="VIS_275">
+    <value column="Name" original="Performance Goal">绩效目标</value>
+    <value column="Description" original="Define Performance Goals">Define Performance Goals</value>
+  </row>
+  <row id="276" trl="Y" eid="VIS_276">
+    <value column="Name" original="Performance Measure Calculation">性能测量计算</value>
+    <value column="Description" original="Define how you calculate your performance measures">Define how you calculate your performance measures</value>
+  </row>
+  <row id="278" trl="Y" eid="VIS_2000061">
+    <value column="Name" original="Performance Analysis">性能分析</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="279" trl="Y" eid="VIS_279">
+    <value column="Name" original="Performance Measure">性能测量</value>
+    <value column="Description" original="Define your Performance Measures">Define your Performance Measures</value>
+  </row>
+  <row id="280" trl="Y" eid="VIS_2000011">
+    <value column="Name" original="Financial Reporting">财务报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="281" trl="Y" eid="VIS_281">
+    <value column="Name" original="Financial Report">财务报告</value>
+    <value column="Description" original="Maintain Financial Reports">Maintain Financial Reports</value>
+  </row>
+  <row id="282" trl="Y" eid="VIS_282">
+    <value column="Name" original="Report Column Set">报告列集</value>
+    <value column="Description" original="Maintain Financial Report Column Sets">Maintain Financial Report Column Sets</value>
+  </row>
+  <row id="283" trl="Y" eid="VIS_283">
+    <value column="Name" original="Report Line Set">报告线集</value>
+    <value column="Description" original="Maintain Financial Report Line Sets">Maintain Financial Report Line Sets</value>
+  </row>
+  <row id="284" trl="Y" eid="VIS_284">
+    <value column="Name" original="Service Level">服务水平</value>
+    <value column="Description" original="Maintain Service Levels">Maintain Service Levels</value>
+  </row>
+  <row id="286" trl="Y" eid="VIS_286">
+    <value column="Name" original="Payment Selection (manual)">付款选择（手动）</value>
+    <value column="Description" original="Manual Payment Selection">Manual Payment Selection</value>
+  </row>
+  <row id="287" trl="Y" eid="VIS_287">
+    <value column="Name" original="Payment Print/Export">付款打印/导出</value>
+    <value column="Description" original="Print or export your payments">Print or export your payments</value>
+  </row>
+  <row id="288" trl="Y" eid="VIS_288">
+    <value column="Name" original="Cash Journal Detail">现金日记帐明细</value>
+    <value column="Description" original="Detail Cash Journal Information">Detail Cash Journal Information</value>
+  </row>
+  <row id="289" trl="N" eid="VIS_289">
+    <value column="Name" original="Database export">Database export</value>
+    <value column="Description" original="Export (save) the database">Export (save) the database</value>
+  </row>
+  <row id="290" trl="Y" eid="VIS_290">
+    <value column="Name" original="Find (indirect use)">查找（间接使用）</value>
+    <value column="Description" original="Find Dialog (indirect use)">Find Dialog (indirect use)</value>
+  </row>
+  <row id="292" trl="Y" eid="VIS_292">
+    <value column="Name" original="Material Transactions (indirect use)">物料交易（间接使用）</value>
+    <value column="Description" original="Material Transactions (indirect use)">Material Transactions (indirect use)</value>
+  </row>
+  <row id="293" trl="Y" eid="VIS_293">
+    <value column="Name" original="Print Form">打印表格</value>
+    <value column="Description" original="Maintain Print Forms (Invoices, Checks, ..) used">Maintain Print Forms (Invoices, Checks, ..) used</value>
+  </row>
+  <row id="294" trl="Y" eid="VIS_294">
+    <value column="Name" original="System Color">系统颜色</value>
+    <value column="Description" original="Maintain System Colors">Maintain System Colors</value>
+  </row>
+  <row id="295" trl="Y" eid="VIS_295">
+    <value column="Name" original="Desktop">桌面</value>
+    <value column="Description" original="Maintain Desktop">Maintain Desktop</value>
+  </row>
+  <row id="296" trl="Y" eid="VIS_296">
+    <value column="Name" original="System Image">系统映像</value>
+    <value column="Description" original="Maintain Images and Icons">Maintain Images and Icons</value>
+  </row>
+  <row id="302" trl="N" eid="VIS_302">
+    <value column="Name" original="Database transfer">Database transfer</value>
+    <value column="Description" original="Transfer the database">Transfer the database</value>
+  </row>
+  <row id="303" trl="Y" eid="VIS_303">
+    <value column="Name" original="Synchronize Terminology">同步术语</value>
+    <value column="Description" original="Synchronize the terminology within the system.">Synchronize the terminology within the system.</value>
+  </row>
+  <row id="304" trl="Y" eid="VIS_304">
+    <value column="Name" original="Receivables Write-Off">应收款核销</value>
+    <value column="Description" original="Write off open receivables">Write off open receivables</value>
+  </row>
+  <row id="306" trl="Y" eid="VIS_306">
+    <value column="Name" original="Resubmit Posting">重新提交发布</value>
+    <value column="Description" original="Resubmit posting of documents with posting errors or locked documents">Resubmit posting of documents with posting errors or locked documents</value>
+  </row>
+  <row id="307" trl="Y" eid="VIS_307">
+    <value column="Name" original="Reset Accounting">会计复位</value>
+    <value column="Description" original="Reset Accounting Entries ** Stop Accounting Server before starting **">Reset Accounting Entries ** Stop Accounting Server before starting **</value>
+  </row>
+  <row id="308" trl="Y" eid="VIS_308">
+    <value column="Name" original="All Requests">所有的请求</value>
+    <value column="Description" original="View and work on All Requests">View and work on All Requests</value>
+  </row>
+  <row id="311" trl="Y" eid="VIS_311">
+    <value column="Name" original="Inventory Valuation Report">库存估价报告</value>
+    <value column="Description" original="Inventory Valuation Report">Inventory Valuation Report</value>
+  </row>
+  <row id="312" trl="Y" eid="VIS_312">
+    <value column="Name" original="Matching PO-Receipt-Invoice">匹配PO收据，发票</value>
+    <value column="Description" original="Match Purchase Orders, Receipts, Vendor Invoices">Match Purchase Orders, Receipts, Vendor Invoices</value>
+  </row>
+  <row id="313" trl="Y" eid="VIS_313">
+    <value column="Name" original="Standard Cost Update">标准成本更新</value>
+    <value column="Description" original="Set standard and future cost price">Set standard and future cost price</value>
+  </row>
+  <row id="314" trl="Y" eid="VIS_314">
+    <value column="Name" original="Product Costing Report (old)">产品成本核算报告（旧）</value>
+    <value column="Description" original="Product Cost Report">Product Cost Report</value>
+  </row>
+  <row id="315" trl="Y" eid="VIS_315">
+    <value column="Name" original="Matched Invoices">匹配发票</value>
+    <value column="Description" original="View Matched Invoices">View Matched Invoices</value>
+  </row>
+  <row id="316" trl="Y" eid="VIS_316">
+    <value column="Name" original="Matched Purchase Orders">匹配的采购订单</value>
+    <value column="Description" original="View Matched Purchase Orders">View Matched Purchase Orders</value>
+  </row>
+  <row id="317" trl="Y" eid="VIS_317">
+    <value column="Name" original="Expense Type">费用类型</value>
+    <value column="Description" original="Maintain Expense Report Types">Maintain Expense Report Types</value>
+  </row>
+  <row id="318" trl="Y" eid="VIS_318">
+    <value column="Name" original="Expense Report">开支报告</value>
+    <value column="Description" original="Time and Expense Report">Time and Expense Report</value>
+  </row>
+  <row id="319" trl="Y" eid="VIS_319">
+    <value column="Name" original="Resource">资源</value>
+    <value column="Description" original="Maintain Resources">Maintain Resources</value>
+  </row>
+  <row id="320" trl="Y" eid="VIS_320">
+    <value column="Name" original="Resource Type">资源类型</value>
+    <value column="Description" original="Maintain Resource Types">Maintain Resource Types</value>
+  </row>
+  <row id="321" trl="Y" eid="VIS_321">
+    <value column="Name" original="Recompile DB Objects (Alpha)">重新编译DB对象（阿尔法）</value>
+    <value column="Description" original="Recompile Database Objects">Recompile Database Objects</value>
+  </row>
+  <row id="322" trl="Y" eid="VIS_322">
+    <value column="Name" original="Print Format">打印格式</value>
+    <value column="Description" original="Maintain Print Format">Maintain Print Format</value>
+  </row>
+  <row id="323" trl="Y" eid="VIS_323">
+    <value column="Name" original="Print Font">打印字体</value>
+    <value column="Description" original="Maintain Print Font">Maintain Print Font</value>
+  </row>
+  <row id="324" trl="Y" eid="VIS_324">
+    <value column="Name" original="Print Color">打印颜色</value>
+    <value column="Description" original="Maintain Print Color">Maintain Print Color</value>
+  </row>
+  <row id="325" trl="Y" eid="VIS_325">
+    <value column="Name" original="Print Paper">打印纸</value>
+    <value column="Description" original="Maintain Print Paper">Maintain Print Paper</value>
+  </row>
+  <row id="326" trl="N" eid="VIS_326">
+    <value column="Name" original="Printing">Printing</value>
+    <value column="Description" original="Print Definition">Print Definition</value>
+  </row>
+  <row id="327" trl="Y" eid="VIS_327">
+    <value column="Name" original="Expenses (to be invoiced)">费用（待开票）</value>
+    <value column="Description" original="View expenses and charges not invoiced to customers">View expenses and charges not invoiced to customers</value>
+  </row>
+  <row id="328" trl="Y" eid="VIS_328">
+    <value column="Name" original="Create Sales Orders from Expense">创建费用销售订单</value>
+    <value column="Description" original="Create Sales Orders for Customers from Expense Reports">Create Sales Orders for Customers from Expense Reports</value>
+  </row>
+  <row id="329" trl="Y" eid="VIS_329">
+    <value column="Name" original="Create AP Expense Invoices">创建AP费用发票</value>
+    <value column="Description" original="Create AP Invoices from Expenses to be paid to employees">Create AP Invoices from Expenses to be paid to employees</value>
+  </row>
+  <row id="331" trl="Y" eid="VIS_331">
+    <value column="Name" original="Print Table Format">打印格式</value>
+    <value column="Description" original="Define Report Table Format">Define Report Table Format</value>
+  </row>
+  <row id="332" trl="Y" eid="VIS_332">
+    <value column="Name" original="Request Type">请求类型</value>
+    <value column="Description" original="Maintain Request Types">Maintain Request Types</value>
+  </row>
+  <row id="333" trl="Y" eid="VIS_333">
+    <value column="Name" original="Interest Area">感兴趣的领域</value>
+    <value column="Description" original="Interest Area or Topic">Interest Area or Topic</value>
+  </row>
+  <row id="334" trl="Y" eid="VIS_334">
+    <value column="Name" original="System">系统</value>
+    <value column="Description" original="System Definition">System Definition</value>
+  </row>
+  <row id="335" trl="Y" eid="VIS_335">
+    <value column="Name" original="Generate PO from Sales Order">生成销售订单采购订单</value>
+    <value column="Description" original="Create Purchase Order from Sales Orders">Create Purchase Order from Sales Orders</value>
+  </row>
+  <row id="336" trl="Y" eid="VIS_336">
+    <value column="Name" original="Translation Import/Export">翻译导入/导出</value>
+    <value column="Description" original="Import or Export Language Translation">Import or Export Language Translation</value>
+  </row>
+  <row id="337" trl="Y" eid="VIS_337">
+    <value column="Name" original="Reopen Request">重新打开请求</value>
+    <value column="Description" original="Reopen closed requests">Reopen closed requests</value>
+  </row>
+  <row id="338" trl="Y" eid="VIS_338">
+    <value column="Name" original="Import Report Line Set">报告导入线集</value>
+    <value column="Description" original="Import Report Line Sets">Import Report Line Sets</value>
+  </row>
+  <row id="339" trl="Y" eid="VIS_339">
+    <value column="Name" original="Import Account">导入帐户</value>
+    <value column="Description" original="Import Natural Account Values">Import Natural Account Values</value>
+  </row>
+  <row id="340" trl="Y" eid="VIS_340">
+    <value column="Name" original="Import Product">进口产品</value>
+    <value column="Description" original="Import Products">Import Products</value>
+  </row>
+  <row id="341" trl="Y" eid="VIS_341">
+    <value column="Name" original="System Translation Check">系统翻译检查</value>
+    <value column="Description" original="Check System Language Translations">Check System Language Translations</value>
+  </row>
+  <row id="342" trl="Y" eid="VIS_342">
+    <value column="Name" original="Asset">财富</value>
+    <value column="Description" original="Asset used internally or by customers">Asset used internally or by customers</value>
+  </row>
+  <row id="343" trl="Y" eid="VIS_343">
+    <value column="Name" original="Asset Group">资产组</value>
+    <value column="Description" original="Group of Assets">Group of Assets</value>
+  </row>
+  <row id="344" trl="Y" eid="VIS_344">
+    <value column="Name" original="Training">训练</value>
+    <value column="Description" original="Repeated Training">Repeated Training</value>
+  </row>
+  <row id="345" trl="Y" eid="VIS_345">
+    <value column="Name" original="Customer Assets">客户资产</value>
+    <value column="Description" original="Customer Assets">Customer Assets</value>
+  </row>
+  <row id="346" trl="Y" eid="VIS_346">
+    <value column="Name" original="Generate Delivery Note (Manual)">创建出货单（手动）</value>
+    <value column="Description" original="Select and generate shipments">Select and generate shipments</value>
+  </row>
+  <row id="347" trl="Y" eid="VIS_347">
+    <value column="Name" original="Print Invoices">打印发票</value>
+    <value column="Description" original="Print Invoices to paper or send PDF">Print Invoices to paper or send PDF</value>
+  </row>
+  <row id="348" trl="Y" eid="VIS_348">
+    <value column="Name" original="Deliver Assets">提供资产</value>
+    <value column="Description" original="Deliver Customer Assets electronically">Deliver Customer Assets electronically</value>
+  </row>
+  <row id="349" trl="Y" eid="VIS_349">
+    <value column="Name" original="Expenses (not reimbursed)">费用（不报销）</value>
+    <value column="Description" original="View expenses and charges not reimbursed">View expenses and charges not reimbursed</value>
+  </row>
+  <row id="350" trl="Y" eid="VIS_350">
+    <value column="Name" original="Statement of Accounts">会计报表</value>
+    <value column="Description" original="Report Account Statement Beginning Balance and Transactions">Report Account Statement Beginning Balance and Transactions</value>
+  </row>
+  <row id="351" trl="Y" eid="VIS_351">
+    <value column="Name" original="SQL Process">SQL过程</value>
+    <value column="Description" original="Process SQL Statements">Process SQL Statements</value>
+  </row>
+  <row id="352" trl="Y" eid="VIS_352">
+    <value column="Name" original="Accounting Fact Balances">会计事实余额</value>
+    <value column="Description" original="Query Accounting Daily Balances">Query Accounting Daily Balances</value>
+  </row>
+  <row id="353" trl="Y" eid="VIS_353">
+    <value column="Name" original="Attribute Set">属性组</value>
+    <value column="Description" original="Maintain Product Attribute Set">Maintain Product Attribute Set</value>
+  </row>
+  <row id="354" trl="Y" eid="VIS_354">
+    <value column="Name" original="Serial No Control">序列号控制</value>
+    <value column="Description" original="Product Serial Number Control">Product Serial Number Control</value>
+  </row>
+  <row id="355" trl="Y" eid="VIS_355">
+    <value column="Name" original="Lot Control">批次控制</value>
+    <value column="Description" original="Product Lot Control">Product Lot Control</value>
+  </row>
+  <row id="356" trl="Y" eid="VIS_356">
+    <value column="Name" original="Lot">批次</value>
+    <value column="Description" original="Product Lot Definition">Product Lot Definition</value>
+  </row>
+  <row id="357" trl="Y" eid="VIS_357">
+    <value column="Name" original="Product Attributes">产品属性</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="358" trl="Y" eid="VIS_358">
+    <value column="Name" original="Attribute Search">属性搜索</value>
+    <value column="Description" original="Common Search Attribute">Common Search Attribute</value>
+  </row>
+  <row id="359" trl="Y" eid="VIS_359">
+    <value column="Name" original="Attribute">属性</value>
+    <value column="Description" original="Product Attribute">Product Attribute</value>
+  </row>
+  <row id="360" trl="Y" eid="VIS_360">
+    <value column="Name" original="Expense Invoice">费用发票</value>
+    <value column="Description" original="Payables expense invoices - This is Alpha Functionality">Payables expense invoices - This is Alpha Functionality</value>
+  </row>
+  <row id="361" trl="Y" eid="VIS_361">
+    <value column="Name" original="Recurring">经常性</value>
+    <value column="Description" original="Recurring Document">Recurring Document</value>
+  </row>
+  <row id="362" trl="Y" eid="VIS_362">
+    <value column="Name" original="Role Data Access">角色数据访问</value>
+    <value column="Description" original="Maintain Data Access Rules">Maintain Data Access Rules</value>
+  </row>
+  <row id="363" trl="Y" eid="VIS_363">
+    <value column="Name" original="Import Inventory">进口库存</value>
+    <value column="Description" original="Import Inventory Transactions">Import Inventory Transactions</value>
+  </row>
+  <row id="364" trl="Y" eid="VIS_364">
+    <value column="Name" original="Project Type">项目类型</value>
+    <value column="Description" original="Maintain Project Type and Phase">Maintain Project Type and Phase</value>
+  </row>
+  <row id="365" trl="Y" eid="VIS_365">
+    <value column="Name" original="Print Label">打印标签</value>
+    <value column="Description" original="Print Label Format">Print Label Format</value>
+  </row>
+  <row id="366" trl="Y" eid="VIS_366">
+    <value column="Name" original="Session Audit">会议审核</value>
+    <value column="Description" original="Audit of User Sessions">Audit of User Sessions</value>
+  </row>
+  <row id="367" trl="Y" eid="VIS_367">
+    <value column="Name" original="Security">安全</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="368" trl="Y" eid="VIS_368">
+    <value column="Name" original="Change Audit">变更审计</value>
+    <value column="Description" original="Audit of data changes">Audit of data changes</value>
+  </row>
+  <row id="369" trl="Y" eid="VIS_369">
+    <value column="Name" original="Time Type">时间类型</value>
+    <value column="Description" original="Maintain Time Recording Type">Maintain Time Recording Type</value>
+  </row>
+  <row id="370" trl="Y" eid="VIS_370">
+    <value column="Name" original="Cost Type">成本类型</value>
+    <value column="Description" original="Maintain Cost Types">Maintain Cost Types</value>
+  </row>
+  <row id="371" trl="Y" eid="VIS_371">
+    <value column="Name" original="Advertisement">广告</value>
+    <value column="Description" original="Web Advertisement">Web Advertisement</value>
+  </row>
+  <row id="372" trl="Y" eid="VIS_372">
+    <value column="Name" original="Web">网络</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="373" trl="Y" eid="VIS_373">
+    <value column="Name" original="Import Bank Statement">进出口银行对帐单</value>
+    <value column="Description" original="Import Bank Statements">Import Bank Statements</value>
+  </row>
+  <row id="374" trl="Y" eid="VIS_374">
+    <value column="Name" original="Import Payment">导入付汇</value>
+    <value column="Description" original="Import Payments">Import Payments</value>
+  </row>
+  <row id="375" trl="Y" eid="VIS_375">
+    <value column="Name" original="Click">点击</value>
+    <value column="Description" original="Maintain Web Click">Maintain Web Click</value>
+  </row>
+  <row id="376" trl="Y" eid="VIS_376">
+    <value column="Name" original="Import Order">导入订单</value>
+    <value column="Description" original="Import Orders">Import Orders</value>
+  </row>
+  <row id="377" trl="Y" eid="VIS_377">
+    <value column="Name" original="Invoice Payment Schedule">发票付款时间表</value>
+    <value column="Description" original="Maintain Invoice Payment Schedule">Maintain Invoice Payment Schedule</value>
+  </row>
+  <row id="378" trl="Y" eid="VIS_378">
+    <value column="Name" original="Import GL Journal">导入GL流水帐</value>
+    <value column="Description" original="Import General Ledger Journals">Import General Ledger Journals</value>
+  </row>
+  <row id="379" trl="Y" eid="VIS_379">
+    <value column="Name" original="Alert">警报</value>
+    <value column="Description" original="Vienna Advantage Alert">Vienna Advantage Alert</value>
+  </row>
+  <row id="380" trl="Y" eid="VIS_380">
+    <value column="Name" original="Counter">计数器</value>
+    <value column="Description" original="Web Counter">Web Counter</value>
+  </row>
+  <row id="381" trl="Y" eid="VIS_381">
+    <value column="Name" original="Freight Category">货运分类</value>
+    <value column="Description" original="Maintain Freight Categories">Maintain Freight Categories</value>
+  </row>
+  <row id="382" trl="Y" eid="VIS_382">
+    <value column="Name" original="Import Invoice">导入发票</value>
+    <value column="Description" original="Import Invoices">Import Invoices</value>
+  </row>
+  <row id="383" trl="Y" eid="VIS_383">
+    <value column="Name" original="Cache Reset">缓存重置</value>
+    <value column="Description" original="Reset Cache of the System ** Close all Windows before proceeding **">Reset Cache of the System ** Close all Windows before proceeding **</value>
+  </row>
+  <row id="384" trl="Y" eid="VIS_384">
+    <value column="Name" original="Accounting Dimensions">会计尺寸</value>
+    <value column="Description" original="Maintain Non-Account Dimension Trees">Maintain Non-Account Dimension Trees</value>
+  </row>
+  <row id="385" trl="Y" eid="VIS_385">
+    <value column="Name" original="Replication">复制</value>
+    <value column="Description" original="Maintain Data Replication Targets">Maintain Data Replication Targets</value>
+  </row>
+  <row id="386" trl="Y" eid="VIS_386">
+    <value column="Name" original="Replication Strategy">复制策略</value>
+    <value column="Description" original="Maintain Data Replication Strategy">Maintain Data Replication Strategy</value>
+  </row>
+  <row id="387" trl="Y" eid="VIS_387">
+    <value column="Name" original="Project (Lines/Issues)">项目（系/问题）</value>
+    <value column="Description" original="Maintain Sales Order and Work Order Details">Maintain Sales Order and Work Order Details</value>
+  </row>
+  <row id="388" trl="Y" eid="VIS_388">
+    <value column="Name" original="Knowledge Base">知识库</value>
+    <value column="Description" original="Maintain Knowledge Base">Maintain Knowledge Base</value>
+  </row>
+  <row id="389" trl="Y" eid="VIS_389">
+    <value column="Name" original="Knowledge Category">知识分类</value>
+    <value column="Description" original="Maintain Knoweledge Categories and Values">Maintain Knoweledge Categories and Values</value>
+  </row>
+  <row id="390" trl="Y" eid="VIS_390">
+    <value column="Name" original="Knowledge Synonym">知识同义词</value>
+    <value column="Description" original="Knowlege Keyword Synonym">Knowlege Keyword Synonym</value>
+  </row>
+  <row id="391" trl="Y" eid="VIS_391">
+    <value column="Name" original="Knowledge Source">知识来源</value>
+    <value column="Description" original="Source of Knowledge Entries">Source of Knowledge Entries</value>
+  </row>
+  <row id="392" trl="Y" eid="VIS_392">
+    <value column="Name" original="Knowledge Base">知识库</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="393" trl="Y" eid="VIS_393">
+    <value column="Name" original="Update Accounting Balance">更新会计平衡</value>
+    <value column="Description" original="Update Daily Accounting Balances">Update Daily Accounting Balances</value>
+  </row>
+  <row id="394" trl="Y" eid="VIS_394">
+    <value column="Name" original="Business Partner Transactions">业务合作伙伴信息</value>
+    <value column="Description" original="Document Information of Customer, Vendor &amp; Employee">Document Information of Customer, Vendor &amp; Employee</value>
+  </row>
+  <row id="396" trl="Y" eid="VIS_396">
+    <value column="Name" original="Send Mass Emails">发送大量电子邮件</value>
+    <value column="Description" original="Send EMails to active subscribers of an Interest Area OR a Business Partner Group from a selected User">Send EMails to active subscribers of an Interest Area OR a Business Partner Group from a selected User</value>
+  </row>
+  <row id="398" trl="Y" eid="VIS_398">
+    <value column="Name" original="Project Cycle Report">项目周期报告</value>
+    <value column="Description" original="Report Projects based on Project Cycle">Report Projects based on Project Cycle</value>
+  </row>
+  <row id="399" trl="Y" eid="VIS_399">
+    <value column="Name" original="Customer Assets">客户资产</value>
+    <value column="Description" original="Report Customer Assets with Delivery Count">Report Customer Assets with Delivery Count</value>
+  </row>
+  <row id="400" trl="Y" eid="VIS_400">
+    <value column="Name" original="Asset Delivery Details">资产交割细则</value>
+    <value column="Description" original="Report Asset Deliveries Details">Report Asset Deliveries Details</value>
+  </row>
+  <row id="401" trl="Y" eid="VIS_401">
+    <value column="Name" original="Issue to Project">问题到项目</value>
+    <value column="Description" original="Issue Material to Project from Receipt or manual Inventory Location">Issue Material to Project from Receipt or manual Inventory Location</value>
+  </row>
+  <row id="402" trl="Y" eid="VIS_402">
+    <value column="Name" original="Generate PO from Project">从生成采购订单项目</value>
+    <value column="Description" original="Generate PO from Project Line(s)">Generate PO from Project Line(s)</value>
+  </row>
+  <row id="403" trl="Y" eid="VIS_403">
+    <value column="Name" original="Project Detail Accounting Report">项目详细信息管理报告</value>
+    <value column="Description" original="Accounting Fact Details of Project">Accounting Fact Details of Project</value>
+  </row>
+  <row id="404" trl="Y" eid="VIS_404">
+    <value column="Name" original="Project Lines not Issued">不发线项目</value>
+    <value column="Description" original="Lists Project Lines of a Work Order or Asset Project, which are not issued to the Project">Lists Project Lines of a Work Order or Asset Project, which are not issued to the Project</value>
+  </row>
+  <row id="405" trl="Y" eid="VIS_405">
+    <value column="Name" original="Project POs not Issued">项目采购单没有出台</value>
+    <value column="Description" original="Lists Project Lines with generated Purchase Orders of a Work Order or Asset Project, which are not issued to the Project">Lists Project Lines with generated Purchase Orders of a Work Order or Asset Project, which are not issued to the Project</value>
+  </row>
+  <row id="406" trl="Y" eid="VIS_406">
+    <value column="Name" original="RePrice Order/Invoice">重新定价订单/发票</value>
+    <value column="Description" original="Recalculate the price based on the latest price list version of an open order or invoice">Recalculate the price based on the latest price list version of an open order or invoice</value>
+  </row>
+  <row id="407" trl="Y" eid="VIS_407">
+    <value column="Name" original="Quote convert">报价转换</value>
+    <value column="Description" original="Convert open Proposal or Quotation to Order">Convert open Proposal or Quotation to Order</value>
+  </row>
+  <row id="408" trl="Y" eid="VIS_408">
+    <value column="Name" original="Label Printer">标签打印机</value>
+    <value column="Description" original="Maintain Label Printer Definition">Maintain Label Printer Definition</value>
+  </row>
+  <row id="409" trl="Y" eid="VIS_409">
+    <value column="Name" original="Verify Document Types">验证文档类型</value>
+    <value column="Description" original="Verify Document Types and Period Controls">Verify Document Types and Period Controls</value>
+  </row>
+  <row id="410" trl="Y" eid="VIS_410">
+    <value column="Name" original="Project Margin (Work Order)">项目保证金（工单）</value>
+    <value column="Description" original="Work Order Project Lines (planned revenue) vs. Project Issues (costs)">Work Order Project Lines (planned revenue) vs. Project Issues (costs)</value>
+  </row>
+  <row id="411" trl="Y" eid="VIS_411">
+    <value column="Name" original="Storage Detail">存储详细</value>
+    <value column="Description" original="Storage Detail Report">Storage Detail Report</value>
+  </row>
+  <row id="412" trl="Y" eid="VIS_412">
+    <value column="Name" original="Transaction Detail">交易明细</value>
+    <value column="Description" original="Transaction Detail Report">Transaction Detail Report</value>
+  </row>
+  <row id="413" trl="Y" eid="VIS_413">
+    <value column="Name" original="Aging">老化</value>
+    <value column="Description" original="Aging Report">Aging Report</value>
+  </row>
+  <row id="414" trl="Y" eid="VIS_414">
+    <value column="Name" original="Owner Info">业主资料</value>
+    <value column="Description" original="Company Agent (Sales Rep) Information">Company Agent (Sales Rep) Information</value>
+  </row>
+  <row id="415" trl="Y" eid="VIS_415">
+    <value column="Name" original="Clicks Monthy">点击Monthy</value>
+    <value column="Description" original="Clicks per Month">Clicks per Month</value>
+  </row>
+  <row id="416" trl="Y" eid="VIS_416">
+    <value column="Name" original="Clicks Unprocessed">点击未处理</value>
+    <value column="Description" original="Unprocessed Clicks">Unprocessed Clicks</value>
+  </row>
+  <row id="417" trl="Y" eid="VIS_417">
+    <value column="Name" original="UnPosted Documents">未发布的文档</value>
+    <value column="Description" original="Unposted Documents">Unposted Documents</value>
+  </row>
+  <row id="418" trl="Y" eid="VIS_418">
+    <value column="Name" original="Currency Type">货币类型</value>
+    <value column="Description" original="Maintain Currency Conversion Rate Types">Maintain Currency Conversion Rate Types</value>
+  </row>
+  <row id="419" trl="Y" eid="VIS_419">
+    <value column="Name" original="POS">POS</value>
+    <value column="Description" original="Point Of Sales Terminal">Point Of Sales Terminal</value>
+  </row>
+  <row id="420" trl="Y" eid="VIS_420">
+    <value column="Name" original="Transfer Business Partner (Org)">转账业务合作伙伴（组织）</value>
+    <value column="Description" original="Set and verify Organization ownership of Business Partners">Set and verify Organization ownership of Business Partners</value>
+  </row>
+  <row id="421" trl="Y" eid="VIS_421">
+    <value column="Name" original="Product Organization">产品组织</value>
+    <value column="Description" original="Set and verify Organization ownership of Products">Set and verify Organization ownership of Products</value>
+  </row>
+  <row id="422" trl="Y" eid="VIS_422">
+    <value column="Name" original="Warehouse Organization">仓库组织</value>
+    <value column="Description" original="Set and verify Organization ownership of Warehouse">Set and verify Organization ownership of Warehouse</value>
+  </row>
+  <row id="423" trl="Y" eid="VIS_423">
+    <value column="Name" original="Load Bank Statement">加载银行对帐单</value>
+    <value column="Description" original="Load Bank Statement">Load Bank Statement</value>
+  </row>
+  <row id="424" trl="Y" eid="VIS_424">
+    <value column="Name" original="Delete Import">进口删除</value>
+    <value column="Description" original="Delete all data in Import Table">Delete all data in Import Table</value>
+  </row>
+  <row id="425" trl="Y" eid="VIS_425">
+    <value column="Name" original="Import Currency Rate">进口货币汇率</value>
+    <value column="Description" original="Import Currency Conversion Rates">Import Currency Conversion Rates</value>
+  </row>
+  <row id="426" trl="Y" eid="VIS_426">
+    <value column="Name" original="BOM Drop">BOM降</value>
+    <value column="Description" original="Drop (expand) Bill of Materials">Drop (expand) Bill of Materials</value>
+  </row>
+  <row id="427" trl="Y" eid="VIS_427">
+    <value column="Name" original="Workflow Responsible">负责任的工作流程</value>
+    <value column="Description" original="Responsible for Workflow Execution">Responsible for Workflow Execution</value>
+  </row>
+  <row id="428" trl="Y" eid="VIS_428">
+    <value column="Name" original="Workflow Process">工作流流程</value>
+    <value column="Description" original="Monitor workflow processes">Monitor workflow processes</value>
+  </row>
+  <row id="429" trl="Y" eid="VIS_429">
+    <value column="Name" original="Workflow Activities (all)">工作流活动（所有）</value>
+    <value column="Description" original="Monitor all Workflow activities">Monitor all Workflow activities</value>
+  </row>
+  <row id="430" trl="Y" eid="VIS_430">
+    <value column="Name" original="Registration Attributes">注册属性</value>
+    <value column="Description" original="Asset Registration Attributes">Asset Registration Attributes</value>
+  </row>
+  <row id="431" trl="Y" eid="VIS_431">
+    <value column="Name" original="Registration">注册</value>
+    <value column="Description" original="User Asset Registration">User Asset Registration</value>
+  </row>
+  <row id="432" trl="Y" eid="VIS_432">
+    <value column="Name" original="Invoice Tax Report">发票税务报表</value>
+    <value column="Description" original="Invoice Tax Reconciliation">Invoice Tax Reconciliation</value>
+  </row>
+  <row id="433" trl="Y" eid="VIS_433">
+    <value column="Name" original="Accounting Fact Details Report">会计事实详细报告</value>
+    <value column="Description" original="Accounting Fact Details Report">Accounting Fact Details Report</value>
+  </row>
+  <row id="434" trl="Y" eid="VIS_434">
+    <value column="Name" original="Accounting Fact Daily">会计事实日报</value>
+    <value column="Description" original="Accounting Fact Details summarized by Accounting Date">Accounting Fact Details summarized by Accounting Date</value>
+  </row>
+  <row id="435" trl="Y" eid="VIS_435">
+    <value column="Name" original="Accounting Fact Period">会计事实期间</value>
+    <value column="Description" original="Accounting Fact Details summarized by Accounting Period">Accounting Fact Details summarized by Accounting Period</value>
+  </row>
+  <row id="436" trl="Y" eid="VIS_436">
+    <value column="Name" original="Reopen Order">重新打开订单</value>
+    <value column="Description" original="Open previously closed Order">Open previously closed Order</value>
+  </row>
+  <row id="437" trl="Y" eid="VIS_437">
+    <value column="Name" original="Bank Statement Matcher">银行对帐单匹配器</value>
+    <value column="Description" original="Algorithm to match Bank Statement Info to Business Partners, Invoices and Payments">Algorithm to match Bank Statement Info to Business Partners, Invoices and Payments</value>
+  </row>
+  <row id="438" trl="Y" eid="VIS_438">
+    <value column="Name" original="Payment Batch">付款批</value>
+    <value column="Description" original="Process Payment Patches for EFT">Process Payment Patches for EFT</value>
+  </row>
+  <row id="439" trl="Y" eid="VIS_439">
+    <value column="Name" original="Workflow Processor">工作流处理器</value>
+    <value column="Description" original="Maintain Workflow Processor and Logs">Maintain Workflow Processor and Logs</value>
+  </row>
+  <row id="440" trl="Y" eid="VIS_440">
+    <value column="Name" original="Accounting Processor">会计处理器</value>
+    <value column="Description" original="Maintain Accounting Processor and Logs">Maintain Accounting Processor and Logs</value>
+  </row>
+  <row id="441" trl="Y" eid="VIS_441">
+    <value column="Name" original="Organization Type">组织类型</value>
+    <value column="Description" original="Maintain Organization Types">Maintain Organization Types</value>
+  </row>
+  <row id="442" trl="Y" eid="VIS_442">
+    <value column="Name" original="Auction Buyer">拍卖买家</value>
+    <value column="Description" original="Maintain Auction Buyer Information">Maintain Auction Buyer Information</value>
+  </row>
+  <row id="443" trl="Y" eid="VIS_443">
+    <value column="Name" original="Auction Seller">拍卖卖家</value>
+    <value column="Description" original="Maintain Auction Seller Information">Maintain Auction Seller Information</value>
+  </row>
+  <row id="444" trl="Y" eid="VIS_444">
+    <value column="Name" original="Shipment">装运单</value>
+    <value column="Description" original="Manage Shipment Packages">Manage Shipment Packages</value>
+  </row>
+  <row id="445" trl="Y" eid="VIS_445">
+    <value column="Name" original="Distribution List">分发列表</value>
+    <value column="Description" original="Maintain Distribution Lists">Maintain Distribution Lists</value>
+  </row>
+  <row id="446" trl="Y" eid="VIS_446">
+    <value column="Name" original="Alert Processor">警报处理器</value>
+    <value column="Description" original="Maintain Alert Processor/Server Parameter and Logs">Maintain Alert Processor/Server Parameter and Logs</value>
+  </row>
+  <row id="447" trl="Y" eid="VIS_447">
+    <value column="Name" original="Bid Topic">投标主题</value>
+    <value column="Description" original="Topic with Bids and Offers">Topic with Bids and Offers</value>
+  </row>
+  <row id="448" trl="Y" eid="VIS_448">
+    <value column="Name" original="Subscription Type">订阅类型</value>
+    <value column="Description" original="Maintain Subscription Types">Maintain Subscription Types</value>
+  </row>
+  <row id="449" trl="Y" eid="VIS_449">
+    <value column="Name" original="Subscription">订阅</value>
+    <value column="Description" original="Maintain Subscriptions and Deliveries">Maintain Subscriptions and Deliveries</value>
+  </row>
+  <row id="450" trl="Y" eid="VIS_450">
+    <value column="Name" original="Scheduler">调度</value>
+    <value column="Description" original="Maintain Schedule Processes and Logs">Maintain Schedule Processes and Logs</value>
+  </row>
+  <row id="451" trl="Y" eid="VIS_451">
+    <value column="Name" original="Partner Relation">合作伙伴关系</value>
+    <value column="Description" original="Maintain Business Partner Relations">Maintain Business Partner Relations</value>
+  </row>
+  <row id="452" trl="Y" eid="VIS_452">
+    <value column="Name" original="RfQ Topic">询价主题</value>
+    <value column="Description" original="Maintain RfQ Topics and Subscribers">Maintain RfQ Topics and Subscribers</value>
+  </row>
+  <row id="453" trl="Y" eid="VIS_453">
+    <value column="Name" original="Auction Topic Type">拍卖会主题类型</value>
+    <value column="Description" original="Maintain Auction Topic Type and Categories">Maintain Auction Topic Type and Categories</value>
+  </row>
+  <row id="454" trl="Y" eid="VIS_454">
+    <value column="Name" original="RfQ">询价</value>
+    <value column="Description" original="Manage Request for Quotations">Manage Request for Quotations</value>
+  </row>
+  <row id="456" trl="Y" eid="VIS_456">
+    <value column="Name" original="Server">服务器</value>
+    <value column="Description" original="VAdvantage Server Maintenance">VAdvantage Server Maintenance</value>
+  </row>
+  <row id="457" trl="Y" eid="VIS_457">
+    <value column="Name" original="Sales Orders">销售订单</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="458" trl="Y" eid="VIS_458">
+    <value column="Name" original="Sales Invoices">销售发票</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="459" trl="Y" eid="VIS_459">
+    <value column="Name" original="Shipments">发货</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="460" trl="Y" eid="VIS_460">
+    <value column="Name" original="Market Place">市场</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="461" trl="Y" eid="VIS_461">
+    <value column="Name" original="Sequence Check">顺序检查</value>
+    <value column="Description" original="Check System and Document Sequences">Check System and Document Sequences</value>
+  </row>
+  <row id="462" trl="Y" eid="VIS_462">
+    <value column="Name" original="Dunning Run">催款运行</value>
+    <value column="Description" original="Manage Dunning Runs">Manage Dunning Runs</value>
+  </row>
+  <row id="463" trl="Y" eid="VIS_463">
+    <value column="Name" original="Requisition">征用</value>
+    <value column="Description" original="Material Requisition">Material Requisition</value>
+  </row>
+  <row id="464" trl="Y" eid="VIS_464">
+    <value column="Name" original="GL Distribution">GL分配</value>
+    <value column="Description" original="General Ledger Distribution">General Ledger Distribution</value>
+  </row>
+  <row id="465" trl="Y" eid="VIS_465">
+    <value column="Name" original="Tree Maintenance">树维护</value>
+    <value column="Description" original="Maintain Trees">Maintain Trees</value>
+  </row>
+  <row id="466" trl="Y" eid="VIS_466">
+    <value column="Name" original="RfQ Response">询价响应</value>
+    <value column="Description" original="Manage RfQ Responses">Manage RfQ Responses</value>
+  </row>
+  <row id="467" trl="Y" eid="VIS_467">
+    <value column="Name" original="RfQ Response Report">询价响应报告</value>
+    <value column="Description" original="Detail RfQ Responses">Detail RfQ Responses</value>
+  </row>
+  <row id="468" trl="Y" eid="VIS_468">
+    <value column="Name" original="RfQ Unanswered">询价未答复</value>
+    <value column="Description" original="Outstanding RfQ Responses">Outstanding RfQ Responses</value>
+  </row>
+  <row id="469" trl="Y" eid="VIS_469">
+    <value column="Name" original="Workflow Editor">工作流程编辑器</value>
+    <value column="Description" original="Edit Workflows">Edit Workflows</value>
+  </row>
+  <row id="470" trl="Y" eid="VIS_470">
+    <value column="Name" original="Workflow Activities">工作流活动</value>
+    <value column="Description" original="My active workflow activities">My active workflow activities</value>
+  </row>
+  <row id="471" trl="Y" eid="VIS_471">
+    <value column="Name" original="Open Requisitions">开放申请</value>
+    <value column="Description" original="Detail Open Requisition Information">Detail Open Requisition Information</value>
+  </row>
+  <row id="472" trl="Y" eid="VIS_472">
+    <value column="Name" original="Distribution Run">分配运行</value>
+    <value column="Description" original="Distribution Run create Orders to distribute products to a selected list of partners">Distribution Run create Orders to distribute products to a selected list of partners</value>
+  </row>
+  <row id="473" trl="Y" eid="VIS_473">
+    <value column="Name" original="UnLink Business Partner Org (Alpha)">取消链接业务合作伙伴组织（阿尔法）</value>
+    <value column="Description" original="UnLink Business Partner from an Organization">UnLink Business Partner from an Organization</value>
+  </row>
+  <row id="474" trl="Y" eid="VIS_474">
+    <value column="Name" original="Asset Delivery Month">资产交割月份</value>
+    <value column="Description" original="Report Asset Deliveries Summary per month">Report Asset Deliveries Summary per month</value>
+  </row>
+  <row id="476" trl="Y" eid="VIS_476">
+    <value column="Name" original="Counter Document">文件柜</value>
+    <value column="Description" original="Maintain Counter Document Types">Maintain Counter Document Types</value>
+  </row>
+  <row id="477" trl="Y" eid="VIS_477">
+    <value column="Name" original="Demand">需求</value>
+    <value column="Description" original="Maintain Material Demand">Maintain Material Demand</value>
+  </row>
+  <row id="479" trl="Y" eid="VIS_479">
+    <value column="Name" original="Ship/Receipt Confirm">船舶/收据确认</value>
+    <value column="Description" original="Material Shipment or Receipt Confirmation">Material Shipment or Receipt Confirmation</value>
+  </row>
+  <row id="480" trl="Y" eid="VIS_480">
+    <value column="Name" original="RMA Category">RMA分类</value>
+    <value column="Description" original="Return Material Authorization Category">Return Material Authorization Category</value>
+  </row>
+  <row id="481" trl="Y" eid="VIS_481">
+    <value column="Name" original="Open Confirmation Details">打开确认详细</value>
+    <value column="Description" original="Open Shipment or Receipt Confirmation Details">Open Shipment or Receipt Confirmation Details</value>
+  </row>
+  <row id="482" trl="Y" eid="VIS_482">
+    <value column="Name" original="Open Confirmations">打开确认书</value>
+    <value column="Description" original="Open Shipment or Receipt Confirmations">Open Shipment or Receipt Confirmations</value>
+  </row>
+  <row id="483" trl="Y" eid="VIS_483">
+    <value column="Name" original="Process Audit">过程审核</value>
+    <value column="Description" original="Audit process use">Audit process use</value>
+  </row>
+  <row id="484" trl="Y" eid="VIS_484">
+    <value column="Name" original="Move Confirmation">此举确认</value>
+    <value column="Description" original="Move Confirmation">Confirm Inventory Moves</value>
+  </row>
+  <row id="485" trl="Y" eid="VIS_485">
+    <value column="Name" original="Print Format Detail">打印格式详细</value>
+    <value column="Description" original="Print Format Detail Report">Print Format Detail Report</value>
+  </row>
+  <row id="486" trl="Y" eid="VIS_486">
+    <value column="Name" original="Import Confirmations">导入确认书</value>
+    <value column="Description" original="Import Receipt/Shipment Confirmation Lines">Import Receipt/Shipment Confirmation Lines</value>
+  </row>
+  <row id="487" trl="Y" eid="VIS_487">
+    <value column="Name" original="Reset Passwords">重置密码</value>
+    <value column="Description" original="Reset Passwords for User">Reset Passwords for User</value>
+  </row>
+  <row id="488" trl="Y" eid="VIS_488">
+    <value column="Name" original="SLA Criteria">SLA标准</value>
+    <value column="Description" original="Service Level Agreement Criteria">Service Level Agreement Criteria</value>
+  </row>
+  <row id="489" trl="Y" eid="VIS_489">
+    <value column="Name" original="SLA by Partner">SLA通过合作伙伴</value>
+    <value column="Description" original="Service Level Agreement">Service Level Agreement</value>
+  </row>
+  <row id="490" trl="Y" eid="VIS_490">
+    <value column="Name" original="Discount Schema">折扣模式</value>
+    <value column="Description" original="Maintain Price List and Discount Schema">Maintain Price List and Discount Schema</value>
+  </row>
+  <row id="491" trl="Y" eid="VIS_491">
+    <value column="Name" original="POS Terminal">POS终端</value>
+    <value column="Description" original="Maintain your Point of Sales Terminal">Maintain your Point of Sales Terminal</value>
+  </row>
+  <row id="492" trl="Y" eid="VIS_492">
+    <value column="Name" original="POS Key Layout">POS重点布局</value>
+    <value column="Description" original="POS Function Key Layout">POS Function Key Layout</value>
+  </row>
+  <row id="493" trl="Y" eid="VIS_493">
+    <value column="Name" original="Material Receipt Details">材料收据详情</value>
+    <value column="Description" original="Material Receipt Detail Information">Material Receipt Detail Information</value>
+  </row>
+  <row id="494" trl="Y" eid="VIS_494">
+    <value column="Name" original="Shipment Details">货运详情</value>
+    <value column="Description" original="Shipment Detail Information">Shipment Detail Information</value>
+  </row>
+  <row id="495" trl="Y" eid="VIS_495">
+    <value column="Name" original="Role Access Update">角色的访问更新</value>
+    <value column="Description" original="Update the access rights of a role or roles of a client">Update the access rights of a role or roles of a client</value>
+  </row>
+  <row id="496" trl="Y" eid="VIS_496">
+    <value column="Name" original="Reset Allocation">复位分配</value>
+    <value column="Description" original="Reset (delete) allocation of invoices to payments">Reset (delete) allocation of invoices to payments</value>
+  </row>
+  <row id="497" trl="Y" eid="VIS_497">
+    <value column="Name" original="Auto Allocation">自动分配</value>
+    <value column="Description" original="Automatic allocation of invoices to payments">Automatic allocation of invoices to payments</value>
+  </row>
+  <row id="498" trl="Y" eid="VIS_498">
+    <value column="Name" original="System Registration">系统注册</value>
+    <value column="Description" original="Register your System">Register your System</value>
+  </row>
+  <row id="499" trl="Y" eid="VIS_499">
+    <value column="Name" original="Reapply Customizations">重新应用自定义</value>
+    <value column="Description" original="If you identified customizations in the Change Log, you can reapply them">If you identified customizations in the Change Log, you can reapply them</value>
+  </row>
+  <row id="500" trl="Y" eid="VIS_500">
+    <value column="Name" original="Workflow to Tenant">工作流租客</value>
+    <value column="Description" original="Move custom workflow elements to the current tenant/client">Move custom workflow elements to the current tenant/client</value>
+  </row>
+  <row id="501" trl="Y" eid="VIS_501">
+    <value column="Name" original="Workflow">流程</value>
+    <value column="Description" original="Vienna Workflow">Vienna Workflow</value>
+  </row>
+  <row id="502" trl="Y" eid="VIS_502">
+    <value column="Name" original="Trial Balance">试算表</value>
+    <value column="Description" original="Trial Balance for a period or date range">Trial Balance for a period or date range</value>
+  </row>
+  <row id="503" trl="Y" eid="VIS_503">
+    <value column="Name" original="Internal Use Inventory">内部使用库存</value>
+    <value column="Description" original="Enter Internal Use of Inventory">Enter Internal Use of Inventory</value>
+  </row>
+  <row id="504" trl="Y" eid="VIS_504">
+    <value column="Name" original="Product UOM Convert">产品计量单位转换</value>
+    <value column="Description" original="Brack-up or repackage same Products with different UOM">Brack-up or repackage same Products with different UOM</value>
+  </row>
+  <row id="505" trl="Y" eid="VIS_505">
+    <value column="Name" original="Print Dunning Letters">打印催函</value>
+    <value column="Description" original="Print Dunning letters to paper or send PDF">Print Dunning letters to paper or send PDF</value>
+  </row>
+  <row id="506" trl="Y" eid="VIS_506">
+    <value column="Name" original="Validate Business Partner">验证业务合作伙伴</value>
+    <value column="Description" original="Check data consistency of Business Partner">Check data consistency of Business Partner</value>
+  </row>
+  <row id="507" trl="Y" eid="VIS_507">
+    <value column="Name" original="Order Batch Process">订单批量处理</value>
+    <value column="Description" original="Process Orders in Batch">Process Orders in Batch</value>
+  </row>
+  <row id="508" trl="Y" eid="VIS_508">
+    <value column="Name" original="Archive Viewer">存档查看器</value>
+    <value column="Description" original="View automatically archived Documents">View automatically archived Documents</value>
+  </row>
+  <row id="509" trl="Y" eid="VIS_509">
+    <value column="Name" original="UnAllocated Invoices">未分配发票</value>
+    <value column="Description" original="Invoices not allocated to Payments">Invoices not allocated to Payments</value>
+  </row>
+  <row id="510" trl="Y" eid="VIS_510">
+    <value column="Name" original="UnAllocated Payments">未分配的付款</value>
+    <value column="Description" original="Payments not allocated to Invoices">Payments not allocated to Invoices</value>
+  </row>
+  <row id="511" trl="Y" eid="VIS_511">
+    <value column="Name" original="Payment Details">付款详情</value>
+    <value column="Description" original="Payment Detail Report">Payment Detail Report</value>
+  </row>
+  <row id="512" trl="Y" eid="VIS_512">
+    <value column="Name" original="Business Partner Open">业务合作伙伴开放</value>
+    <value column="Description" original="Business Partner Open Amount">Business Partner Open Amount</value>
+  </row>
+  <row id="513" trl="Y" eid="VIS_513">
+    <value column="Name" original="Commission Run Detail">委员会运行细节</value>
+    <value column="Description" original="Commission Run Detail Report">Commission Run Detail Report</value>
+  </row>
+  <row id="514" trl="Y" eid="VIS_514">
+    <value column="Name" original="Synchronize Doc Translation">同步文档翻译</value>
+    <value column="Description" original="Synchronize Document Translation">Synchronize Document Translation</value>
+  </row>
+  <row id="515" trl="Y" eid="VIS_515">
+    <value column="Name" original="Material Reference">参考材料</value>
+    <value column="Description" original="Material Transactions Cross Reference (used/resourced)">Material Transactions Cross Reference (used/resourced)</value>
+  </row>
+  <row id="516" trl="Y" eid="VIS_516">
+    <value column="Name" original="Invoice Batch">发票批</value>
+    <value column="Description" original="Expense Invoice Batch">Expense Invoice Batch</value>
+  </row>
+  <row id="517" trl="Y" eid="VIS_517">
+    <value column="Name" original="Window Customization">自定义窗口</value>
+    <value column="Description" original="Define Window Customization for Role/User">Define Window Customization for Role/User</value>
+  </row>
+  <row id="518" trl="Y" eid="VIS_518">
+    <value column="Name" original="EDI Definition">EDI定义</value>
+    <value column="Description" original="Maintain EDI Definition">Maintain EDI Definition</value>
+  </row>
+  <row id="519" trl="Y" eid="VIS_519">
+    <value column="Name" original="EDI Transaction">EDI交易</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="520" trl="Y" eid="VIS_520">
+    <value column="Name" original="Product Costs">产品成本</value>
+    <value column="Description" original="Maintain Product Costs">Maintain Product Costs</value>
+  </row>
+  <row id="521" trl="Y" eid="VIS_521">
+    <value column="Name" original="Cost Element">成本要素</value>
+    <value column="Description" original="Maintain Product Cost Element">Maintain Product Cost Element</value>
+  </row>
+  <row id="522" trl="Y" eid="VIS_2000052">
+    <value column="Name" original="Costing">成本核算</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="523" trl="Y" eid="VIS_523">
+    <value column="Name" original="Request Status">请求状态</value>
+    <value column="Description" original="Maintain Request Status">Maintain Request Status</value>
+  </row>
+  <row id="524" trl="Y" eid="VIS_524">
+    <value column="Name" original="Request Standard Response">要求标准响应</value>
+    <value column="Description" original="Maintain Request Standard Response">Maintain Request Standard Response</value>
+  </row>
+  <row id="525" trl="Y" eid="VIS_525">
+    <value column="Name" original="Request Resolution">请求解析</value>
+    <value column="Description" original="Maintain Request Resolution">Maintain Request Resolution</value>
+  </row>
+  <row id="526" trl="Y" eid="VIS_526">
+    <value column="Name" original="Request Group">请求组</value>
+    <value column="Description" original="Maintain Request Group">Maintain Request Group</value>
+  </row>
+  <row id="527" trl="Y" eid="VIS_527">
+    <value column="Name" original="Request Category">申请类别</value>
+    <value column="Description" original="Maintain Request Category">Maintain Request Category</value>
+  </row>
+  <row id="528" trl="Y" eid="VIS_528">
+    <value column="Name" original="Cases/Requests">案例/要求</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="529" trl="Y" eid="VIS_529">
+    <value column="Name" original="Web Store">网上商店</value>
+    <value column="Description" original="Define Web Store">Define Web Store</value>
+  </row>
+  <row id="530" trl="Y" eid="VIS_530">
+    <value column="Name" original="Position">位置</value>
+    <value column="Description" original="Maintain Job Positions">Maintain Job Positions</value>
+  </row>
+  <row id="532" trl="Y" eid="VIS_532">
+    <value column="Name" original="Remuneration">报酬</value>
+    <value column="Description" original="Maintain Remuneration">Maintain Remuneration</value>
+  </row>
+  <row id="533" trl="Y" eid="VIS_533">
+    <value column="Name" original="BOM Change Notice">BOM变更通知</value>
+    <value column="Description" original="Maintain Bill of Materials (Engineering) Change Notice (Version)">Maintain Bill of Materials (Engineering) Change Notice (Version)</value>
+  </row>
+  <row id="534" trl="Y" eid="VIS_534">
+    <value column="Name" original="Product BOM">产品BOM</value>
+    <value column="Description" original="Maintain Product Bill of Materials">Maintain Product Bill of Materials</value>
+  </row>
+  <row id="535" trl="Y" eid="VIS_535">
+    <value column="Name" original="Invoice Requests">发票请求</value>
+    <value column="Description" original="Create Invoice for Requests">Create Invoice for Requests</value>
+  </row>
+  <row id="536" trl="Y" eid="VIS_536">
+    <value column="Name" original="Change Notice">变更通知</value>
+    <value column="Description" original="Maintain (Engineering) Change Notice (Version)">Maintain (Engineering) Change Notice (Version)</value>
+  </row>
+  <row id="537" trl="Y" eid="VIS_537">
+    <value column="Name" original="Storage Cleanup">存储清理</value>
+    <value column="Description" original="Inventory Storage Cleanup">Inventory Storage Cleanup</value>
+  </row>
+  <row id="538" trl="Y" eid="VIS_538">
+    <value column="Name" original="Invoice Not Realized Gain/Loss">发票没有实现收益/损失</value>
+    <value column="Description" original="Invoice Not Realized Gain &amp; Loss Report">Invoice Not Realized Gain &amp; Loss Report</value>
+  </row>
+  <row id="540" trl="Y" eid="VIS_540">
+    <value column="Name" original="Product Cost">产品成本</value>
+    <value column="Description" original="Product Cost Report">Product Cost Report</value>
+  </row>
+  <row id="541" trl="Y" eid="VIS_541">
+    <value column="Name" original="Product Cost Summary">产品成本汇总表</value>
+    <value column="Description" original="Product Cost Summary Report">Product Cost Summary Report</value>
+  </row>
+  <row id="542" trl="Y" eid="VIS_542">
+    <value column="Name" original="Product Cost Detail">产品成本明细</value>
+    <value column="Description" original="Product Invoice Cost Detail Report">Product Invoice Cost Detail Report</value>
+  </row>
+  <row id="543" trl="Y" eid="VIS_543">
+    <value column="Name" original="Order Detail">订单详细信息</value>
+    <value column="Description" original="Order Detail Report">Order Detail Report</value>
+  </row>
+  <row id="544" trl="Y" eid="VIS_544">
+    <value column="Name" original="Customer Details">客户详细信息</value>
+    <value column="Description" original="Customer Details Report">Customer Details Report</value>
+  </row>
+  <row id="545" trl="Y" eid="VIS_545">
+    <value column="Name" original="Attribute Set Instance">属性集实例</value>
+    <value column="Description" original="View Attribute Set Instance detail and use">View Attribute Set Instance detail and use</value>
+  </row>
+  <row id="546" trl="Y" eid="VIS_546">
+    <value column="Name" original="Create Costing Records">创建成本核算记录</value>
+    <value column="Description" original="Create Costing Records">Create Costing Records</value>
+  </row>
+  <row id="547" trl="Y" eid="VIS_547">
+    <value column="Name" original="Tax Declaration">纳税申报</value>
+    <value column="Description" original="Define the declaration to the tax authorities">Define the declaration to the tax authorities</value>
+  </row>
+  <row id="548" trl="N" eid="VIS_548">
+    <value column="Name" original="Reporting Hierarchy">Reporting Hierarchy</value>
+    <value column="Description" original="Define Reporting Hierarchy">Define Reporting Hierarchy</value>
+  </row>
+  <row id="549" trl="Y" eid="VIS_549">
+    <value column="Name" original="Create PO from Requisition">从创建采购订单申请</value>
+    <value column="Description" original="Create Purchase Orders from Requisitions">Create Purchase Orders from Requisitions</value>
+  </row>
+  <row id="550" trl="Y" eid="VIS_550">
+    <value column="Name" original="Budget Control">预算控制</value>
+    <value column="Description" original="Maintain Budget Controls">Maintain Budget Controls</value>
+  </row>
+  <row id="551" trl="Y" eid="VIS_551">
+    <value column="Name" original="GL Fund (Alpha)">GL基金（阿尔法）</value>
+    <value column="Description" original="Maintain Fund Controls">Maintain Fund Controls</value>
+  </row>
+  <row id="552" trl="Y" eid="VIS_552">
+    <value column="Name" original="System Issue Report">系统问题报告</value>
+    <value column="Description" original="Automatically created or manually entered System Issue Reports">Automatically created or manually entered System Issue Reports</value>
+  </row>
+  <row id="553" trl="Y" eid="VIS_553">
+    <value column="Name" original="Quarter Invoice Product">季发票产品</value>
+    <value column="Description" original="Invoice Report by Product per Quarter">Invoice Report by Product per Quarter</value>
+  </row>
+  <row id="554" trl="Y" eid="VIS_554">
+    <value column="Name" original="Monthly Invoice Product">每月发票产品</value>
+    <value column="Description" original="Invoice Report by Product per Month">Invoice Report by Product per Month</value>
+  </row>
+  <row id="555" trl="Y" eid="VIS_555">
+    <value column="Name" original="Performance Indicators">性能指标</value>
+    <value column="Description" original="View Performance Indicators">View Performance Indicators</value>
+  </row>
+  <row id="556" trl="Y" eid="VIS_556">
+    <value column="Name" original="Performance Color Schema">性能颜色模式</value>
+    <value column="Description" original="Maintain Performance Color Schema">Maintain Performance Color Schema</value>
+  </row>
+  <row id="557" trl="Y" eid="VIS_557">
+    <value column="Name" original="Performance Benchmark">业绩比较基准</value>
+    <value column="Description" original="Performance Benchmark">Performance Benchmark</value>
+  </row>
+  <row id="558" trl="Y" eid="VIS_558">
+    <value column="Name" original="Performance Ratio">性能比</value>
+    <value column="Description" original="Maintain Performance Ratios">Maintain Performance Ratios</value>
+  </row>
+  <row id="559" trl="Y" eid="VIS_559">
+    <value column="Name" original="Issue Recommendation">问题建议</value>
+    <value column="Description" original="Maintain Issue Recommendation">Maintain Issue Recommendation</value>
+  </row>
+  <row id="560" trl="Y" eid="VIS_560">
+    <value column="Name" original="Issue Status">问题状态</value>
+    <value column="Description" original="Maintain Issue Status">Maintain Issue Status</value>
+  </row>
+  <row id="561" trl="Y" eid="VIS_561">
+    <value column="Name" original="Known Issue">已知问题</value>
+    <value column="Description" original="Maintain Known Issue">Maintain Known Issue</value>
+  </row>
+  <row id="562" trl="Y" eid="VIS_562">
+    <value column="Name" original="Issue Project">发出工程</value>
+    <value column="Description" original="Maintain Issue Management Project Links">Maintain Issue Management Project Links</value>
+  </row>
+  <row id="563" trl="Y" eid="VIS_563">
+    <value column="Name" original="Issue User">发出用户</value>
+    <value column="Description" original="User who reported Issues">User who reported Issues</value>
+  </row>
+  <row id="564" trl="Y" eid="VIS_564">
+    <value column="Name" original="Issue System">发出系统</value>
+    <value column="Description" original="Maintain Systems">Maintain Systems</value>
+  </row>
+  <row id="565" trl="Y" eid="VIS_565">
+    <value column="Name" original="Product Attribute Grid">产品属性网格</value>
+    <value column="Description" original="Maintain Products with Attributes in a Table Grid">Maintain Products with Attributes in a Table Grid</value>
+  </row>
+  <row id="566" trl="Y" eid="VIS_566">
+    <value column="Name" original="Collaboration">合作</value>
+    <value column="Description" original="Collaboration and Content Management">Collaboration and Content Management</value>
+  </row>
+  <row id="570" trl="Y" eid="VIS_570">
+    <value column="Name" original="Template">模板</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="573" trl="Y" eid="VIS_573">
+    <value column="Name" original="Media Item">媒体项目</value>
+    <value column="Description" original="Maintain Web Media">Maintain Web Media</value>
+  </row>
+  <row id="574" trl="Y" eid="VIS_574">
+    <value column="Name" original="News Channel">新闻频道</value>
+    <value column="Description" original="Define News Channels, write and publish articles">Define News Channels, write and publish articles</value>
+  </row>
+  <row id="576" trl="Y" eid="VIS_576">
+    <value column="Name" original="Web Ad Management">网络广告管理</value>
+    <value column="Description" original="Content Management Ad Management defines the needed categories and items">Content Management Ad Management defines the needed categories and items</value>
+  </row>
+  <row id="578" trl="Y" eid="VIS_578">
+    <value column="Name" original="View Chat">查看聊天</value>
+    <value column="Description" original="View discussions / chats">View discussions / chats</value>
+  </row>
+  <row id="579" trl="Y" eid="VIS_579">
+    <value column="Name" original="Web Project">网络项目</value>
+    <value column="Description" original="Maintain Web Project (Content Management)">Maintain Web Project (Content Management)</value>
+  </row>
+  <row id="583" trl="Y" eid="VIS_583">
+    <value column="Name" original="Chat Type">聊天类型</value>
+    <value column="Description" original="Maintain Chat Types">Maintain Chat Types</value>
+  </row>
+  <row id="584" trl="Y" eid="VIS_584">
+    <value column="Name" original="Deploy Web Project">部署Web项目</value>
+    <value column="Description" original="Deploy Web Project">Deploy Web Project</value>
+  </row>
+  <row id="585" trl="Y" eid="VIS_585">
+    <value column="Name" original="Verify BOMs">验证材料明细表</value>
+    <value column="Description" original="Verify BOM Structures">Verify BOM Structures</value>
+  </row>
+  <row id="586" trl="Y" eid="VIS_586">
+    <value column="Name" original="Entity Type">实体类型</value>
+    <value column="Description" original="Maintain System Entity Type">Maintain System Entity Type</value>
+  </row>
+  <row id="587" trl="Y" eid="VIS_587">
+    <value column="Name" original="Web Access">Web访问</value>
+    <value column="Description" original="Maintain Web Access">Maintain Web Access</value>
+  </row>
+  <row id="588" trl="Y" eid="VIS_588">
+    <value column="Name" original="Web Broadcast Server">网络广播服务器</value>
+    <value column="Description" original="Maintain Web Broadcast Server">Maintain Web Broadcast Server</value>
+  </row>
+  <row id="589" trl="Y" eid="VIS_589">
+    <value column="Name" original="Info Window">信息窗口</value>
+    <value column="Description" original="Define Info and search/select Window">Define Info and search/select Window</value>
+  </row>
+  <row id="590" trl="Y" eid="VIS_590">
+    <value column="Name" original="Text Index">文本索引</value>
+    <value column="Description" original="Maintain Text Search Index">Maintain Text Search Index</value>
+  </row>
+  <row id="591" trl="Y" eid="VIS_591">
+    <value column="Name" original="Text Index Stop">文本索引停止</value>
+    <value column="Description" original="Maintain keywords not to be indexed">Maintain keywords not to be indexed</value>
+  </row>
+  <row id="592" trl="Y" eid="VIS_592">
+    <value column="Name" original="Text Search Log">文本搜索登录</value>
+    <value column="Description" original="View Text Search Log">View Text Search Log</value>
+  </row>
+  <row id="593" trl="Y" eid="VIS_593">
+    <value column="Name" original="Rebuild Index">重建索引</value>
+    <value column="Description" original="Rebuild CM Index">Rebuild CM Index</value>
+  </row>
+  <row id="594" trl="Y" eid="VIS_594">
+    <value column="Name" original="LDAP Server">LDAP服务器</value>
+    <value column="Description" original="LDAP Server to authenticate and authorize external systems based on Vienna Advantage">LDAP Server to authenticate and authorize external systems based on Vienna Advantage</value>
+  </row>
+  <row id="595" trl="Y" eid="VIS_595">
+    <value column="Name" original="Wiki Token">维基令牌</value>
+    <value column="Description" original="Maintain Wiki Tolens">Maintain Wiki Tolens</value>
+  </row>
+  <row id="597" trl="Y" eid="VIS_597">
+    <value column="Name" original="Clear Broadcast Caches">清除广播缓存</value>
+    <value column="Description" original="Reset the caches on all broadcast servers immediately">Reset the caches on all broadcast servers immediately</value>
+  </row>
+  <row id="598" trl="Y" eid="VIS_598">
+    <value column="Name" original="Business Partner Status">贸易伙伴状态</value>
+    <value column="Description" original="Maintain Business Partner Status">Maintain Business Partner Status</value>
+  </row>
+  <row id="599" trl="Y" eid="VIS_599">
+    <value column="Name" original="Business Partner Size">业务合作伙伴尺寸</value>
+    <value column="Description" original="Maintain Business Partner Sizes">Maintain Business Partner Sizes</value>
+  </row>
+  <row id="600" trl="Y" eid="VIS_600">
+    <value column="Name" original="Industry Code">行业代码</value>
+    <value column="Description" original="Maintain Accounts Industry Classification">Maintain Accounts Industry Classification</value>
+  </row>
+  <row id="601" trl="Y" eid="VIS_601">
+    <value column="Name" original="Lead Source">领导来源</value>
+    <value column="Description" original="Maintain Case/Lead Sources">Maintain Case/Lead Sources</value>
+  </row>
+  <row id="602" trl="Y" eid="VIS_602">
+    <value column="Name" original="Schedule">时间表</value>
+    <value column="Description" original="Maintain execution Schedule">Maintain execution Schedule</value>
+  </row>
+  <row id="604" trl="Y" eid="VIS_604">
+    <value column="Name" original="Lead">领导</value>
+    <value column="Description" original="Mange your Business Leads">Mange your Business Leads</value>
+  </row>
+  <row id="605" trl="Y" eid="VIS_605">
+    <value column="Name" original="Lead Qualification">领导资质</value>
+    <value column="Description" original="Maintain Lead Qualification">Maintain Lead Qualification</value>
+  </row>
+  <row id="606" trl="Y" eid="VIS_606">
+    <value column="Name" original="Context Area">上下文区域</value>
+    <value column="Description" original="Maintain Business Domain Area Terminology">Maintain Business Domain Area Terminology</value>
+  </row>
+  <row id="607" trl="Y" eid="VIS_607">
+    <value column="Name" original="Import Contact">导入联​​系人</value>
+    <value column="Description" original="Import Contact Information">Import Contact Information</value>
+  </row>
+  <row id="608" trl="Y" eid="VIS_608">
+    <value column="Name" original="Auto Assignment">自动分配</value>
+    <value column="Description" original="Maintain Automatic Assignment of values">Maintain Automatic Assignment of values</value>
+  </row>
+  <row id="609" trl="Y" eid="VIS_609">
+    <value column="Name" original="Leads Weekly">信息周刊</value>
+    <value column="Description" original="Leads by Week">Leads by Week</value>
+  </row>
+  <row id="610" trl="Y" eid="VIS_610">
+    <value column="Name" original="Leads Monthly">信息月报</value>
+    <value column="Description" original="Leads by Month">Leads by Month</value>
+  </row>
+  <row id="611" trl="Y" eid="VIS_611">
+    <value column="Name" original="Project Line Detail">项目行明细</value>
+    <value column="Description" original="Project Line Detail Report">Project Line Detail Report</value>
+  </row>
+  <row id="612" trl="Y" eid="VIS_612">
+    <value column="Name" original="Import Request">导入请求</value>
+    <value column="Description" original="Import Requests">Import Requests</value>
+  </row>
+  <row id="613" trl="Y" eid="VIS_613">
+    <value column="Name" original="Access Audit">访问审核</value>
+    <value column="Description" original="Audit of Access to data or resources">Audit of Access to data or resources</value>
+  </row>
+  <row id="614" trl="Y" eid="VIS_614">
+    <value column="Name" original="Import Views">导入浏览</value>
+    <value column="Description" original="Import view definition into VAdvantage AD from sql scripts">Import view definition into VAdvantage AD from sql scripts</value>
+  </row>
+  <row id="615" trl="Y" eid="VIS_615">
+    <value column="Name" original="Create View">创建视图</value>
+    <value column="Description" original="Create views in the database from the definitions in VAdvantage AD">Create views in the database from the definitions in VAdvantage AD</value>
+  </row>
+  <row id="616" trl="Y" eid="VIS_616">
+    <value column="Name" original="System Access Audit">系统访问审计</value>
+    <value column="Description" original="Consolidated Records of System Access">Consolidated Records of System Access</value>
+  </row>
+  <row id="617" trl="Y" eid="VIS_617">
+    <value column="Name" original="System Access Report">系统访问报告</value>
+    <value column="Description" original="Consolidated Report of System Access">Consolidated Report of System Access</value>
+  </row>
+  <row id="618" trl="Y" eid="VIS_618">
+    <value column="Name" original="Reset Your Password">重置您的密码</value>
+    <value column="Description" original="Reset your password">Reset your password</value>
+  </row>
+  <row id="619" trl="Y" eid="VIS_619">
+    <value column="Name" original="Receipts not matched">不匹配的收据</value>
+    <value column="Description" original="Material Receipts not matched to invoices">Material Receipts not matched to invoices</value>
+  </row>
+  <row id="621" trl="Y" eid="VIS_2000044">
+    <value column="Name" original="Returns">回报</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="622" trl="Y" eid="VIS_622">
+    <value column="Name" original="Return Policy">退货政策</value>
+    <value column="Description" original="The Return Policy dictates the timeframe within which goods can be returned">The Return Policy dictates the timeframe within which goods can be returned</value>
+  </row>
+  <row id="623" trl="Y" eid="VIS_623">
+    <value column="Name" original="Document Base Type">文档库类型</value>
+    <value column="Description" original="Maintain Accounting Document Base Types">Maintain Accounting Document Base Types</value>
+  </row>
+  <row id="624" trl="Y" eid="VIS_624">
+    <value column="Name" original="Customer RMA">客户RMA</value>
+    <value column="Description" original="Enter and maintain Customer Return Material Authorizations">Enter and maintain Customer Return Material Authorizations</value>
+  </row>
+  <row id="625" trl="Y" eid="VIS_625">
+    <value column="Name" original="Customer Return">客户退货</value>
+    <value column="Description" original="Customer Returns">Customer Returns</value>
+  </row>
+  <row id="626" trl="Y" eid="VIS_626">
+    <value column="Name" original="Vendor RMA">供应商RMA</value>
+    <value column="Description" original="Enter and change Vendor Return Material Authorizations">Enter and change Vendor Return Material Authorizations</value>
+  </row>
+  <row id="627" trl="Y" eid="VIS_627">
+    <value column="Name" original="Return to Vendor">返回到供应商</value>
+    <value column="Description" original="Return material to Vendor">Return material to Vendor</value>
+  </row>
+  <row id="628" trl="Y" eid="VIS_628">
+    <value column="Name" original="Business Partner SetUp">业务合作伙伴的SetUp</value>
+    <value column="Description" original="Business Partner SetUp">Business Partner SetUp</value>
+  </row>
+  <row id="629" trl="Y" eid="VIS_2000013">
+    <value column="Name" original="Cash Management">现金管理</value>
+    <value column="Description" original="Cash Management">Cash Management</value>
+  </row>
+  <row id="630" trl="Y" eid="VIS_630">
+    <value column="Name" original="Customer Payment">客户付款</value>
+    <value column="Description" original="Customer Payment">Customer Payment</value>
+  </row>
+  <row id="631" trl="Y" eid="VIS_2000010">
+    <value column="Name" original="Financial Management">财务管理</value>
+    <value column="Description" original="Financial Management">Financial Management</value>
+  </row>
+  <row id="632" trl="Y" eid="VIS_632">
+    <value column="Name" original="Financial Report SetUp">财务报告设置</value>
+    <value column="Description" original="Financial Report SetUp">Financial Report SetUp</value>
+  </row>
+  <row id="633" trl="Y" eid="VIS_2000006">
+    <value column="Name" original="Matching">匹配</value>
+    <value column="Description" original="Matching - PO - Receipt - Invoice">Matching - PO - Receipt - Invoice</value>
+  </row>
+  <row id="634" trl="Y" eid="VIS_634">
+    <value column="Name" original="Order Manangement">订单管理</value>
+    <value column="Description" original="Order Manangement">Order Manangement</value>
+  </row>
+  <row id="635" trl="Y" eid="VIS_635">
+    <value column="Name" original="Performance Analysis SetUp">性能分析设置</value>
+    <value column="Description" original="Performance Analysis SetUp">Performance Analysis SetUp</value>
+  </row>
+  <row id="636" trl="Y" eid="VIS_636">
+    <value column="Name" original="Price List SetUp">价格列表设置</value>
+    <value column="Description" original="Price List SetUp">Price List SetUp</value>
+  </row>
+  <row id="637" trl="Y" eid="VIS_637">
+    <value column="Name" original="Procurement">采购</value>
+    <value column="Description" original="Procurement">Procurement</value>
+  </row>
+  <row id="638" trl="Y" eid="VIS_638">
+    <value column="Name" original="Product SetUp">产品设置</value>
+    <value column="Description" original="Product SetUp">Product SetUp</value>
+  </row>
+  <row id="639" trl="Y" eid="VIS_639">
+    <value column="Name" original="Project SetUp">项目设置</value>
+    <value column="Description" original="Project SetUp">Project SetUp</value>
+  </row>
+  <row id="640" trl="Y" eid="VIS_640">
+    <value column="Name" original="Purchase Order">采购订单</value>
+    <value column="Description" original="Purchase Order">Purchase Order</value>
+  </row>
+  <row id="641" trl="Y" eid="VIS_2000003">
+    <value column="Name" original="RfQ">询价</value>
+    <value column="Description" original="Request for Quotation">Request for Quotation</value>
+  </row>
+  <row id="642" trl="Y" eid="VIS_642">
+    <value column="Name" original="Receipt">收据</value>
+    <value column="Description" original="Receipt">Receipt</value>
+  </row>
+  <row id="643" trl="Y" eid="VIS_643">
+    <value column="Name" original="Request SetUp">申请安装</value>
+    <value column="Description" original="Request SetUp">Request SetUp</value>
+  </row>
+  <row id="644" trl="Y" eid="VIS_644">
+    <value column="Name" original="Requisition">征用</value>
+    <value column="Description" original="Requisition">Requisition</value>
+  </row>
+  <row id="645" trl="Y" eid="VIS_645">
+    <value column="Name" original="Sales &amp; Marketing SetUp">销售和市场营销的SetUp</value>
+    <value column="Description" original="Sales &amp; Marketing SetUp">Sales &amp; Marketing SetUp</value>
+  </row>
+  <row id="646" trl="Y" eid="VIS_646">
+    <value column="Name" original="Sales SetUp">销售的SetUp</value>
+    <value column="Description" original="Sales SetUp">Sales SetUp</value>
+  </row>
+  <row id="647" trl="Y" eid="VIS_647">
+    <value column="Name" original="Time and Expense">时间和费用</value>
+    <value column="Description" original="Time and Expense">Time and Expense</value>
+  </row>
+  <row id="648" trl="Y" eid="VIS_648">
+    <value column="Name" original="Time &amp; Expense SetUp">时间和费用的SetUp</value>
+    <value column="Description" original="Time &amp; Expense SetUp">Time &amp; Expense SetUp</value>
+  </row>
+  <row id="649" trl="Y" eid="VIS_649">
+    <value column="Name" original="Vendor Invoice">供应商发票</value>
+    <value column="Description" original="Vendor Invoice">Vendor Invoice</value>
+  </row>
+  <row id="650" trl="Y" eid="VIS_650">
+    <value column="Name" original="Vendor Payment">供应商付款</value>
+    <value column="Description" original="Vendor Payment">Vendor Payment</value>
+  </row>
+  <row id="653" trl="Y" eid="VIS_2000064">
+    <value column="Name" original="Merge Entities">合并实体</value>
+    <value column="Description" original="Merge Entities Process">Merge Entities Process</value>
+  </row>
+  <row id="654" trl="Y" eid="VIS_654">
+    <value column="Name" original="Merge Product">合并产品</value>
+    <value column="Description" original="Merge From Product with To Product - Delete From Product.">Merge From Product with To Product - Delete From Product.</value>
+  </row>
+  <row id="655" trl="Y" eid="VIS_655">
+    <value column="Name" original="Merge User">合并用户</value>
+    <value column="Description" original="Merge From User with To User - Delete From User">Merge From User with To User - Delete From User</value>
+  </row>
+  <row id="656" trl="Y" eid="VIS_656">
+    <value column="Name" original="Merge Organization">合并组织</value>
+    <value column="Description" original="Merge From Organization with To Organization - Delete From Organization">Merge From Organization with To Organization - Delete From Organization</value>
+  </row>
+  <row id="657" trl="Y" eid="VIS_657">
+    <value column="Name" original="Merge Business Partner">合并业务合作伙伴</value>
+    <value column="Description" original="Merge From Business Partner with To Business Partner - Delete From Business Partner">Merge From Business Partner with To Business Partner - Delete From Business Partner</value>
+  </row>
+  <row id="1000000" trl="Y" eid="VIS_1000000">
+    <value column="Name" original="Top Menu">主菜单</value>
+    <value column="Description" original="Maintain Top Menu">Maintain Top Menu</value>
+  </row>
+  <row id="1000001" trl="Y" eid="VIS_1000001">
+    <value column="Name" original="Mail Configuration">邮件配置</value>
+    <value column="Description" original="Maintain Mail Configuration">Maintain Mail Configuration</value>
+  </row>
+  <row id="1000007" trl="Y" eid="VIS_1000007">
+    <value column="Name" original="Position Category">位置范畴</value>
+    <value column="Description" original="Maintain Job Position Categories">Maintain Job Position Categories</value>
+  </row>
+  <row id="1000018" trl="Y" eid="VIS_1000018">
+    <value column="Name" original="Dashboard Chart">仪表盘</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000025" trl="Y" eid="VIS_1000025">
+    <value column="Name" original="Line of Business">业务线</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000125" trl="Y" eid="VIS_1000125">
+    <value column="Name" original="SMS Configuration">短信配置</value>
+    <value column="Description" original="Maintain SMS Configuration">Maintain SMS Configuration</value>
+  </row>
+  <row id="1000126" trl="Y" eid="VIS_1000126">
+    <value column="Name" original="Commodity">商品</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000127" trl="Y" eid="VIS_1000127">
+    <value column="Name" original="Crystal Report Binding">水晶报表绑定</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000141" trl="Y" eid="VIS_1000141">
+    <value column="Name" original="Balance Aggregation">平衡聚合</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000150" trl="Y" eid="VIS_1000150">
+    <value column="Name" original="Import COA">进口COA</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000151" trl="Y" eid="VIS_1000151">
+    <value column="Name" original="Update  Product  Webstore  Tab">更新产品网上应用店标签</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000152" trl="Y" eid="VIS_1000152">
+    <value column="Name" original="Call Create Update Product WebServices">调用Create更新产品的WebServices</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000153" trl="Y" eid="VIS_1000153">
+    <value column="Name" original="Update Status Price At Webstore">更新状态价格在网上应用店</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000158" trl="Y" eid="VIS_1000158">
+    <value column="Name" original="Info">信息</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000159" trl="Y" eid="VIS_1000159">
+    <value column="Name" original="Business Partner Report">业务合作伙伴报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000172" trl="Y" eid="VIS_1000172">
+    <value column="Name" original="Web Store">网上商店</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000185" trl="Y" eid="VIS_1000185">
+    <value column="Name" original="Rectify Posted Records">整顿发布记录</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000186" trl="Y" eid="VIS_1000186">
+    <value column="Name" original="Sales Report">销售报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000188" trl="Y" eid="VIS_1000188">
+    <value column="Name" original="RollUpStandardCost">RollUpStandardCost</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000192" trl="Y" eid="VIS_1000192">
+    <value column="Name" original="Payables Reports">应付款报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000197" trl="Y" eid="VIS_1000197">
+    <value column="Name" original="SODeletion">SODeletion</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000199" trl="Y" eid="VIS_1000199">
+    <value column="Name" original="Opportunity">机会</value>
+    <value column="Description" original="Manage your Business Oppotunities">Manage your Business Oppotunities</value>
+  </row>
+  <row id="1000200" trl="Y" eid="VIS_1000200">
+    <value column="Name" original="Sales Quotation">销售报价</value>
+    <value column="Description" original="Enter and change Sales Quotation">Enter and change Sales Quotation</value>
+  </row>
+  <row id="1000201" trl="Y" eid="VIS_1000201">
+    <value column="Name" original="Prospects">前途</value>
+    <value column="Description" original="Manage your Prospects">Manage your Prospects</value>
+  </row>
+  <row id="1000203" trl="Y" eid="VIS_1000203">
+    <value column="Name" original="Catagory">类别</value>
+    <value column="Description" original="Save new activity catagery">Save new activity catagery</value>
+  </row>
+  <row id="1000204" trl="Y" eid="VIS_1000204">
+    <value column="Name" original="Appointment Category">约会类别</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000205" trl="Y" eid="VIS_1000205">
+    <value column="Name" original="Master Forecast">主预测</value>
+    <value column="Description" original="Maintain Master Forecast">Maintain Master Forecast</value>
+  </row>
+  <row id="1000206" trl="Y" eid="VIS_1000206">
+    <value column="Name" original="Team Forecast">团队预测</value>
+    <value column="Description" original="Maintain Team Forecast">Maintain Team Forecast</value>
+  </row>
+  <row id="1000207" trl="Y" eid="VIS_1000207">
+    <value column="Name" original="Invitation Template">邀请函模板</value>
+    <value column="Description" original="Maintain Invitation Template for Invitee Response">Maintain Invitation Template for Invitee Response</value>
+  </row>
+  <row id="1000208" trl="Y" eid="VIS_1000208">
+    <value column="Name" original="Campaign Target List">活动目标列表</value>
+    <value column="Description" original="Maintain Campaign Target List">Maintain Campaign Target List</value>
+  </row>
+  <row id="1000209" trl="Y" eid="VIS_1000209">
+    <value column="Name" original="Vendor Master">供应商主档案</value>
+    <value column="Description" original="Maintain Vendor Partners">Maintain Vendor Partners</value>
+  </row>
+  <row id="1000210" trl="Y" eid="VIS_1000210">
+    <value column="Name" original="Employee Master">员工主</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000211" trl="Y" eid="VIS_1000211">
+    <value column="Name" original="Billing Frequency">开票频率</value>
+    <value column="Description" original="Maintain Billing Frequency">Maintain Billing Frequency</value>
+  </row>
+  <row id="1000213" trl="Y" eid="VIS_1000213">
+    <value column="Name" original="Service Contract">服务合同</value>
+    <value column="Description" original="Enter and Change Service Contract">Enter and Change Service Contract</value>
+  </row>
+  <row id="1000214" trl="Y" eid="VIS_1000214">
+    <value column="Name" original="Contract Invoice">合同发票</value>
+    <value column="Description" original="Contract Invoice process is used to generate Invoice against Service Contract">Contract Invoice process is used to generate Invoice against Service Contract</value>
+  </row>
+  <row id="1000215" trl="Y" eid="VIS_1000215">
+    <value column="Name" original="Campaign Type">计划类型</value>
+    <value column="Description" original="Maintain Campaign Type and Phase">Maintain Campaign Type and Phase</value>
+  </row>
+  <row id="1000216" trl="Y" eid="VIS_1000216">
+    <value column="Name" original="Transfer OwnerShip">所有权转让</value>
+    <value column="Description" original="Transfer OwnerShip">Transfer OwnerShip</value>
+  </row>
+  <row id="1000217" trl="Y" eid="VIS_1000217">
+    <value column="Name" original="Renew Contract">续订合同</value>
+    <value column="Description" original="Renew Contract process is used to renew the contract as per renewal settings done on a particular Service Contract">Renew Contract process is used to renew the contract as per renewal settings done on a particular Service Contract</value>
+  </row>
+  <row id="1000218" trl="Y" eid="VIS_1000218">
+    <value column="Name" original="Analytics Manager">分析经理</value>
+    <value column="Description" original="Maintain Analytics Manager">Maintain Analytics Manager</value>
+  </row>
+  <row id="1000219" trl="Y" eid="VIS_1000219">
+    <value column="Name" original="Beta">Beta版</value>
+    <value column="Description" original="Beta">Beta</value>
+  </row>
+  <row id="1000220" trl="Y" eid="VIS_1000220">
+    <value column="Name" original="Empty folder">空文件夹</value>
+    <value column="Description" original="Empty Folder">Empty Folder</value>
+  </row>
+  <row id="1000221" trl="Y" eid="VIS_1000221">
+    <value column="Name" original="Customer">顾客</value>
+    <value column="Description" original="Customer">Customer</value>
+  </row>
+  <row id="1000222" trl="Y" eid="VIS_1000222">
+    <value column="Name" original="Invoices">发票</value>
+    <value column="Description" original="Invoices">Invoices</value>
+  </row>
+  <row id="1000223" trl="Y" eid="VIS_2000036">
+    <value column="Name" original="Marketing">市场营销</value>
+    <value column="Description" original="Marketing">Marketing</value>
+  </row>
+  <row id="1000224" trl="Y" eid="VIS_1000224">
+    <value column="Name" original="Products">制品</value>
+    <value column="Description" original="Products">Products</value>
+  </row>
+  <row id="1000225" trl="Y" eid="VIS_2000075">
+    <value column="Name" original="Sales Planning">销售计划</value>
+    <value column="Description" original="Sales Planning">Sales Planning</value>
+  </row>
+  <row id="1000226" trl="Y" eid="VIS_1000226">
+    <value column="Name" original="Cases">例</value>
+    <value column="Description" original="Cases">Cases</value>
+  </row>
+  <row id="1000227" trl="Y" eid="VIS_1000227">
+    <value column="Name" original="Reporting">报告</value>
+    <value column="Description" original="Reporting">Reporting</value>
+  </row>
+  <row id="1000228" trl="Y" eid="VIS_2000034">
+    <value column="Name" original="Utilities">公用事业</value>
+    <value column="Description" original="Utilities">Utilities</value>
+  </row>
+  <row id="1000229" trl="Y" eid="VIS_1000229">
+    <value column="Name" original="Settings">设置</value>
+    <value column="Description" original="Settings">Settings</value>
+  </row>
+  <row id="1000230" trl="Y" eid="VIS_1000230">
+    <value column="Name" original="Lead Details">铅详情</value>
+    <value column="Description" original="Lead details report gives you the data associated with leads">Lead details report gives you the data associated with leads</value>
+  </row>
+  <row id="1000231" trl="Y" eid="VIS_1000231">
+    <value column="Name" original="Product Details">产品详情</value>
+    <value column="Description" original="Product Details">Product Details</value>
+  </row>
+  <row id="1000232" trl="Y" eid="VIS_1000232">
+    <value column="Name" original="Opportunity Details">详情机会</value>
+    <value column="Description" original="Opportunity Details">Opportunity Details</value>
+  </row>
+  <row id="1000233" trl="Y" eid="VIS_1000233">
+    <value column="Name" original="Sales By Product">市场产品</value>
+    <value column="Description" original="Sales By Product">Sales By Product</value>
+  </row>
+  <row id="1000235" trl="Y" eid="VIS_1000235">
+    <value column="Name" original="Quotation Details">详细报价</value>
+    <value column="Description" original="Quotation Details">Quotation Details</value>
+  </row>
+  <row id="1000236" trl="Y" eid="VIS_1000236">
+    <value column="Name" original="Open Quotations">打开语录</value>
+    <value column="Description" original="Open Quotations">Open Quotations</value>
+  </row>
+  <row id="1000237" trl="Y" eid="VIS_1000237">
+    <value column="Name" original="Team Forecast Report">团队预测报告</value>
+    <value column="Description" original="Team Forecast">Team Forecast</value>
+  </row>
+  <row id="1000238" trl="Y" eid="VIS_1000238">
+    <value column="Name" original="Service Contract Details">服务合同细节</value>
+    <value column="Description" original="Service Contract Details">Service Contract Details</value>
+  </row>
+  <row id="1000239" trl="Y" eid="VIS_1000239">
+    <value column="Name" original="Sales By Customers">销售客户</value>
+    <value column="Description" original="Sales By Customers">Sales By Customers</value>
+  </row>
+  <row id="1000240" trl="Y" eid="VIS_1000240">
+    <value column="Name" original="Open Orders Report">打开订单报告</value>
+    <value column="Description" original="Open Orders Report">Open Orders Report</value>
+  </row>
+  <row id="1000241" trl="Y" eid="VIS_1000241">
+    <value column="Name" original="Master Forecast">预测大师</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000242" trl="Y" eid="VIS_1000242">
+    <value column="Name" original="Marketing Campaign Report">营销活动报告</value>
+    <value column="Description" original="Marketing Campaign">Marketing Campaign</value>
+  </row>
+  <row id="1000243" trl="Y" eid="VIS_1000243">
+    <value column="Name" original="Converted Opportunities">转换后的机会</value>
+    <value column="Description" original="Opportunities converted to Quotation/Order">Opportunities converted to Quotation/Order</value>
+  </row>
+  <row id="1000244" trl="Y" eid="VIS_1000244">
+    <value column="Name" original="Prospect Details">详细前瞻</value>
+    <value column="Description" original="Prospect Details">Prospect Details</value>
+  </row>
+  <row id="1000245" trl="Y" eid="VIS_1000245">
+    <value column="Name" original="Customer Details">客户详细信息</value>
+    <value column="Description" original="Customer Details Report">Customer Details Report</value>
+  </row>
+  <row id="1000246" trl="Y" eid="VIS_1000246">
+    <value column="Name" original="Sales Order Detail">销售订单详细信息</value>
+    <value column="Description" original="Sales Order Detail">Sales Order Detail</value>
+  </row>
+  <row id="1000247" trl="Y" eid="VIS_1000247">
+    <value column="Name" original="Master Forecast Report">大师预测报告</value>
+    <value column="Description" original="Master Forecast">Master Forecast</value>
+  </row>
+  <row id="1000249" trl="Y" eid="VIS_1000249">
+    <value column="Name" original="VServer">Vserver</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000250" trl="Y" eid="VIS_1000250">
+    <value column="Name" original="Analytics">分析</value>
+    <value column="Description" original="Analytics">Analytics</value>
+  </row>
+  <row id="1000251" trl="Y" eid="VIS_1000251">
+    <value column="Name" original="Chart Pane">图表窗格</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000252" trl="Y" eid="VIS_1000252">
+    <value column="Name" original="Dashboard KPI">仪表板KPI</value>
+    <value column="Description" original="KPI">
+    </value>
+  </row>
+  <row id="1000253" trl="Y" eid="VIS_1000253">
+    <value column="Name" original="KPI Pane">KPI窗格</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000254" trl="Y" eid="VIS_1000254">
+    <value column="Name" original="Dashboard View">视图</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000255" trl="Y" eid="VIS_1000255">
+    <value column="Name" original="Interest Area Details">兴趣范围信息</value>
+    <value column="Description" original="Interest Area Details">Interest Area Details</value>
+  </row>
+  <row id="1000256" trl="Y" eid="VIS_1000256">
+    <value column="Name" original="Text Template">文本模板</value>
+    <value column="Description" original="Text Template">Text Template</value>
+  </row>
+  <row id="1000257" trl="Y" eid="VIS_1000257">
+    <value column="Name" original="Team Forecast Report">团队预测报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000258" trl="Y" eid="VIS_1000258">
+    <value column="Name" original="Campaign Summary">广告系列摘要</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000259" trl="Y" eid="VIS_1000259">
+    <value column="Name" original="Closed Request">封闭的请求</value>
+    <value column="Description" original="All Closed Request">All Closed Request</value>
+  </row>
+  <row id="1000260" trl="Y" eid="VIS_1000260">
+    <value column="Name" original="Initial Configuration">初始配置</value>
+    <value column="Description" original="Initial Configuration">Initial Configuration</value>
+  </row>
+  <row id="1000263" trl="Y" eid="VIS_2000076">
+    <value column="Name" original="Sales Reports">销售报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000265" trl="Y" eid="VIS_1000265">
+    <value column="Name" original="Service Contract">服务合同</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000267" trl="Y" eid="VIS_1000267">
+    <value column="Name" original="Create Appointment">创建约会</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000268" trl="Y" eid="VIS_1000268">
+    <value column="Name" original="Send SMS">发送短信</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000269" trl="Y" eid="VIS_1000269">
+    <value column="Name" original="Generate Payment">生成支付</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000272" trl="Y" eid="VIS_2000060">
+    <value column="Name" original="Module Management">模块管理</value>
+    <value column="Description" original="Wndow is use to Manage your module.">Wndow is use to Manage your module.</value>
+  </row>
+  <row id="1000274" trl="Y" eid="VIS_1000274">
+    <value column="Name" original="Role Favorites">角色最爱</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000278" trl="Y" eid="VIS_1000278">
+    <value column="Name" original="Shortcut">捷径</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000279" trl="Y" eid="VIS_1000279">
+    <value column="Name" original="Design">设计</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000281" trl="Y" eid="VIS_1000281">
+    <value column="Name" original="Account Group">账户组</value>
+    <value column="Description" original="Account Group">Account Group</value>
+  </row>
+  <row id="1000282" trl="Y" eid="VIS_1000282">
+    <value column="Name" original="Import COA Temp">进口COA温度</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000285" trl="Y" eid="VIS_1000285">
+    <value column="Name" original="Module Category">模块类别</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000294" trl="Y" eid="VIS_1000294">
+    <value column="Name" original="Generate Module Data XML">生成模块XML数据</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000295" trl="Y" eid="WSP_634872632436756476">
+    <value column="Name" original="Workspace">WSP_Workspace</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000296" trl="Y" eid="WSP_634875337055235977">
+    <value column="Name" original="Gmail Configuration">WSP_GmailConfiguration</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000297" trl="Y" eid="WSP_634875336957447339">
+    <value column="Name" original="My Contact">WSP_MyContact</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000298" trl="N" eid="WSP_634875336713050789">
+    <value column="Name" original="Workspace Setting">WSP_WorkspaceSettings</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000300" trl="Y" eid="VIS_634928742563982394">
+    <value column="Name" original="System Translation Check Temp">系统翻译检查温度</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000301" trl="Y" eid="VIS_634928742918421492">
+    <value column="Name" original="Copy Translation Entries">复制翻译条目</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000302" trl="Y" eid="VIS_635308298331758387">
+    <value column="Name" original="GL Journal Form">GL杂志形式</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000303" trl="Y" eid="VIS_635133705017332975">
+    <value column="Name" original="Report Format">报告格式</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000304" trl="Y" eid="VIS_635249319449637848">
+    <value column="Name" original="General Attribute Search">一般属性搜索</value>
+    <value column="Description" original="General Attribute Search">General Attribute Search</value>
+  </row>
+  <row id="1000305" trl="Y" eid="VIS_635249322123407848">
+    <value column="Name" original="General Attribute Set">一般属性集</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000306" trl="Y" eid="VIS_635187290620795231">
+    <value column="Name" original="Server Settings">ServerSettings</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000307" trl="Y" eid="VIS_635249316971797848">
+    <value column="Name" original="General Attribute">一般属性</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000308" trl="Y" eid="VIS_635277252104789439">
+    <value column="Name" original="Team">团队</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000309" trl="Y" eid="VIS_635322132383671007">
+    <value column="Name" original="General Attribute Set Instance">一般属性集实例</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000310" trl="Y" eid="VIS_635243541580237660">
+    <value column="Name" original="Trial Balance Summary">试用余额汇总</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000311" trl="Y" eid="VIS_635243540774317713">
+    <value column="Name" original="Ledger Summary-Actual">总帐总结，实际</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000312" trl="Y" eid="VIS_635243541299997709">
+    <value column="Name" original="Ledger Summary-Budget Based">总帐总结，基于财政预算案</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000313" trl="Y" eid="VIS_635243542013297655">
+    <value column="Name" original="Detailed Trial Balance">详细的试算表</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000314" trl="Y" eid="VIS_635248757357498673">
+    <value column="Name" original="Balance Sheet">资产负债表</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000315" trl="Y" eid="VIS_635248757895602462">
+    <value column="Name" original="Profit &amp; Loss Account">损益表</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000316" trl="Y" eid="VIS_2000059">
+    <value column="Name" original="Reporting Management">报告管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000317" trl="Y" eid="VIS_2000026">
+    <value column="Name" original="System Administration">系统管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000318" trl="Y" eid="VIS_2000079">
+    <value column="Name" original="Language Management">语言管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000319" trl="Y" eid="VIS_2000027">
+    <value column="Name" original="Rights Management">权限管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000320" trl="Y" eid="VIS_2000033">
+    <value column="Name" original="System Data">系统数据</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000321" trl="Y" eid="VIS_2000062">
+    <value column="Name" original="Company and Global Settings">公司与全局设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000322" trl="Y" eid="VIS_2000063">
+    <value column="Name" original="Company Structure">公司结构</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000323" trl="Y" eid="VIS_635684074847222596">
+    <value column="Name" original="Rights Configurator">版权配置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000324" trl="N" eid="VIS_2000030">
+    <value column="Name" original="Printing">Printing</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000325" trl="Y" eid="VIS_635684054436960095">
+    <value column="Name" original="Group Rights">组权限</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000326" trl="Y" eid="VIS_2000068">
+    <value column="Name" original="Product Management">产品管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000327" trl="Y" eid="VIS_2000029">
+    <value column="Name" original="Server Management">服务器管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000328" trl="Y" eid="VIS_2000015">
+    <value column="Name" original="Accounting Structure">会计结构</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000329" trl="Y" eid="VIS_2000016">
+    <value column="Name" original="Tax Management">税务管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000330" trl="Y" eid="VIS_2000012">
+    <value column="Name" original="Financial Report Setup">财务报告设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000331" trl="Y" eid="VIS_2000039">
+    <value column="Name" original="Partner Relationship Management">合作伙伴关系管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000332" trl="Y" eid="VIS_2000040">
+    <value column="Name" original="Business Partner Centre">业务合作伙伴中心</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000333" trl="Y" eid="VIS_2000065">
+    <value column="Name" original="Global Setting">全局设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000334" trl="Y" eid="VIS_635634667107405152">
+    <value column="Name" original="Financial Report Configuration">财务报告配置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000335" trl="Y" eid="VIS_635658979603427280">
+    <value column="Name" original="Product Tree">ProductTree</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000336" trl="Y" eid="VIS_1000300">
+    <value column="Name" original="Profit Dimension">利润维度</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000337" trl="Y" eid="VIS_1000305">
+    <value column="Name" original="Profit &amp; Loss Closing">盈亏结算</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000338" trl="N" eid="VIS_1000303">
+    <value column="Name" original="Income Tax">所得税</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000339" trl="Y" eid="VIS_1000304">
+    <value column="Name" original="Income Tax Rate">所得税率</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000340" trl="Y" eid="VIS_635633951443510265">
+    <value column="Name" original="Customer Master">客户主</value>
+    <value column="Description" original="Maintain Customer">Maintain Customer</value>
+  </row>
+  <row id="1000341" trl="Y" eid="VIS_635678947908289515">
+    <value column="Name" original="Currency Source">货币来源</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000342" trl="Y" eid="VIS_1000306">
+    <value column="Name" original="Trial Balance Summary">试用余额汇总</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000343" trl="Y" eid="VIS_2000046">
+    <value column="Name" original="Materials Management">物料管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000344" trl="Y" eid="VIS_2000000">
+    <value column="Name" original="Storage Setup">存储设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000345" trl="Y" eid="VIS_2000001">
+    <value column="Name" original="MM Reports">MM报表</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000346" trl="Y" eid="VIS_2000002">
+    <value column="Name" original="Purchase">购买</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000347" trl="Y" eid="VIS_2000004">
+    <value column="Name" original="RfQ Reports">询价报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000348" trl="Y" eid="VIS_2000007">
+    <value column="Name" original="Vendor Return">供应商返回</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000349" trl="Y" eid="VIS_2000008">
+    <value column="Name" original="Time and Expense Management">时间和费用管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000350" trl="Y" eid="VIS_2000009">
+    <value column="Name" original="Time &amp; Expense Setup">时间和费用设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000351" trl="Y" eid="VIS_2000014">
+    <value column="Name" original="Cash Management Reports">现金管理报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000352" trl="Y" eid="VIS_2000017">
+    <value column="Name" original="Tax Reports">税务报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000353" trl="Y" eid="VIS_2000018">
+    <value column="Name" original="Accounts Receivables">应收账款</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000354" trl="Y" eid="VIS_2000019">
+    <value column="Name" original="Accounts Receivables Reports">应收账款报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000355" trl="Y" eid="VIS_2000020">
+    <value column="Name" original="Accounts Payables">应付账款</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000356" trl="Y" eid="VIS_2000021">
+    <value column="Name" original="Bank Management">银行管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000357" trl="Y" eid="VIS_2000022">
+    <value column="Name" original="GL Posting">总帐发​​布</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000358" trl="Y" eid="VIS_2000023">
+    <value column="Name" original="Asset Management">资产管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000359" trl="Y" eid="VIS_2000024">
+    <value column="Name" original="Asset Setup">资产设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000360" trl="Y" eid="VIS_2000025">
+    <value column="Name" original="Asset Reports">资产报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000361" trl="Y" eid="VIS_2000028">
+    <value column="Name" original="Workflow Management">工作流管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000362" trl="Y" eid="VIS_2000031">
+    <value column="Name" original="Security &amp; Audits">安全与审计</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000363" trl="Y" eid="VIS_2000032">
+    <value column="Name" original="System Configuration">系统配置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000364" trl="Y" eid="VIS_2000082">
+    <value column="Name" original="Accounts Payable Reports">应付帐款报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000365" trl="Y" eid="VIS_2000035">
+    <value column="Name" original="Product Reports">产品报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000366" trl="Y" eid="VIS_2000037">
+    <value column="Name" original="Marketing Setup">市场设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000367" trl="Y" eid="VIS_2000038">
+    <value column="Name" original="Marketing Reports">市场报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000368" trl="Y" eid="VIS_2000074">
+    <value column="Name" original="Sales Management">销售管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000369" trl="Y" eid="VIS_2000041">
+    <value column="Name" original="Commission Management">管理委员会</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000370" trl="Y" eid="VIS_2000042">
+    <value column="Name" original="Sales Setup">销售安装</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000371" trl="Y" eid="VIS_2000043">
+    <value column="Name" original="Order Management">订单管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000372" trl="Y" eid="VIS_2000045">
+    <value column="Name" original="OM Reports">OM报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000373" trl="Y" eid="VIS_2000047">
+    <value column="Name" original="Order Fulfillment">订单履行</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000374" trl="Y" eid="VIS_2000048">
+    <value column="Name" original="Replenishment">补货</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000375" trl="Y" eid="VIS_2000049">
+    <value column="Name" original="Storage Operations">存储业务</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000376" trl="Y" eid="VIS_2000050">
+    <value column="Name" original="Budget and Controlling">预算与控制</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000377" trl="Y" eid="VIS_2000051">
+    <value column="Name" original="Budget">预算</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000378" trl="Y" eid="VIS_2000053">
+    <value column="Name" original="Costing Reports">成本核算报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000379" trl="Y" eid="VIS_2000054">
+    <value column="Name" original="Request Management">请求管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000380" trl="Y" eid="VIS_2000055">
+    <value column="Name" original="Request Setup">申请安装</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000381" trl="Y" eid="VIS_2000057">
+    <value column="Name" original="Project Setup">项目设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000382" trl="Y" eid="VIS_2000058">
+    <value column="Name" original="Project Reports">项目报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000383" trl="Y" eid="VIS_2000066">
+    <value column="Name" original="Transactional Documents Setting">交易文件设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000384" trl="Y" eid="VIS_2000067">
+    <value column="Name" original="Utilities Setup">实用程序设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000385" trl="Y" eid="VIS_2000069">
+    <value column="Name" original="Pricing and Discounts">定价和折扣</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000386" trl="Y" eid="VIS_2000070">
+    <value column="Name" original="Product Setup">产品设置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000387" trl="Y" eid="VIS_2000071">
+    <value column="Name" original="PRM Setup">PRM安装</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000388" trl="Y" eid="VIS_2000072">
+    <value column="Name" original="Terms and Conditions">条款和条件</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000389" trl="Y" eid="VIS_2000073">
+    <value column="Name" original="PRM Reports">PRM报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000390" trl="Y" eid="VIS_205">
+    <value column="Name" original="Purchase Order">采购订单</value>
+    <value column="Description" original="Manage Purchase Orders">Manage Purchase Orders</value>
+  </row>
+  <row id="1000391" trl="Y" eid="VIS_635634027776794075">
+    <value column="Name" original="Owner Info">业主资料</value>
+    <value column="Description" original="Company Agent (Sales Rep) Information">Company Agent (Sales Rep) Information</value>
+  </row>
+  <row id="1000392" trl="Y" eid="VIS_635634836196666513">
+    <value column="Name" original="User Substitute">用户替代</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000393" trl="Y" eid="VIS_1000272">
+    <value column="Name" original="Module Management">模块管理</value>
+    <value column="Description" original="Wndow is use to Manage your module.">Wndow is use to Manage your module.</value>
+  </row>
+  <row id="1000394" trl="Y" eid="VIS_1000310">
+    <value column="Name" original="Stock Detail">库存详细</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000395" trl="Y" eid="VIS_635633960306012096">
+    <value column="Name" original="Send Mass Email">发送群发电子邮件</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000396" trl="Y" eid="VIS_635658999661026925">
+    <value column="Name" original="Open Items">未清项目</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000397" trl="Y" eid="VIS_635659000207770610">
+    <value column="Name" original="Business Partner Open">业务合作伙伴开放</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000398" trl="Y" eid="WSP_635494978849785648">
+    <value column="Name" original="Contact">WSP_Contact</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000399" trl="N" eid="VARPT_20000018">
+    <value column="Name" original="VA Reports">VA Reports</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000400" trl="N" eid="VARPT_20000018">
+    <value column="Name" original="VA Reports">VA Reports</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000401" trl="Y" eid="VARPT_20000019">
+    <value column="Name" original="Material Managment">物料管理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000402" trl="Y" eid="VARPT_635484344381372130">
+    <value column="Name" original="Accounts Payables/Receivable Report">应付/应收账款报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000403" trl="Y" eid="VARPT_635605329313662142">
+    <value column="Name" original="Campaign Summary Report">活动总结报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000404" trl="Y" eid="VARPT_635342802855401165">
+    <value column="Name" original="Stock Detail">库存详细</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000405" trl="Y" eid="VARPT_635521500918165058">
+    <value column="Name" original="Cash Journal Consolidate Report">现金日记账汇总报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000406" trl="Y" eid="VARPT_635484469654045531">
+    <value column="Name" original="Payment Report">付款报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000407" trl="Y" eid="VARPT_635503673117089171">
+    <value column="Name" original="Budget Vs Actual">预算与实际对比</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000408" trl="Y" eid="VARPT_635518941726298610">
+    <value column="Name" original="Balance Sheet Temp">资产负债表</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000409" trl="Y" eid="VARPT_635629639953299776">
+    <value column="Name" original="Open Transaction Report">未清交易报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000410" trl="Y" eid="VADB_635491544390148580">
+    <value column="Name" original="Business Activity">VADB_BusinessActivity</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000411" trl="N" eid="DTD001_20000030">
+    <value column="Name" original="Transaction Windows">交易窗口</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000412" trl="N" eid="DTD001_20000031">
+    <value column="Name" original="Reports">报表</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000413" trl="N" eid="DTD001_20000032">
+    <value column="Name" original="Material Management">Material Management</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000414" trl="N" eid="DTD001_20000032">
+    <value column="Name" original="Material Management">Material Management</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000415" trl="N" eid="DTD001_20000033">
+    <value column="Name" original="Master Windows">Master Windows</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000416" trl="Y" eid="DTD001_635490531324218842">
+    <value column="Name" original="Material Issue Form">DTD001_MaterialIssueForm</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000417" trl="Y" eid="DTD001_635639911677118058">
+    <value column="Name" original="Product Sticker">DTD001_ProductSticker</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000418" trl="Y" eid="DTD001_635490539785384415">
+    <value column="Name" original="Create PO Against Open Requisitions">创建采购订单对开放申请</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000419" trl="Y" eid="DTD001_635491287346941102">
+    <value column="Name" original="Inventory Movement">库存移动</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000420" trl="Y" eid="DTD001_635491303335738116">
+    <value column="Name" original="Generate PO from Requisition">从生成采购订单申请</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000421" trl="Y" eid="DTD001_635491421813481598">
+    <value column="Name" original="Generate Requisition Process">生成申请流程</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000422" trl="Y" eid="DTD001_635502720993337612">
+    <value column="Name" original="Open Requisitions Report">未清申请报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000423" trl="Y" eid="DTD001_635502907319870752">
+    <value column="Name" original="Replenish Report">补充报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000424" trl="Y" eid="DTD001_635544104107594849">
+    <value column="Name" original="Stock Aging Report">库存账龄报表</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000425" trl="Y" eid="DTD001_635494036228937852">
+    <value column="Name" original="Product Sales Report">产品销售报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000426" trl="Y" eid="VAPRC_635489488561852090">
+    <value column="Name" original="Create Price List">创建价格表</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000427" trl="Y" eid="VAPRC_635493787390341205">
+    <value column="Name" original="Expiry Report">过期报告</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000428" trl="Y" eid="SAP001_2000085">
+    <value column="Name" original="SAP Data Sync">SAP数据同步</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000429" trl="Y" eid="SAP001_2000084">
+    <value column="Name" original="Reports And Process">报表及处理</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000430" trl="Y" eid="SAP001_2000086">
+    <value column="Name" original="Master Window">主窗口</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000431" trl="Y" eid="SAP001_2000087">
+    <value column="Name" original="Transaction Window">交易窗口</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000432" trl="Y" eid="SAP001_635702283800364539">
+    <value column="Name" original="Distribution Channel">SAP001_DistributionChannel</value>
+    <value column="Description" original="Distribution Channel">Distribution Channel</value>
+  </row>
+  <row id="1000433" trl="Y" eid="SAP001_635703774748842245">
+    <value column="Name" original="Service Configuration">SAP001_ServiceConfiguration</value>
+    <value column="Description" original="Service Configuration">Service Configuration</value>
+  </row>
+  <row id="1000434" trl="Y" eid="SAP001_635702248196084264">
+    <value column="Name" original="Division">SAP001_Division</value>
+    <value column="Description" original="Division">Division</value>
+  </row>
+  <row id="1000435" trl="Y" eid="SAP001_635702252905024911">
+    <value column="Name" original="Rejection Reason">SAP001_RejectionReason</value>
+    <value column="Description" original="Rejection Reason">Rejection Reason</value>
+  </row>
+  <row id="1000436" trl="Y" eid="SAP001_635702257246555324">
+    <value column="Name" original="Inco Term">SAP001_IncoTerm</value>
+    <value column="Description" original="Inco Term">Inco Term</value>
+  </row>
+  <row id="1000437" trl="Y" eid="SAP001_635702261632978003">
+    <value column="Name" original="SAP Document Types">SAP001_DocumentTypes</value>
+    <value column="Description" original="SAP Document Types">SAP Document Types</value>
+  </row>
+  <row id="1000438" trl="Y" eid="SAP001_635702262621577816">
+    <value column="Name" original="Get Doc Types">获取文档类型</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000439" trl="Y" eid="SAP001_635702263767933931">
+    <value column="Name" original="Get Enterprise Structure">获取企业结构</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000440" trl="Y" eid="SAP001_635702264125512968">
+    <value column="Name" original="Get Payment Rules">获取付款规则</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000441" trl="Y" eid="SAP001_635702264454292991">
+    <value column="Name" original="Get Storage Locations">获取存储位置</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000442" trl="Y" eid="SAP001_635705650111899177">
+    <value column="Name" original="Service Credentials">SAP001_ServiceCredentials</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000443" trl="Y" eid="VISPRO_1000005">
+    <value column="Name" original="Backup/Restore Database">备份/还原数据库</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000444" trl="Y" eid="VISPRO_635005010579899765">
+    <value column="Name" original="Backupt/Restore Database">VISPRO_VExpImpDB</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000445" trl="Y" eid="VISPRO_634994412238169478">
+    <value column="Name" original="VServer">VISPRO_VServer</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000446" trl="Y" eid="VISPRO_635429244067570170">
+    <value column="Name" original="VISPRO_GenerateXModel">VISPRO_GenerateXModel</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000447" trl="Y" eid="VISPRO_635005005980126754">
+    <value column="Name" original="DB Backup/Restore Setting">VISPRO_DBBackupRestoreSetting</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000448" trl="Y" eid="VISPRO_635188171443430244">
+    <value column="Name" original="Server Settings">VISPRO_ServerSettings</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000449" trl="N" eid="VATAX_20000025">
+    <value column="Name" original="Tax Type">Tax Type</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000450" trl="N" eid="VATAX_20000025">
+    <value column="Name" original="Tax Type">Tax Type</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000451" trl="Y" eid="VATAX_635488602650810688">
+    <value column="Name" original="Tax Type">VATAX_TaxType</value>
+    <value column="Description" original="Tax Type">Tax Type</value>
+  </row>
+  <row id="1000452" trl="Y" eid="SAP001_635706667318627754">
+    <value column="Name" original="Get Customers">获取客户</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000453" trl="Y" eid="SAP001_635706667575107950">
+    <value column="Name" original="Get Sales Staff">获取销售人员</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000454" trl="Y" eid="SAP001_635707176360548723">
+    <value column="Name" original="Get Material Master">获取物料主数据</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000455" trl="Y" eid="SAP001_635707189162283841">
+    <value column="Name" original="Get Masters For Material">获取物料主数据先决资料</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000456" trl="Y" eid="SAP001_635708035480683155">
+    <value column="Name" original="Get Accessories">获取辅料</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000457" trl="N" eid="SAP001_635725683718787696">
+    <value column="Name" original="Terminals Data">终端数据</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000458" trl="N" eid="SAP001_635725330528976216">
+    <value column="Name" original="Purchase Group">SAP001_PurchaseGroup</value>
+    <value column="Description" original="Purchase Groups">Purchase Groups</value>
+  </row>
+  <row id="1000459" trl="N" eid="SAP001_635726171529404052">
+    <value column="Name" original="Create Delivery Note (Sales Order)">创建出货单（销售订单）</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000460" trl="N" eid="VDIU_635701479417219222">
+    <value column="Name" original="Data Import Utility">VDIU_ExcelImport</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000461" trl="N" eid="SAP001_635730790443638745">
+    <value column="Name" original="Stock Transfer">创建库存转移订单</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000462" trl="N" eid="SAP001_635730576330939166">
+    <value column="Name" original="Delete Terminal Data">删除终端数据</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000463" trl="N" eid="SAP001_635733165624246501">
+    <value column="Name" original="Get Courier Master">获取快递资料</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000464" trl="N" eid="VIS_635733143763668661">
+    <value column="Name" original="X-Class Generator">VIS_GenerateXModel</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000465" trl="N" eid="SAP001_635738466402031341">
+    <value column="Name" original="Sales Order Complete">批量完成已上传销售订单</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000466" trl="N" eid="VA004_635731703757127255">
+    <value column="Name" original="Translation Management">VA004_Translation Form</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000467" trl="N" eid="VARPT_635740228826104522">
+    <value column="Name" original="Stock Detail Report(Locator Wise)">Stock Detail Report(Locator Wise)</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000468" trl="N" eid="VARPT_635740229180415636">
+    <value column="Name" original="Stock Detail Report(Warehouse Wise)">Stock Detail Report(Warehouse Wise)</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000470" trl="N" eid="SAP001_635758261667664540">
+    <value column="Name" original="VA Service Credentials">VA Service Credentials</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000471" trl="N" eid="_VAICNT20000034">
+    <value column="Name" original="Inventory Count">Inventory Count</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000472" trl="N" eid="635501626412711116">
+    <value column="Name" original="Inventory Count Form">Inventory Count Form</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000473" trl="N" eid="635501621444007014">
+    <value column="Name" original="Inventory Count">Inventory Count</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000474" trl="N" eid="VA005_20000040">
+    <value column="Name" original="Product Management">Product Management</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000475" trl="N" eid="VA005_20000040">
+    <value column="Name" original="Product Management">Product Management</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000476" trl="N" eid="VA005_635751463417388227">
+    <value column="Name" original="Product Management">Product Creation</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000477" trl="N" eid="VA005_635763678683175656">
+    <value column="Name" original="Attribute Set Listing">Attribute Set Listing</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+  <row id="1000478" trl="N" eid="VA005_635727262830751075">
+    <value column="Name" original="Product Categories">Product Categories</value>
+    <value column="Description" original="">
+    </value>
+  </row>
+</ViennaTrl>

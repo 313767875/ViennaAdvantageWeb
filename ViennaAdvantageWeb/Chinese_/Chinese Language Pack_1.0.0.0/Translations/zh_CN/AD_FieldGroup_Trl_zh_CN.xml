@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_FieldGroup">
+  <row id="101" trl="Y" eid="VIS_101">
+    <value column="Name" original="Status">状态</value>
+  </row>
+  <row id="102" trl="Y" eid="VIS_102">
+    <value column="Name" original="Quantities">数量</value>
+  </row>
+  <row id="103" trl="Y" eid="VIS_103">
+    <value column="Name" original="Amounts">量</value>
+  </row>
+  <row id="104" trl="Y" eid="VIS_104">
+    <value column="Name" original="Reference">参考</value>
+  </row>
+  <row id="105" trl="Y" eid="VIS_105">
+    <value column="Name" original="History">历史</value>
+  </row>
+  <row id="106" trl="Y" eid="VIS_106">
+    <value column="Name" original="Product">产品</value>
+  </row>
+  <row id="107" trl="Y" eid="VIS_107">
+    <value column="Name" original="Account/Prospect">帐户/展望</value>
+  </row>
+  <row id="108" trl="Y" eid="VIS_108">
+    <value column="Name" original="Warehouse">仓库</value>
+  </row>
+  <row id="109" trl="Y" eid="VIS_109">
+    <value column="Name" original="Bank">银行</value>
+  </row>
+  <row id="110" trl="Y" eid="VIS_110">
+    <value column="Name" original="Cash Book">现金帐</value>
+  </row>
+  <row id="111" trl="Y" eid="VIS_111">
+    <value column="Name" original="Tax">税</value>
+  </row>
+  <row id="112" trl="Y" eid="VIS_112">
+    <value column="Name" original="Project">工程</value>
+  </row>
+  <row id="113" trl="Y" eid="VIS_113">
+    <value column="Name" original="General">一般</value>
+  </row>
+  <row id="114" trl="Y" eid="VIS_114">
+    <value column="Name" original="Action">行动</value>
+  </row>
+  <row id="115" trl="Y" eid="VIS_115">
+    <value column="Name" original="Standard Cost">标准成本</value>
+  </row>
+  <row id="116" trl="Y" eid="VIS_116">
+    <value column="Name" original="Actual Costs">实际成本</value>
+  </row>
+  <row id="117" trl="Y" eid="VIS_117">
+    <value column="Name" original="Statistics">统计</value>
+  </row>
+  <row id="118" trl="Y" eid="VIS_118">
+    <value column="Name" original="Defaults">默认</value>
+  </row>
+  <row id="119" trl="Y" eid="VIS_119">
+    <value column="Name" original="Request Management">请求管理</value>
+  </row>
+  <row id="120" trl="Y" eid="VIS_120">
+    <value column="Name" original="Web Store">网上商店</value>
+  </row>
+  <row id="121" trl="Y" eid="VIS_121">
+    <value column="Name" original="Internal">内部</value>
+  </row>
+  <row id="122" trl="Y" eid="VIS_122">
+    <value column="Name" original="External">外部</value>
+  </row>
+  <row id="123" trl="Y" eid="VIS_123">
+    <value column="Name" original="Common">通用</value>
+  </row>
+  <row id="124" trl="Y" eid="VIS_124">
+    <value column="Name" original="Shipment">装运</value>
+  </row>
+  <row id="125" trl="Y" eid="VIS_125">
+    <value column="Name" original="Document">文件</value>
+  </row>
+  <row id="126" trl="Y" eid="VIS_126">
+    <value column="Name" original="Line">行</value>
+  </row>
+  <row id="127" trl="Y" eid="VIS_127">
+    <value column="Name" original="Simulation">模拟</value>
+  </row>
+  <row id="128" trl="Y" eid="VIS_128">
+    <value column="Name" original="Calculations">计算</value>
+  </row>
+  <row id="129" trl="Y" eid="VIS_129">
+    <value column="Name" original="Proxy">代理</value>
+  </row>
+  <row id="130" trl="Y" eid="VIS_130">
+    <value column="Name" original="Delivery &amp; Invoicing">送货及发票</value>
+  </row>
+  <row id="131" trl="Y" eid="VIS_131">
+    <value column="Name" original="Invoicing">进销存</value>
+  </row>
+  <row id="132" trl="Y" eid="VIS_132">
+    <value column="Name" original="Only ..">只要..</value>
+  </row>
+  <row id="133" trl="Y" eid="VIS_133">
+    <value column="Name" original="Selection">选择</value>
+  </row>
+  <row id="134" trl="Y" eid="VIS_134">
+    <value column="Name" original="Workflow">流程</value>
+  </row>
+  <row id="135" trl="Y" eid="VIS_135">
+    <value column="Name" original="Access">访问</value>
+  </row>
+  <row id="136" trl="Y" eid="VIS_136">
+    <value column="Name" original="Contact">联系</value>
+  </row>
+  <row id="137" trl="Y" eid="VIS_137">
+    <value column="Name" original="Location">库存位置</value>
+  </row>
+  <row id="138" trl="Y" eid="VIS_138">
+    <value column="Name" original="Customization (Overwrite)">定制（覆盖）</value>
+  </row>
+  <row id="139" trl="Y" eid="VIS_139">
+    <value column="Name" original="Overwrite">覆盖</value>
+  </row>
+  <row id="1000000" trl="Y" eid="VIS_1000000">
+    <value column="Name" original="X Axis Mapping">X轴映射</value>
+  </row>
+  <row id="1000001" trl="Y" eid="VIS_1000001">
+    <value column="Name" original="Y Axis Mapping">Y轴映射</value>
+  </row>
+  <row id="1000002" trl="Y" eid="VIS_1000002">
+    <value column="Name" original="Other Condition">其他条件</value>
+  </row>
+  <row id="1000003" trl="Y" eid="VIS_1000003">
+    <value column="Name" original="Alert Condition">警报条件</value>
+  </row>
+  <row id="1000004" trl="Y" eid="VIS_1000004">
+    <value column="Name" original="IMAP Server Setting">IMAP服务器设置</value>
+  </row>
+  <row id="1000005" trl="Y" eid="VIS_1000005">
+    <value column="Name" original="Other Setting">其他设置</value>
+  </row>
+  <row id="1000006" trl="Y" eid="VIS_1000006">
+    <value column="Name" original="SMTP Server Setting">SMTP服务器设置</value>
+  </row>
+  <row id="1000007" trl="Y" eid="VIS_1000007">
+    <value column="Name" original="U.A.E Exchange Transfer Details">U.A.E外汇汇款细节</value>
+  </row>
+  <row id="1000008" trl="Y" eid="VIS_1000008">
+    <value column="Name" original="Bank &amp; CashBook Details">银行及现金簿详细信息</value>
+  </row>
+  <row id="1000009" trl="Y" eid="VIS_1000009">
+    <value column="Name" original="Salary Completion &amp; Print Details">薪酬与完成打印详情</value>
+  </row>
+  <row id="1000010" trl="Y" eid="VIS_1000010">
+    <value column="Name" original="Direct Deposit Details">直接存款详情</value>
+  </row>
+  <row id="1000011" trl="Y" eid="VIS_1000011">
+    <value column="Name" original="Cheque Details">支票详细</value>
+  </row>
+  <row id="1000012" trl="Y" eid="VIS_1000012">
+    <value column="Name" original="Cash Details">现金详情</value>
+  </row>
+  <row id="1000020" trl="Y" eid="VIS_1000020">
+    <value column="Name" original="Costing">成本核算</value>
+  </row>
+  <row id="1000021" trl="Y" eid="VIS_1000021">
+    <value column="Name" original="Manufacturing">制造业</value>
+  </row>
+  <row id="1000022" trl="Y" eid="VIS_1000022">
+    <value column="Name" original="Work Order">工作指示</value>
+  </row>
+  <row id="1000023" trl="Y" eid="VIS_1000023">
+    <value column="Name" original="Dates">日期</value>
+  </row>
+  <row id="1000028" trl="Y" eid="VIS_1000028">
+    <value column="Name" original="Work Order Transaction">工作订单事务</value>
+  </row>
+  <row id="1000029" trl="Y" eid="VIS_1000029">
+    <value column="Name" original="Actual">实际</value>
+  </row>
+  <row id="1000030" trl="Y" eid="VIS_1000030">
+    <value column="Name" original="Suggested">推荐</value>
+  </row>
+  <row id="1000031" trl="Y" eid="VIS_1000031">
+    <value column="Name" original="Implementation Defaults">实现默认</value>
+  </row>
+  <row id="1000037" trl="Y" eid="VIS_1000037">
+    <value column="Name" original="Planned Order">计划订单</value>
+  </row>
+  <row id="1000038" trl="Y" eid="VIS_1000038">
+    <value column="Name" original="Invitee Response">被邀请者响应</value>
+  </row>
+  <row id="1000039" trl="Y" eid="VIS_1000039">
+    <value column="Name" original="Contract">合同</value>
+  </row>
+  <row id="1000040" trl="Y" eid="VIS_1000040">
+    <value column="Name" original="Address">地址</value>
+  </row>
+  <row id="1000041" trl="Y" eid="VIS_1000041">
+    <value column="Name" original="Renewal">复兴</value>
+  </row>
+  <row id="1000042" trl="Y" eid="VIS_1000042">
+    <value column="Name" original="Planned Module">计划模块</value>
+  </row>
+  <row id="1000043" trl="Y" eid="VIS_1000043">
+    <value column="Name" original="Released Module">发布模块</value>
+  </row>
+  <row id="1000044" trl="Y" eid="VIS_1000044">
+    <value column="Name" original="Custom where clause">定制where子句</value>
+  </row>
+  <row id="1000045" trl="Y" eid="VIS_1000045">
+    <value column="Name" original="Settings">设置</value>
+  </row>
+  <row id="1000046" trl="Y" eid="VIS_1000046">
+    <value column="Name" original="Existing User Query">现有用户查询</value>
+  </row>
+  <row id="1000047" trl="Y" eid="VIS_1000047">
+    <value column="Name" original="Calculate">计算</value>
+  </row>
+  <row id="1000048" trl="Y" eid="VIS_1000048">
+    <value column="Name" original="Inventory Adjustment">库存调整</value>
+  </row>
+</ViennaTrl>

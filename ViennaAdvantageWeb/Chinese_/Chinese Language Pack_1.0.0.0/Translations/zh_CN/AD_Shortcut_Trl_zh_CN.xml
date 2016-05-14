@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="AD_Shortcut">
+  <row id="1000004" trl="N" eid="VIS_1000004">
+    <value column="Name" original="Setting">设定</value>
+  </row>
+  <row id="1000005" trl="N" eid="VIS_1000005">
+    <value column="Name" original="Email Configuration">电邮设置</value>
+  </row>
+  <row id="1000006" trl="N" eid="VIS_1000006">
+    <value column="Name" original="Sms Configuration">短讯设置</value>
+  </row>
+  <row id="1000007" trl="N" eid="VIS_1000007">
+    <value column="Name" original="Market_">市场</value>
+  </row>
+  <row id="1000010" trl="N" eid="VIS_1000010">
+    <value column="Name" original="Business Analytics">商业分析</value>
+  </row>
+  <row id="1000011" trl="N" eid="VIS_1000011">
+    <value column="Name" original="Email">Email</value>
+  </row>
+  <row id="1000012" trl="N" eid="VIS_1000012">
+    <value column="Name" original="User Preference">用户偏好</value>
+  </row>
+  <row id="1000013" trl="N" eid="VIS_1000013">
+    <value column="Name" original="Tenant">租客</value>
+  </row>
+  <row id="1000014" trl="N" eid="VIS_1000014">
+    <value column="Name" original="Organisation">组织</value>
+  </row>
+  <row id="1000015" trl="N" eid="VIS_1000015">
+    <value column="Name" original="Workflow">Workflow</value>
+  </row>
+  <row id="1000016" trl="N" eid="VIS_1000016">
+    <value column="Name" original="Start Server">Start Server</value>
+  </row>
+  <row id="1000017" trl="N" eid="VIS_1000017">
+    <value column="Name" original="User">用户</value>
+  </row>
+  <row id="1000018" trl="N" eid="VIS_1000018">
+    <value column="Name" original="Role">角色</value>
+  </row>
+  <row id="1000021" trl="N" eid="VIS_1000021">
+    <value column="Name" original="Aboutus_">Aboutus_</value>
+  </row>
+  <row id="1000023" trl="N" eid="VIS_1000023">
+    <value column="Name" original="Initial Tenant Setup">Initial Tenant Setup</value>
+  </row>
+  <row id="1000024" trl="N" eid="VIS_1000024">
+    <value column="Name" original="VACTFR_Account Wizard">VACTFR_Account Wizard</value>
+  </row>
+  <row id="1000028" trl="N" eid="WSP_20000006">
+    <value column="Name" original="WSP_Schedular">行事录</value>
+  </row>
+  <row id="1000029" trl="N" eid="WSP_20000005">
+    <value column="Name" original="WSP_Contact">联络人</value>
+  </row>
+  <row id="1000030" trl="N" eid="VARCOM_20000003">
+    <value column="Name" original="VARCOM_ReportComposer">VARCOM_ReportComposer</value>
+  </row>
+  <row id="1000033" trl="N" eid="">
+    <value column="Name" original="Other Functions">其他功能</value>
+  </row>
+  <row id="1000034" trl="N" eid="">
+    <value column="Name" original="Sales Order">销售订单</value>
+  </row>
+  <row id="1000035" trl="N" eid="">
+    <value column="Name" original="Stock Transfer">库存转移订单</value>
+  </row>
+  <row id="1000036" trl="N" eid="">
+    <value column="Name" original="Shipment">装运单</value>
+  </row>
+  <row id="1000039" trl="N" eid="">
+    <value column="Name" original="Terminal Data">终端数据</value>
+  </row>
+  <row id="1000040" trl="N" eid="">
+    <value column="Name" original="Delivery Note">出货单（销售）</value>
+  </row>
+  <row id="1000041" trl="N" eid="">
+    <value column="Name" original="DN (Stock Transfer)">出货单（库存转移）</value>
+  </row>
+  <row id="1000042" trl="N" eid="VA005_20000007">
+    <value column="Name" original="Product Categories">Product Categories</value>
+  </row>
+</ViennaTrl>

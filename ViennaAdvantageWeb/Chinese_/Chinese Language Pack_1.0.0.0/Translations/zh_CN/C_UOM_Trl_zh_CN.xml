@@ -1,0 +1,1809 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--<!DOCTYPE ViennaTrl PUBLIC "-//Vienna, Inc.//DTD Vienna Translation 1.0//EN" "http://www.Viennasolutions.com">-->
+<ViennaTrl language="zh_CN" table="C_UOM">
+  <row id="100" trl="N" eid="VIS_100">
+    <value column="Name" original="(no dimensions)EA">Each</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="EA">Ea</value>
+  </row>
+  <row id="101" trl="N" eid="VIS_101">
+    <value column="Name" original="HR">Hour</value>
+    <value column="Description" original="Time">Time</value>
+    <value column="UOMSymbol" original="HUR">h</value>
+  </row>
+  <row id="102" trl="N" eid="VIS_102">
+    <value column="Name" original="Day">Day</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="d">d</value>
+  </row>
+  <row id="103" trl="N" eid="VIS_103">
+    <value column="Name" original="Minutes">Minutes</value>
+    <value column="Description" original="(lowest unit for resorce assigments)">(lowest unit for resorce assigments)</value>
+    <value column="UOMSymbol" original="m">m</value>
+  </row>
+  <row id="104" trl="N" eid="VIS_104">
+    <value column="Name" original="Work Day">Work Day</value>
+    <value column="Description" original="8 hour">8 hour</value>
+    <value column="UOMSymbol" original="D">D</value>
+  </row>
+  <row id="105" trl="N" eid="VIS_105">
+    <value column="Name" original="WK">Week</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="WEE">w</value>
+  </row>
+  <row id="106" trl="N" eid="VIS_106">
+    <value column="Name" original="Month">Month</value>
+    <value column="Description" original="30 days">30 days</value>
+    <value column="UOMSymbol" original="m">m</value>
+  </row>
+  <row id="107" trl="N" eid="VIS_107">
+    <value column="Name" original="Working Month">Working Month</value>
+    <value column="Description" original="20 days">20 days</value>
+    <value column="UOMSymbol" original="M">M</value>
+  </row>
+  <row id="108" trl="N" eid="VIS_108">
+    <value column="Name" original="YR">Year</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="ANN">y</value>
+  </row>
+  <row id="1000000" trl="N" eid="VIS_1000000">
+    <value column="Name" original="LengthM">Meter</value>
+    <value column="Description" original="Length">Length</value>
+    <value column="UOMSymbol" original="MTR">Meter</value>
+  </row>
+  <row id="1000001" trl="N" eid="VIS_1000001">
+    <value column="Name" original="LengthMM">Millimeter</value>
+    <value column="Description" original="Length">Length</value>
+    <value column="UOMSymbol" original="MMT">Millimeter</value>
+  </row>
+  <row id="1000002" trl="N" eid="VIS_1000002">
+    <value column="Name" original="MassKG">Kilogram</value>
+    <value column="Description" original="Weight">Weight</value>
+    <value column="UOMSymbol" original="KGM">Kilogram</value>
+  </row>
+  <row id="1000003" trl="N" eid="VIS_1000003">
+    <value column="Name" original="Mass">Gram</value>
+    <value column="Description" original="Weight">Weight</value>
+    <value column="UOMSymbol" original="GRM">Gram</value>
+  </row>
+  <row id="1000004" trl="N" eid="VIS_1000004">
+    <value column="Name" original="VolumeL">Liter</value>
+    <value column="Description" original="Volume">Volume</value>
+    <value column="UOMSymbol" original="LTR">Liter</value>
+  </row>
+  <row id="1000005" trl="N" eid="VIS_1000005">
+    <value column="Name" original="VolumeML">Milliliter</value>
+    <value column="Description" original="Volume">Volume</value>
+    <value column="UOMSymbol" original="MLT">Milliliter</value>
+  </row>
+  <row id="1000006" trl="N" eid="VIS_1000006">
+    <value column="Name" original="Sheet 8x4">Sheet 8x4</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="Sheet 8x4">Sheet 8x4</value>
+  </row>
+  <row id="1000007" trl="N" eid="VIS_1000007">
+    <value column="Name" original="Roll - 100 Meters">Roll - 100 Meters</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="Roll 100 m">Roll 100 m</value>
+  </row>
+  <row id="1000008" trl="N" eid="VIS_1000008">
+    <value column="Name" original="Sqm">Sqm</value>
+    <value column="Description" original="Area">Area</value>
+    <value column="UOMSymbol" original="Sqm">Sqm</value>
+  </row>
+  <row id="1000009" trl="N" eid="VIS_1000009">
+    <value column="Name" original="5 Meter Length">5 Meter Length</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="5mL">5mL</value>
+  </row>
+  <row id="1000010" trl="N" eid="VIS_1000010">
+    <value column="Name" original="6 Meter Length">6 Meter Length</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="6mL">6mL</value>
+  </row>
+  <row id="1000011" trl="N" eid="VIS_1000011">
+    <value column="Name" original="Roll - 100 Yards">Roll - 100 Yards</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="Roll 100 Y">Roll 100 Y</value>
+  </row>
+  <row id="1000013" trl="N" eid="VIS_1000013">
+    <value column="Name" original="2 Meter Length">2 Meter Length</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="2mL">2mL</value>
+  </row>
+  <row id="1000014" trl="N" eid="VIS_1000014">
+    <value column="Name" original="Kilogram(Alcohol)">Kilogram(Alcohol)</value>
+    <value column="Description" original="Weight">Weight</value>
+    <value column="UOMSymbol" original="kgA">kgA</value>
+  </row>
+  <row id="1000015" trl="N" eid="VIS_1000015">
+    <value column="Name" original="Kilogram(Water)">Kilogram(Water)</value>
+    <value column="Description" original="Weight">Weight</value>
+    <value column="UOMSymbol" original="kgW">kgW</value>
+  </row>
+  <row id="1000035" trl="N" eid="VIS_1000035">
+    <value column="Name" original="Roll - 30 Meters">Roll - 30 Meters</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="Roll 30 m">Roll 30 m</value>
+  </row>
+  <row id="1000067" trl="N" eid="VIS_1000067">
+    <value column="Name" original="D">D</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="DAY">DAY</value>
+  </row>
+  <row id="1000070" trl="N" eid="">
+    <value column="Name" original="Proportion">Proportion</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="P1">P1</value>
+  </row>
+  <row id="1000072" trl="N" eid="">
+    <value column="Name" original="Proportion%O">Proportion%O</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000073" trl="N" eid="">
+    <value column="Name" original="ONE">ONE</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000074" trl="N" eid="">
+    <value column="Name" original="Kinematic viscosity">Kinematic viscosity</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000075" trl="N" eid="">
+    <value column="Name" original="CMS">CMS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="2M">2M</value>
+  </row>
+  <row id="1000076" trl="N" eid="">
+    <value column="Name" original="000">000</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="2X">2X</value>
+  </row>
+  <row id="1000077" trl="N" eid="">
+    <value column="Name" original="µL">µL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="4G">4G</value>
+  </row>
+  <row id="1000078" trl="N" eid="">
+    <value column="Name" original="µF">µF</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="4O">4O</value>
+  </row>
+  <row id="1000079" trl="N" eid="">
+    <value column="Name" original="IB">IB</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="4T">4T</value>
+  </row>
+  <row id="1000080" trl="N" eid="">
+    <value column="Name" original="Electr. Current">Electr. Current</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="AMP">AMP</value>
+  </row>
+  <row id="1000081" trl="N" eid="">
+    <value column="Name" original="GOH">GOH</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="A87">A87</value>
+  </row>
+  <row id="1000082" trl="N" eid="">
+    <value column="Name" original="GM3">GM3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="A93">A93</value>
+  </row>
+  <row id="1000083" trl="N" eid="">
+    <value column="Name" original="Area">Area</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000084" trl="N" eid="">
+    <value column="Name" original="KD3">KD3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B34">B34</value>
+  </row>
+  <row id="1000085" trl="N" eid="">
+    <value column="Name" original="QML">QML</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B45">B45</value>
+  </row>
+  <row id="1000086" trl="N" eid="">
+    <value column="Name" original="NI">NI</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B47">B47</value>
+  </row>
+  <row id="1000087" trl="N" eid="">
+    <value column="Name" original="MN">MN</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B73">B73</value>
+  </row>
+  <row id="1000088" trl="N" eid="">
+    <value column="Name" original="MGO">MGO</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B75">B75</value>
+  </row>
+  <row id="1000089" trl="N" eid="">
+    <value column="Name" original="MHV">MHV</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B78">B78</value>
+  </row>
+  <row id="1000090" trl="N" eid="">
+    <value column="Name" original="µA">µA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B84">B84</value>
+  </row>
+  <row id="1000091" trl="N" eid="">
+    <value column="Name" original="(no dimensions)">(no dimensions)</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="BG">BG</value>
+  </row>
+  <row id="1000092" trl="N" eid="">
+    <value column="Name" original="Pressure">Pressure</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="BAR">BAR</value>
+  </row>
+  <row id="1000093" trl="N" eid="">
+    <value column="Name" original="BT">BT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="BO">BO</value>
+  </row>
+  <row id="1000094" trl="N" eid="">
+    <value column="Name" original="Spec.act.radioac.sub">Spec.act.radioac.sub</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000095" trl="N" eid="">
+    <value column="Name" original="RF">RF</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C10">C10</value>
+  </row>
+  <row id="1000096" trl="N" eid="">
+    <value column="Name" original="M/M">M/M</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C36">C36</value>
+  </row>
+  <row id="1000097" trl="N" eid="">
+    <value column="Name" original="M/L">M/L</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C38">C38</value>
+  </row>
+  <row id="1000098" trl="N" eid="">
+    <value column="Name" original="NA">NA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C39">C39</value>
+  </row>
+  <row id="1000099" trl="N" eid="">
+    <value column="Name" original="Volume rate of flow">Volume rate of flow</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="2J">2J</value>
+  </row>
+  <row id="1000100" trl="N" eid="">
+    <value column="Name" original="R-U">R-U</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C41">C41</value>
+  </row>
+  <row id="1000101" trl="N" eid="">
+    <value column="Name" original="NMM">NMM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C56">C56</value>
+  </row>
+  <row id="1000102" trl="N" eid="">
+    <value column="Name" original="Volume">Volume</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="CMQ">CMQ</value>
+  </row>
+  <row id="1000103" trl="N" eid="">
+    <value column="Name" original="Luminous intensity">Luminous intensity</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="CDL">CDL</value>
+  </row>
+  <row id="1000104" trl="N" eid="">
+    <value column="Name" original="CD3">CD3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="DMQ">DMQ</value>
+  </row>
+  <row id="1000105" trl="N" eid="">
+    <value column="Name" original="Length">Length</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="CMT">CMT</value>
+  </row>
+  <row id="1000107" trl="N" eid="">
+    <value column="Name" original="AreaCM2">AreaCM2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="CMK">CMK</value>
+  </row>
+  <row id="1000108" trl="N" eid="">
+    <value column="Name" original="Speed">Speed</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000109" trl="N" eid="">
+    <value column="Name" original="CV">CV</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="CS">CS</value>
+  </row>
+  <row id="1000110" trl="N" eid="">
+    <value column="Name" original="CL">CL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000111" trl="N" eid="">
+    <value column="Name" original="S/M">S/M</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="D10">D10</value>
+  </row>
+  <row id="1000112" trl="N" eid="">
+    <value column="Name" original="TOM">TOM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="D41">D41</value>
+  </row>
+  <row id="1000113" trl="N" eid="">
+    <value column="Name" original="VAM">VAM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="D46">D46</value>
+  </row>
+  <row id="1000115" trl="N" eid="">
+    <value column="Name" original="(no dimensions)DEG">(no dimensions)DEG</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="DD">DD</value>
+  </row>
+  <row id="1000117" trl="N" eid="">
+    <value column="Name" original="LengthDM">LengthDM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="DMT">DMT</value>
+  </row>
+  <row id="1000119" trl="N" eid="">
+    <value column="Name" original="(no dimensions)DR">(no dimensions)DR</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="DR">DR</value>
+  </row>
+  <row id="1000121" trl="N" eid="">
+    <value column="Name" original="(no dimensions)DZ">(no dimensions)DZ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="DZN">DZN</value>
+  </row>
+  <row id="1000122" trl="N" eid="">
+    <value column="Name" original="EU">EU</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000124" trl="N" eid="">
+    <value column="Name" original="(no dimensions)EML">(no dimensions)EML</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000125" trl="N" eid="">
+    <value column="Name" original="Electr. capacity">Electr. capacity</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="FAR">FAR</value>
+  </row>
+  <row id="1000126" trl="N" eid="">
+    <value column="Name" original="°F">°F</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="FAH">FAH</value>
+  </row>
+  <row id="1000128" trl="N" eid="">
+    <value column="Name" original="LengthFT">LengthFT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000130" trl="N" eid="">
+    <value column="Name" original="AreaFT2">AreaFT2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000132" trl="N" eid="">
+    <value column="Name" original="VolumeFT3">VolumeFT3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000134" trl="N" eid="">
+    <value column="Name" original="(no dimensions)G/L">(no dimensions)G/L</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000136" trl="N" eid="">
+    <value column="Name" original="(no dimensions)GAU">(no dimensions)GAU</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000137" trl="N" eid="">
+    <value column="Name" original="°C">°C</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="CEL">CEL</value>
+  </row>
+  <row id="1000138" trl="N" eid="">
+    <value column="Name" original="Mass proportion">Mass proportion</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000139" trl="N" eid="">
+    <value column="Name" original="Energy">Energy</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000141" trl="N" eid="">
+    <value column="Name" original="Mass proportionGKG">Mass proportionGKG</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000142" trl="N" eid="">
+    <value column="Name" original="Density">Density</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="GL">GL</value>
+  </row>
+  <row id="1000143" trl="N" eid="">
+    <value column="Name" original="GAL">GAL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000144" trl="N" eid="">
+    <value column="Name" original="GPM">GPM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000145" trl="N" eid="">
+    <value column="Name" original="Mole mass">Mole mass</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000146" trl="N" eid="">
+    <value column="Name" original="Mass coverage">Mass coverage</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000148" trl="N" eid="">
+    <value column="Name" original="Volume rate of flowGPH">Volume rate of flowGPH</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000149" trl="N" eid="">
+    <value column="Name" original="µGQ">µGQ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="GQ">GQ</value>
+  </row>
+  <row id="1000151" trl="N" eid="">
+    <value column="Name" original="(no dimensions)GRO">(no dimensions)GRO</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="GRO">GRO</value>
+  </row>
+  <row id="1000152" trl="N" eid="">
+    <value column="Name" original="GAI">GAI</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000153" trl="N" eid="">
+    <value column="Name" original="Time">Time</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000154" trl="N" eid="">
+    <value column="Name" original="HA">HA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000156" trl="N" eid="">
+    <value column="Name" original="VolumeHL">VolumeHL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="HLT">HLT</value>
+  </row>
+  <row id="1000158" trl="N" eid="">
+    <value column="Name" original="PressureHPA">PressureHPA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="A97">A97</value>
+  </row>
+  <row id="1000159" trl="N" eid="">
+    <value column="Name" original="Frequency">Frequency</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="HTZ">HTZ</value>
+  </row>
+  <row id="1000160" trl="N" eid="">
+    <value column="Name" original="&quot;">"</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="INH">INH</value>
+  </row>
+  <row id="1000161" trl="N" eid="">
+    <value column="Name" original="&quot;2">"2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000162" trl="N" eid="">
+    <value column="Name" original="&quot;3">"3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000164" trl="N" eid="">
+    <value column="Name" original="EnergyJ">EnergyJ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="JOU">JOU</value>
+  </row>
+  <row id="1000165" trl="N" eid="">
+    <value column="Name" original="Specific energy">Specific energy</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000166" trl="N" eid="">
+    <value column="Name" original="Spec. Heat Capacity">Spec. Heat Capacity</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B11">B11</value>
+  </row>
+  <row id="1000167" trl="N" eid="">
+    <value column="Name" original="Molar energy">Molar energy</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000168" trl="N" eid="">
+    <value column="Name" original="Temperature">Temperature</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KEL">KEL</value>
+  </row>
+  <row id="1000170" trl="N" eid="">
+    <value column="Name" original="Electr. CurrentKA">Electr. CurrentKA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B22">B22</value>
+  </row>
+  <row id="1000171" trl="N" eid="">
+    <value column="Name" original="CAN">CAN</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="CA">CA</value>
+  </row>
+  <row id="1000172" trl="N" eid="">
+    <value column="Name" original="CAR">CAR</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="CT">CT</value>
+  </row>
+  <row id="1000174" trl="N" eid="">
+    <value column="Name" original="Spec.act.radioac.subKBK">Spec.act.radioac.subKBK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000176" trl="N" eid="">
+    <value column="Name" original="Mass coverageKGF">Mass coverageKGF</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="28">28</value>
+  </row>
+  <row id="1000178" trl="N" eid="">
+    <value column="Name" original="Mass proportionKGK">Mass proportionKGK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000180" trl="N" eid="">
+    <value column="Name" original="Mole massKGM">Mole massKGM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000181" trl="N" eid="">
+    <value column="Name" original="Mass flow">Mass flow</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KGS">KGS</value>
+  </row>
+  <row id="1000183" trl="N" eid="">
+    <value column="Name" original="DensityKGV">DensityKGV</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KMQ">KMQ</value>
+  </row>
+  <row id="1000184" trl="N" eid="">
+    <value column="Name" original="KAI">KAI</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000186" trl="N" eid="">
+    <value column="Name" original="FrequencyKHZ">FrequencyKHZ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KHZ">KHZ</value>
+  </row>
+  <row id="1000187" trl="N" eid="">
+    <value column="Name" original="CRT">CRT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="BX">BX</value>
+  </row>
+  <row id="1000189" trl="N" eid="">
+    <value column="Name" original="EnergyKJ">EnergyKJ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KJO">KJO</value>
+  </row>
+  <row id="1000191" trl="N" eid="">
+    <value column="Name" original="Specific energyKJK">Specific energyKJK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000193" trl="N" eid="">
+    <value column="Name" original="Molar energyKJM">Molar energyKJM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000195" trl="N" eid="">
+    <value column="Name" original="LengthKM">LengthKM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KMT">KMT</value>
+  </row>
+  <row id="1000197" trl="N" eid="">
+    <value column="Name" original="AreaKM2">AreaKM2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000199" trl="N" eid="">
+    <value column="Name" original="SpeedKMH">SpeedKMH</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KMH">KMH</value>
+  </row>
+  <row id="1000200" trl="N" eid="">
+    <value column="Name" original="Volume proportion">Volume proportion</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000201" trl="N" eid="">
+    <value column="Name" original="Rate of temp. change">Rate of temp. change</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000203" trl="N" eid="">
+    <value column="Name" original="Rate of temp. changeKMS">Rate of temp. changeKMS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000204" trl="N" eid="">
+    <value column="Name" original="Elec. Resistance">Elec. Resistance</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B49">B49</value>
+  </row>
+  <row id="1000206" trl="N" eid="">
+    <value column="Name" original="PressureKPA">PressureKPA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KPA">KPA</value>
+  </row>
+  <row id="1000208" trl="N" eid="">
+    <value column="Name" original="MassKT">MassKT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000209" trl="N" eid="">
+    <value column="Name" original="Electr. Tension">Electr. Tension</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KVT">KVT</value>
+  </row>
+  <row id="1000210" trl="N" eid="">
+    <value column="Name" original="Power">Power</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KVA">KVA</value>
+  </row>
+  <row id="1000212" trl="N" eid="">
+    <value column="Name" original="PowerKW">PowerKW</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KWT">KWT</value>
+  </row>
+  <row id="1000214" trl="N" eid="">
+    <value column="Name" original="EnergyKWH">EnergyKWH</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="KWH">KWH</value>
+  </row>
+  <row id="1000215" trl="N" eid="">
+    <value column="Name" original="KIK">KIK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000216" trl="N" eid="">
+    <value column="Name" original="LMI">LMI</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="L2">L2</value>
+  </row>
+  <row id="1000218" trl="N" eid="">
+    <value column="Name" original="MassLB">MassLB</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="LBR">LBR</value>
+  </row>
+  <row id="1000219" trl="N" eid="">
+    <value column="Name" original="AU">AU</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C62">C62</value>
+  </row>
+  <row id="1000221" trl="N" eid="">
+    <value column="Name" original="AreaLHK">AreaLHK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000222" trl="N" eid="">
+    <value column="Name" original="Hydrolysis rate">Hydrolysis rate</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000224" trl="N" eid="">
+    <value column="Name" original="Volume rate of flowLPH">Volume rate of flowLPH</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000226" trl="N" eid="">
+    <value column="Name" original="Mass proportionM%">Mass proportionM%</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000228" trl="N" eid="">
+    <value column="Name" original="Mass proportionM%O">Mass proportionM%O</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000230" trl="N" eid="">
+    <value column="Name" original="SpeedM/S">SpeedM/S</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MTS">MTS</value>
+  </row>
+  <row id="1000232" trl="N" eid="">
+    <value column="Name" original="AreaM2">AreaM2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MTK">MTK</value>
+  </row>
+  <row id="1000233" trl="N" eid="">
+    <value column="Name" original="M-2">M-2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000235" trl="N" eid="">
+    <value column="Name" original="Kinematic viscosityM2S">Kinematic viscosityM2S</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="S4">S4</value>
+  </row>
+  <row id="1000237" trl="N" eid="">
+    <value column="Name" original="VolumeM3">VolumeM3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MTQ">MTQ</value>
+  </row>
+  <row id="1000239" trl="N" eid="">
+    <value column="Name" original="Volume rate of flowM3D">Volume rate of flowM3D</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000241" trl="N" eid="">
+    <value column="Name" original="Volume rate of flowM3S">Volume rate of flowM3S</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MQS">MQS</value>
+  </row>
+  <row id="1000243" trl="N" eid="">
+    <value column="Name" original="Electr. CurrentMA">Electr. CurrentMA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="4K">4K</value>
+  </row>
+  <row id="1000245" trl="N" eid="">
+    <value column="Name" original="PressureMBA">PressureMBA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MBR">MBR</value>
+  </row>
+  <row id="1000246" trl="N" eid="">
+    <value column="Name" original="Dust explosion ratio">Dust explosion ratio</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000248" trl="N" eid="">
+    <value column="Name" original="EnergyMEJ">EnergyMEJ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000250" trl="N" eid="">
+    <value column="Name" original="MassMG">MassMG</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MGM">MGM</value>
+  </row>
+  <row id="1000251" trl="N" eid="">
+    <value column="Name" original="MGE">MGE</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000253" trl="N" eid="">
+    <value column="Name" original="Mass proportionMGG">Mass proportionMGG</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000255" trl="N" eid="">
+    <value column="Name" original="Mass proportionMGK">Mass proportionMGK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000257" trl="N" eid="">
+    <value column="Name" original="DensityMGL">DensityMGL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="M1">M1</value>
+  </row>
+  <row id="1000259" trl="N" eid="">
+    <value column="Name" original="DensityMGQ">DensityMGQ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="GP">GP</value>
+  </row>
+  <row id="1000261" trl="N" eid="">
+    <value column="Name" original="PowerMGW">PowerMGW</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MAW">MAW</value>
+  </row>
+  <row id="1000263" trl="N" eid="">
+    <value column="Name" original="FrequencyMHZ">FrequencyMHZ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MHZ">MHZ</value>
+  </row>
+  <row id="1000265" trl="N" eid="">
+    <value column="Name" original="LengthMI">LengthMI</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="SMI">SMI</value>
+  </row>
+  <row id="1000267" trl="N" eid="">
+    <value column="Name" original="AreaMI2">AreaMI2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000268" trl="N" eid="">
+    <value column="Name" original="µM">µM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="4H">4H</value>
+  </row>
+  <row id="1000270" trl="N" eid="">
+    <value column="Name" original="TimeMIN">TimeMIN</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MIN">MIN</value>
+  </row>
+  <row id="1000272" trl="N" eid="">
+    <value column="Name" original="TimeMIS">TimeMIS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B98">B98</value>
+  </row>
+  <row id="1000273" trl="N" eid="">
+    <value column="Name" original="MIJ">MIJ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C15">C15</value>
+  </row>
+  <row id="1000275" trl="N" eid="">
+    <value column="Name" original="Volume proportionMLK">Volume proportionMLK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000276" trl="N" eid="">
+    <value column="Name" original="MLI">MLI</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000278" trl="N" eid="">
+    <value column="Name" original="AreaMM2">AreaMM2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MMK">MMK</value>
+  </row>
+  <row id="1000280" trl="N" eid="">
+    <value column="Name" original="SpeedMMA">SpeedMMA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000281" trl="N" eid="">
+    <value column="Name" original="Spec. equivalent">Spec. equivalent</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000283" trl="N" eid="">
+    <value column="Name" original="SpeedMMH">SpeedMMH</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000285" trl="N" eid="">
+    <value column="Name" original="Spec. equivalentMMK">Spec. equivalentMMK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="D87">D87</value>
+  </row>
+  <row id="1000286" trl="N" eid="">
+    <value column="Name" original="Mole quantity">Mole quantity</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C18">C18</value>
+  </row>
+  <row id="1000287" trl="N" eid="">
+    <value column="Name" original="MM3">MM3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MMQ">MMQ</value>
+  </row>
+  <row id="1000289" trl="N" eid="">
+    <value column="Name" original="SpeedMMS">SpeedMMS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C16">C16</value>
+  </row>
+  <row id="1000290" trl="N" eid="">
+    <value column="Name" original="Surface tension">Surface tension</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000292" trl="N" eid="">
+    <value column="Name" original="Spec. equivalentMOK">Spec. equivalentMOK</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C19">C19</value>
+  </row>
+  <row id="1000294" trl="N" eid="">
+    <value column="Name" original="Mole quantityMOL">Mole quantityMOL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C34">C34</value>
+  </row>
+  <row id="1000296" trl="N" eid="">
+    <value column="Name" original="TimeMON">TimeMON</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MON">MON</value>
+  </row>
+  <row id="1000298" trl="N" eid="">
+    <value column="Name" original="PressureMPA">PressureMPA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MPA">MPA</value>
+  </row>
+  <row id="1000300" trl="N" eid="">
+    <value column="Name" original="Mass proportionMPB">Mass proportionMPB</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000301" trl="N" eid="">
+    <value column="Name" original="Inverse area">Inverse area</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000303" trl="N" eid="">
+    <value column="Name" original="Mass proportionMPM">Mass proportionMPM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000304" trl="N" eid="">
+    <value column="Name" original="Dynamic viscosity">Dynamic viscosity</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C24">C24</value>
+  </row>
+  <row id="1000306" trl="N" eid="">
+    <value column="Name" original="Mass proportionMPT">Mass proportionMPT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000308" trl="N" eid="">
+    <value column="Name" original="Dust explosion ratioMPZ">Dust explosion ratioMPZ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000309" trl="N" eid="">
+    <value column="Name" original="M3H">M3H</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MQH">MQH</value>
+  </row>
+  <row id="1000310" trl="N" eid="">
+    <value column="Name" original="MSE">MSE</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C26">C26</value>
+  </row>
+  <row id="1000311" trl="N" eid="">
+    <value column="Name" original="Acceleration">Acceleration</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MSK">MSK</value>
+  </row>
+  <row id="1000312" trl="N" eid="">
+    <value column="Name" original="Magnet. field dens.">Magnet. field dens.</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C29">C29</value>
+  </row>
+  <row id="1000313" trl="N" eid="">
+    <value column="Name" original="M/H">M/H</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MTS">MTS</value>
+  </row>
+  <row id="1000315" trl="N" eid="">
+    <value column="Name" original="Electr. TensionMV">Electr. TensionMV</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="2Z">2Z</value>
+  </row>
+  <row id="1000317" trl="N" eid="">
+    <value column="Name" original="PowerMVA">PowerMVA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MVA">MVA</value>
+  </row>
+  <row id="1000319" trl="N" eid="">
+    <value column="Name" original="PowerMW">PowerMW</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C31">C31</value>
+  </row>
+  <row id="1000321" trl="N" eid="">
+    <value column="Name" original="EnergyMWH">EnergyMWH</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000322" trl="N" eid="">
+    <value column="Name" original="Force">Force</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="NEW">NEW</value>
+  </row>
+  <row id="1000324" trl="N" eid="">
+    <value column="Name" original="LengthNAM">LengthNAM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C45">C45</value>
+  </row>
+  <row id="1000326" trl="N" eid="">
+    <value column="Name" original="Surface tensionNM">Surface tensionNM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000328" trl="N" eid="">
+    <value column="Name" original="TimeNS">TimeNS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C47">C47</value>
+  </row>
+  <row id="1000329" trl="N" eid="">
+    <value column="Name" original="Sp. Elec. Resistance">Sp. Elec. Resistance</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C60">C60</value>
+  </row>
+  <row id="1000331" trl="N" eid="">
+    <value column="Name" original="Elec. ResistanceOHM">Elec. ResistanceOHM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="OHM">OHM</value>
+  </row>
+  <row id="1000333" trl="N" eid="">
+    <value column="Name" original="Sp. Elec. ResistanceOM">Sp. Elec. ResistanceOM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C61">C61</value>
+  </row>
+  <row id="1000335" trl="N" eid="">
+    <value column="Name" original="MassOZ">MassOZ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="ONZ">ONZ</value>
+  </row>
+  <row id="1000336" trl="N" eid="">
+    <value column="Name" original="FOZ">FOZ</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000337" trl="N" eid="">
+    <value column="Name" original="Points">Points</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000339" trl="N" eid="">
+    <value column="Name" original="PressurePA">PressurePA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="PAL">PAL</value>
+  </row>
+  <row id="1000341" trl="N" eid="">
+    <value column="Name" original="(no dimensions)PAA">(no dimensions)PAA</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="PR">PR</value>
+  </row>
+  <row id="1000342" trl="N" eid="">
+    <value column="Name" original="PAC">PAC</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="PK">PK</value>
+  </row>
+  <row id="1000344" trl="N" eid="">
+    <value column="Name" original="(no dimensions)PAL">(no dimensions)PAL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="PF">PF</value>
+  </row>
+  <row id="1000346" trl="N" eid="">
+    <value column="Name" original="Dynamic viscosityPAS">Dynamic viscosityPAS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C65">C65</value>
+  </row>
+  <row id="1000347" trl="N" eid="">
+    <value column="Name" original="PRC">PRC</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000349" trl="N" eid="">
+    <value column="Name" original="FrequencyPMI">FrequencyPMI</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000350" trl="N" eid="">
+    <value column="Name" original="Permeability">Permeability</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000352" trl="N" eid="">
+    <value column="Name" original="ProportionPPB">ProportionPPB</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000354" trl="N" eid="">
+    <value column="Name" original="ProportionPPM">ProportionPPM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="59">59</value>
+  </row>
+  <row id="1000356" trl="N" eid="">
+    <value column="Name" original="ProportionPPT">ProportionPPT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000358" trl="N" eid="">
+    <value column="Name" original="PermeabilityPRM">PermeabilityPRM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000360" trl="N" eid="">
+    <value column="Name" original="(no dimensions)PRS">(no dimensions)PRS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="IE">IE</value>
+  </row>
+  <row id="1000362" trl="N" eid="">
+    <value column="Name" original="TimePS">TimePS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000364" trl="N" eid="">
+    <value column="Name" original="VolumePT">VolumePT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000366" trl="N" eid="">
+    <value column="Name" original="VolumeQT">VolumeQT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000368" trl="N" eid="">
+    <value column="Name" original="DensityRHO">DensityRHO</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="23">23</value>
+  </row>
+  <row id="1000370" trl="N" eid="">
+    <value column="Name" original="(no dimensions)ROL">(no dimensions)ROL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="RO">RO</value>
+  </row>
+  <row id="1000372" trl="N" eid="">
+    <value column="Name" original="TimeS">TimeS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="SEC">SEC</value>
+  </row>
+  <row id="1000374" trl="N" eid="">
+    <value column="Name" original="(no dimensions)SET">(no dimensions)SET</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000375" trl="N" eid="">
+    <value column="Name" original="PC">PC</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="PCE">PCE</value>
+  </row>
+  <row id="1000376" trl="N" eid="">
+    <value column="Name" original="DAY">DAY</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="DAY">DAY</value>
+  </row>
+  <row id="1000377" trl="N" eid="">
+    <value column="Name" original="Particle concentrat.">Particle concentrat.</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000379" trl="N" eid="">
+    <value column="Name" original="Magnet. field dens.TES">Magnet. field dens.TES</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="D33">D33</value>
+  </row>
+  <row id="1000380" trl="N" eid="">
+    <value column="Name" original="TS">TS</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="MIL">MIL</value>
+  </row>
+  <row id="1000382" trl="N" eid="">
+    <value column="Name" original="Particle concentrat.TM3">Particle concentrat.TM3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000384" trl="N" eid="">
+    <value column="Name" original="MassTO">MassTO</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="TNE">TNE</value>
+  </row>
+  <row id="1000386" trl="N" eid="">
+    <value column="Name" original="MassTON">MassTON</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="STN">STN</value>
+  </row>
+  <row id="1000387" trl="N" eid="">
+    <value column="Name" original="001">001</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000388" trl="N" eid="">
+    <value column="Name" original="µGL">µGL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000390" trl="N" eid="">
+    <value column="Name" original="Electr. TensionV">Electr. TensionV</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="VLT">VLT</value>
+  </row>
+  <row id="1000392" trl="N" eid="">
+    <value column="Name" original="Volume proportionV%">Volume proportionV%</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000394" trl="N" eid="">
+    <value column="Name" original="Volume proportionV%O">Volume proportionV%O</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000395" trl="N" eid="">
+    <value column="Name" original="MSC">MSC</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000396" trl="N" eid="">
+    <value column="Name" original="MPL">MPL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="C36">C36</value>
+  </row>
+  <row id="1000398" trl="N" eid="">
+    <value column="Name" original="(no dimensions)VAL">(no dimensions)VAL</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000400" trl="N" eid="">
+    <value column="Name" original="Volume proportionVPB">Volume proportionVPB</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000402" trl="N" eid="">
+    <value column="Name" original="Volume proportionVPM">Volume proportionVPM</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000404" trl="N" eid="">
+    <value column="Name" original="Volume proportionVPT">Volume proportionVPT</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000406" trl="N" eid="">
+    <value column="Name" original="PowerW">PowerW</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="WTT">WTT</value>
+  </row>
+  <row id="1000407" trl="N" eid="">
+    <value column="Name" original="Heat Conductivity">Heat Conductivity</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="D53">D53</value>
+  </row>
+  <row id="1000408" trl="N" eid="">
+    <value column="Name" original="WKY">WKY</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000410" trl="N" eid="">
+    <value column="Name" original="LengthYD">LengthYD</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000412" trl="N" eid="">
+    <value column="Name" original="AreaYD2">AreaYD2</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000414" trl="N" eid="">
+    <value column="Name" original="VolumeYD3">VolumeYD3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000416" trl="N" eid="">
+    <value column="Name" original="Pressurebbl">Pressurebbl</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000418" trl="N" eid="">
+    <value column="Name" original="Pressurebft">Pressurebft</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="B0">B0</value>
+  </row>
+  <row id="1000420" trl="N" eid="">
+    <value column="Name" original="Pressurebgl">Pressurebgl</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000422" trl="N" eid="">
+    <value column="Name" original="Specific energybtl">Specific energybtl</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000424" trl="N" eid="">
+    <value column="Name" original="Pressuregj3">Pressuregj3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000426" trl="N" eid="">
+    <value column="Name" original="Pressuregjm">Pressuregjm</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000428" trl="N" eid="">
+    <value column="Name" original="Specific energygjt">Specific energygjt</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000430" trl="N" eid="">
+    <value column="Name" original="Pressurejm3">Pressurejm3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000432" trl="N" eid="">
+    <value column="Name" original="Densitykgb">Densitykgb</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000433" trl="N" eid="">
+    <value column="Name" original="Mass per Energy">Mass per Energy</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000435" trl="N" eid="">
+    <value column="Name" original="Mass per Energykgm">Mass per Energykgm</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000437" trl="N" eid="">
+    <value column="Name" original="Densitykgs">Densitykgs</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000439" trl="N" eid="">
+    <value column="Name" original="Mass proportionkgt">Mass proportionkgt</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000441" trl="N" eid="">
+    <value column="Name" original="Mole masskml">Mole masskml</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000443" trl="N" eid="">
+    <value column="Name" original="Mass per Energylbb">Mass per Energylbb</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000445" trl="N" eid="">
+    <value column="Name" original="Densitylbg">Densitylbg</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="GE">GE</value>
+  </row>
+  <row id="1000447" trl="N" eid="">
+    <value column="Name" original="Mole masslbl">Mole masslbl</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000449" trl="N" eid="">
+    <value column="Name" original="Mass per Energylbm">Mass per Energylbm</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000451" trl="N" eid="">
+    <value column="Name" original="Densitylbs">Densitylbs</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000453" trl="N" eid="">
+    <value column="Name" original="Mass proportionlbt">Mass proportionlbt</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000455" trl="N" eid="">
+    <value column="Name" original="Pressurembb">Pressurembb</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000457" trl="N" eid="">
+    <value column="Name" original="Specific energymbt">Specific energymbt</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000459" trl="N" eid="">
+    <value column="Name" original="Densitytbl">Densitytbl</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000461" trl="N" eid="">
+    <value column="Name" original="Mass per Energytbt">Mass per Energytbt</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000463" trl="N" eid="">
+    <value column="Name" original="Densitytgl">Densitytgl</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000465" trl="N" eid="">
+    <value column="Name" original="Mass per Energytjl">Mass per Energytjl</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000467" trl="N" eid="">
+    <value column="Name" original="Densitytm3">Densitytm3</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000469" trl="N" eid="">
+    <value column="Name" original="Mass proportiontt">Mass proportiontt</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+  <row id="1000471" trl="N" eid="">
+    <value column="Name" original="Mass per Energyttj">Mass per Energyttj</value>
+    <value column="Description" original="">
+    </value>
+    <value column="UOMSymbol" original="">
+    </value>
+  </row>
+</ViennaTrl>
